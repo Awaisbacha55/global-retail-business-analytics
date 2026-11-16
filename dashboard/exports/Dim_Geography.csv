@@ -1,0 +1,3820 @@
+city,state,country,market,region
+New York City,New York,United States,US,East
+Wollongong,New South Wales,Australia,APAC,Oceania
+Brisbane,Queensland,Australia,APAC,Oceania
+Berlin,Berlin,Germany,EU,Central
+Dakar,Dakar,Senegal,Africa,Africa
+Sydney,New South Wales,Australia,APAC,Oceania
+Porirua,Wellington,New Zealand,APAC,Oceania
+Hamilton,Waikato,New Zealand,APAC,Oceania
+Sacramento,California,United States,US,West
+Concord,North Carolina,United States,US,South
+Alexandria,Virginia,United States,US,South
+Kabul,Kabul,Afghanistan,APAC,Central Asia
+Jizan,Jizan,Saudi Arabia,EMEA,EMEA
+Toledo,Parana,Brazil,LATAM,South
+Mudanjiang,Heilongjiang,China,APAC,North Asia
+Paris,Ile-de-France,France,EU,Central
+Henderson,Kentucky,United States,US,South
+Prato,Tuscany,Italy,EU,South
+Townsville,Queensland,Australia,APAC,Oceania
+Uvinza,Kigoma,Tanzania,Africa,Africa
+Bytom,Silesia,Poland,EMEA,EMEA
+Chicago,Illinois,United States,US,Central
+Suzhou,Anhui,China,APAC,North Asia
+Edinburgh,Scotland,United Kingdom,EU,North
+Juárez,Chihuahua,Mexico,LATAM,North
+Soyapango,San Salvador,El Salvador,LATAM,Central
+Taipei,Taipei City,Taiwan,APAC,North Asia
+Leipzig,Saxony,Germany,EU,Central
+Los Angeles,California,United States,US,West
+Surat,Gujarat,India,APAC,Central Asia
+Santo Domingo,Santo Domingo,Dominican Republic,LATAM,Caribbean
+Saint-Brieuc,Brittany,France,EU,Central
+Amarillo,Texas,United States,US,Central
+Gold Coast,Queensland,Australia,APAC,Oceania
+Fresno,California,United States,US,West
+Kamina,Katanga,Democratic Republic of the Congo,Africa,Africa
+Burlington,North Carolina,United States,US,South
+Stockton-on-Tees,England,United Kingdom,EU,North
+Mataram,Nusa Tenggara Barat,Indonesia,APAC,Southeast Asia
+Gorakhpur,Haryana,India,APAC,Central Asia
+Thiruvananthapuram,Kerala,India,APAC,Central Asia
+Huddersfield,England,United Kingdom,EU,North
+Minneapolis,Minnesota,United States,US,Central
+Montreuil,Ile-de-France,France,EU,Central
+Shouguang,Shandong,China,APAC,North Asia
+Jamshedpur,Jharkhand,India,APAC,Central Asia
+Paysandú,Paysandú,Uruguay,LATAM,South
+Behshahr,Mazandaran,Iran,EMEA,EMEA
+Huntington Beach,California,United States,US,West
+Maputo,Cidade De Maputo,Mozambique,Africa,Africa
+Bhopal,Madhya Pradesh,India,APAC,Central Asia
+Seattle,Washington,United States,US,West
+Delhi,Delhi,India,APAC,Central Asia
+Geraldton,Western Australia,Australia,APAC,Oceania
+Tallahassee,Florida,United States,US,South
+Dhaka,Dhaka,Bangladesh,APAC,Central Asia
+Munster,Lower Saxony,Germany,EU,Central
+Celle,Lower Saxony,Germany,EU,Central
+Wuxi,Jiangsu,China,APAC,North Asia
+Richmond,Virginia,United States,US,South
+Seville,Andalusía,Spain,EU,South
+Raipur,Uttarakhand,India,APAC,Central Asia
+Gómez Palacio,Durango,Mexico,LATAM,North
+Kharkiv,Kharkiv,Ukraine,EMEA,EMEA
+Jinan,Shandong,China,APAC,North Asia
+Chinandega,Chinandega,Nicaragua,LATAM,Central
+Kananga,Kasai-Occidental,Democratic Republic of the Congo,Africa,Africa
+Palembang,Sumatera Selatan,Indonesia,APAC,Southeast Asia
+London,England,United Kingdom,EU,North
+Melbourne,Victoria,Australia,APAC,Oceania
+Atlanta,Georgia,United States,US,South
+Duisburg,North Rhine-Westphalia,Germany,EU,Central
+Nanchong,Sichuan,China,APAC,North Asia
+Naihati,West Bengal,India,APAC,Central Asia
+Lille,Nord-Pas-de-Calais,France,EU,Central
+Meknes,Meknès-Tafilalet,Morocco,Africa,Africa
+Jackson,Michigan,United States,US,Central
+Philadelphia,Pennsylvania,United States,US,East
+Krefeld,North Rhine-Westphalia,Germany,EU,Central
+Bandung,Jawa Barat,Indonesia,APAC,Southeast Asia
+Casablanca,Grand Casablanca,Morocco,Africa,Africa
+Tongi,Dhaka,Bangladesh,APAC,Central Asia
+Henderson,Nevada,United States,US,West
+Montréal,Quebec,Canada,Canada,Canada
+Manila,National Capital,Philippines,APAC,Southeast Asia
+Newcastle,New South Wales,Australia,APAC,Oceania
+Graz,Styria,Austria,EU,Central
+Nowra,New South Wales,Australia,APAC,Oceania
+Boulogne-Billancourt,Ile-de-France,France,EU,Central
+Malakoff,Ile-de-France,France,EU,Central
+Kinshasa,Kinshasa,Democratic Republic of the Congo,Africa,Africa
+Perth,Western Australia,Australia,APAC,Oceania
+Le Bouscat,Aquitaine,France,EU,Central
+Puebla,Puebla,Mexico,LATAM,North
+Augsburg,Bavaria,Germany,EU,Central
+Nice,Provence-Alpes-Côte d'Azur,France,EU,Central
+Medellín,Antioquia,Colombia,LATAM,South
+Bergen op Zoom,North Brabant,Netherlands,EU,Central
+Lakewood,New Jersey,United States,US,East
+Hanover,Lower Saxony,Germany,EU,Central
+Vigo,Galicia,Spain,EU,South
+Gaoyou,Jiangsu,China,APAC,North Asia
+Bremen,Bremen,Germany,EU,Central
+Muret,Midi-Pyrénées,France,EU,Central
+Zigong,Sichuan,China,APAC,North Asia
+Adelaide,South Australia,Australia,APAC,Oceania
+Detroit,Michigan,United States,US,Central
+Chelles,Ile-de-France,France,EU,Central
+Kuantan,Pahang,Malaysia,APAC,Southeast Asia
+Harrisonburg,Virginia,United States,US,South
+Everett,Massachusetts,United States,US,East
+Quito,Pichincha,Ecuador,LATAM,South
+Vadodara,Gujarat,India,APAC,Central Asia
+Sanya,Hainan,China,APAC,North Asia
+Bangkok,Bangkok,Thailand,APAC,Southeast Asia
+San Diego,California,United States,US,West
+Tasikmalaya,Jawa Barat,Indonesia,APAC,Southeast Asia
+Guaymas,Sonora,Mexico,LATAM,North
+Wuhan,Hubei,China,APAC,North Asia
+Madison,Wisconsin,United States,US,Central
+Salto,São Paulo,Brazil,LATAM,South
+Treviso,Veneto,Italy,EU,South
+Hargeysa,Woqooyi Galbeed,Somalia,Africa,Africa
+Long Beach,California,United States,US,West
+Yogyakarta,Yogyakarta,Indonesia,APAC,Southeast Asia
+Anshan,Liaoning,China,APAC,North Asia
+Amsterdam,North Holland,Netherlands,EU,Central
+Le Petit-Quevilly,Upper Normandy,France,EU,Central
+Bochum,North Rhine-Westphalia,Germany,EU,Central
+Hamburg,Hamburg,Germany,EU,Central
+Houston,Texas,United States,US,Central
+Mixco,Guatemala,Guatemala,LATAM,Central
+Yonkers,New York,United States,US,East
+Morelia,Michoacán,Mexico,LATAM,North
+Changchun,Jilin,China,APAC,North Asia
+Madrid,Madrid,Spain,EU,South
+Jeddah,Makkah,Saudi Arabia,EMEA,EMEA
+Norman,Oklahoma,United States,US,Central
+Medan,Sumatera Utara,Indonesia,APAC,Southeast Asia
+Jakarta,Jakarta,Indonesia,APAC,Southeast Asia
+Lancaster,Ohio,United States,US,East
+Surakarta,Jawa Tengah,Indonesia,APAC,Southeast Asia
+Beijing,Beijing,China,APAC,North Asia
+Tulancingo,Hidalgo,Mexico,LATAM,North
+Brest,Brest,Belarus,EMEA,EMEA
+Valencia,Valenciana,Spain,EU,South
+Charlotte,North Carolina,United States,US,South
+Zhytomyr,Zhytomyr,Ukraine,EMEA,EMEA
+Argenteuil,Ile-de-France,France,EU,Central
+Talence,Aquitaine,France,EU,Central
+Aurangabad,Bihar,India,APAC,Central Asia
+Plaisir,Ile-de-France,France,EU,Central
+Harrogate,England,United Kingdom,EU,North
+Phnom Penh,Phnom Penh,Cambodia,APAC,Southeast Asia
+Mackay,Queensland,Australia,APAC,Oceania
+North Las Vegas,Nevada,United States,US,West
+Jambi,Jambi,Indonesia,APAC,Southeast Asia
+Moers,North Rhine-Westphalia,Germany,EU,Central
+Newark,Delaware,United States,US,East
+Shenzhen,Guangdong,China,APAC,North Asia
+Launceston,Tasmania,Australia,APAC,Oceania
+Marikina,National Capital,Philippines,APAC,Southeast Asia
+Johannesburg,Gauteng,South Africa,Africa,Africa
+Barakaldo,Basque Country,Spain,EU,South
+Providence,Rhode Island,United States,US,East
+Long Beach,New York,United States,US,East
+Qingdao,Shandong,China,APAC,North Asia
+San Francisco,California,United States,US,West
+Shiraz,Fars,Iran,EMEA,EMEA
+Bokaro,Jharkhand,India,APAC,Central Asia
+Fuji,Shizuoka,Japan,APAC,North Asia
+Benidorm,Valenciana,Spain,EU,South
+Kozhikode,Kerala,India,APAC,Central Asia
+Kuala Lumpur,Kuala Lumpur,Malaysia,APAC,Southeast Asia
+Astrakhan',Astrakhan',Russia,EMEA,EMEA
+Columbus,Ohio,United States,US,East
+Xiangtan,Hunan,China,APAC,North Asia
+Shaoxing,Zhejiang,China,APAC,North Asia
+Jabalpur,Madhya Pradesh,India,APAC,Central Asia
+Patna,Bihar,India,APAC,Central Asia
+La Baule-Escoublac,Pays de la Loire,France,EU,Central
+Dijon,Burgundy,France,EU,Central
+Cape Town,Western Cape,South Africa,Africa,Africa
+Cairo,Al Qahirah,Egypt,Africa,Africa
+West Bromwich,England,United Kingdom,EU,North
+Baku,Baki,Azerbaijan,EMEA,EMEA
+Burnley,England,United Kingdom,EU,North
+Laval,Pays de la Loire,France,EU,Central
+Vilnius,Vilnius,Lithuania,EMEA,EMEA
+Buenos Aires,Buenos Aires,Argentina,LATAM,South
+Girga,Suhaj,Egypt,Africa,Africa
+Kochi,Kerala,India,APAC,Central Asia
+Maseru,Maseru,Lesotho,Africa,Africa
+Wellington,Wellington,New Zealand,APAC,Oceania
+Luoyang,Henan,China,APAC,North Asia
+Feira de Santana,Bahia,Brazil,LATAM,South
+Matagalpa,Matagalpa,Nicaragua,LATAM,Central
+Virginia Beach,Virginia,United States,US,South
+Managua,Managua,Nicaragua,LATAM,Central
+Wuhai,Inner Mongolia,China,APAC,North Asia
+Nantes,Pays de la Loire,France,EU,Central
+Strasbourg,Alsace,France,EU,Central
+Surabaya,Jawa Timur,Indonesia,APAC,Southeast Asia
+Tupã,São Paulo,Brazil,LATAM,South
+Vienna,Vienna,Austria,EU,Central
+Mexico City,Distrito Federal,Mexico,LATAM,North
+Hobart,Tasmania,Australia,APAC,Oceania
+Hirakata,Osaka,Japan,APAC,North Asia
+Preston,England,United Kingdom,EU,North
+Agra,Uttar Pradesh,India,APAC,Central Asia
+Granollers,Catalonia,Spain,EU,South
+Ho Chi Minh City,Ho Chí Minh City,Vietnam,APAC,Southeast Asia
+Camagüey,Camagüey,Cuba,LATAM,Caribbean
+Morristown,New Jersey,United States,US,East
+Piatra-Neamt,Neamt,Romania,EMEA,EMEA
+Milpa Alta,Distrito Federal,Mexico,LATAM,North
+León,Guanajuato,Mexico,LATAM,North
+Izmir,Izmir,Turkey,EMEA,EMEA
+Coyoacán,Distrito Federal,Mexico,LATAM,North
+Manukau City,Auckland,New Zealand,APAC,Oceania
+Yaounde,Centre,Cameroon,Africa,Africa
+Newcastle upon Tyne,England,United Kingdom,EU,North
+Dehra Dun,Uttarakhand,India,APAC,Central Asia
+Santander,Cantabria,Spain,EU,South
+Cangzhou,Hebei,China,APAC,North Asia
+Shanghai,Shanghai,China,APAC,North Asia
+León,León,Nicaragua,LATAM,Central
+Rybinsk,Yaroslavl',Russia,EMEA,EMEA
+Ibiúna,São Paulo,Brazil,LATAM,South
+Canberra,Australian Capital Territory,Australia,APAC,Oceania
+Port Elizabeth,Eastern Cape,South Africa,Africa,Africa
+Newark,Ohio,United States,US,East
+Cambridge,England,United Kingdom,EU,North
+Kota,Chhattisgarh,India,APAC,Central Asia
+Christchurch,Canterbury,New Zealand,APAC,Oceania
+Vincennes,Ile-de-France,France,EU,Central
+Chongqing,Chongqing,China,APAC,North Asia
+Gyula,Bekes,Hungary,EMEA,EMEA
+Lucknow,Uttar Pradesh,India,APAC,Central Asia
+Florence,Kentucky,United States,US,South
+Turin,Piedmont,Italy,EU,South
+Springfield,Missouri,United States,US,Central
+Singapore,Singapore,Singapore,APAC,Southeast Asia
+Benguela,Benguela,Angola,Africa,Africa
+Lafayette,Indiana,United States,US,Central
+Himeji,Hyogo,Japan,APAC,North Asia
+Kendari,Sulawesi Tenggara,Indonesia,APAC,Southeast Asia
+Mejicanos,San Salvador,El Salvador,LATAM,Central
+Barcelona,Catalonia,Spain,EU,South
+Menton,Provence-Alpes-Côte d'Azur,France,EU,Central
+Huntsville,Alabama,United States,US,South
+Clermont-Ferrand,Auvergne,France,EU,Central
+Buzau,Buzau,Romania,EMEA,EMEA
+Bayeux,Paraíba,Brazil,LATAM,South
+Columbus,Georgia,United States,US,South
+San Antonio,Texas,United States,US,Central
+Darwin,Northern Territory,Australia,APAC,Oceania
+Jamestown,New York,United States,US,East
+Bayeux,Lower Normandy,France,EU,Central
+Lens,Nord-Pas-de-Calais,France,EU,Central
+Lannion,Brittany,France,EU,Central
+Iserlohn,North Rhine-Westphalia,Germany,EU,Central
+Kalemie,Katanga,Democratic Republic of the Congo,Africa,Africa
+Ghent,East Flanders,Belgium,EU,Central
+Indianapolis,Indiana,United States,US,Central
+Marseille,Provence-Alpes-Côte d'Azur,France,EU,Central
+Lahore,Punjab,Pakistan,APAC,Central Asia
+Grenoble,Rhône-Alpes,France,EU,Central
+Espoo,Uusimaa,Finland,EU,North
+Whyalla,South Australia,Australia,APAC,Oceania
+Ivry-sur-Seine,Ile-de-France,France,EU,Central
+Kanpur,Uttar Pradesh,India,APAC,Central Asia
+Saint-Laurent-du-Var,Provence-Alpes-Côte d'Azur,France,EU,Central
+Cartagena,Bolívar,Colombia,LATAM,South
+Cancún,Quintana Roo,Mexico,LATAM,North
+Harbin,Heilongjiang,China,APAC,North Asia
+Kumasi,Ashanti,Ghana,Africa,Africa
+Salem,Tamil Nadu,India,APAC,Central Asia
+Angers,Pays de la Loire,France,EU,Central
+Khorramabad,Lorestan,Iran,EMEA,EMEA
+Chennai,Tamil Nadu,India,APAC,Central Asia
+Barletta,Apulia,Italy,EU,South
+Tamworth,England,United Kingdom,EU,North
+Kulti,West Bengal,India,APAC,Central Asia
+Le Mans,Pays de la Loire,France,EU,Central
+Mianyang,Sichuan,China,APAC,North Asia
+Cadereyta,Nuevo León,Mexico,LATAM,North
+Bundaberg,Queensland,Australia,APAC,Oceania
+Valparaíso de Goiás,Goiás,Brazil,LATAM,South
+Manado,Sulawesi Utara,Indonesia,APAC,Southeast Asia
+Muzaffarpur,Bihar,India,APAC,Central Asia
+Kermanshah,Kermanshah,Iran,EMEA,EMEA
+Thane,Maharashtra,India,APAC,Central Asia
+Piedecuesta,Santander,Colombia,LATAM,South
+Bangalore,Karnataka,India,APAC,Central Asia
+Xiamen,Fujian,China,APAC,North Asia
+Kitwe,Copperbelt,Zambia,Africa,Africa
+Jieyang,Guangdong,China,APAC,North Asia
+Hamamatsu,Shizuoka,Japan,APAC,North Asia
+Ningbo,Zhejiang,China,APAC,North Asia
+Jodhpur,Rajasthan,India,APAC,Central Asia
+Weimar,Thuringia,Germany,EU,Central
+Auckland,Auckland,New Zealand,APAC,Oceania
+Lubumbashi,Katanga,Democratic Republic of the Congo,Africa,Africa
+Franklin,Wisconsin,United States,US,Central
+Omaha,Nebraska,United States,US,Central
+Nagpur,Maharashtra,India,APAC,Central Asia
+Villahermosa,Tabasco,Mexico,LATAM,North
+Oyonnax,Rhône-Alpes,France,EU,Central
+Metepec,México,Mexico,LATAM,North
+Santa Ana,California,United States,US,West
+Antony,Ile-de-France,France,EU,Central
+Culiacán,Sinaloa,Mexico,LATAM,North
+Mobile,Alabama,United States,US,South
+Al Amarah,Maysan,Iraq,EMEA,EMEA
+Mashhad,Razavi Khorasan,Iran,EMEA,EMEA
+Springfield,Virginia,United States,US,South
+Bhavnagar,Gujarat,India,APAC,Central Asia
+Rome,Lazio,Italy,EU,South
+Palma de Mallorca,Balearic Islands,Spain,EU,South
+Saint-Priest,Rhône-Alpes,France,EU,Central
+Gyor,Gyor,Hungary,EMEA,EMEA
+Monrovia,Montserrado,Liberia,Africa,Africa
+Santiago de Cuba,Santiago de Cuba,Cuba,LATAM,Caribbean
+Bogotá,Bogota,Colombia,LATAM,South
+Erlangen,Bavaria,Germany,EU,Central
+Tbilisi,Tbilisi,Georgia,EMEA,EMEA
+Jaipur,Rajasthan,India,APAC,Central Asia
+Suzhou,Gansu,China,APAC,North Asia
+Reggio nell'Emilia,Emilia-Romagna,Italy,EU,South
+Azcapotzalco,Distrito Federal,Mexico,LATAM,North
+Lublin,Lublin,Poland,EMEA,EMEA
+Zurich,Zürich,Switzerland,EU,Central
+Elbasan,Elbasan,Albania,EMEA,EMEA
+Voronezh,Voronezh,Russia,EMEA,EMEA
+Shimonoseki,Yamaguchi,Japan,APAC,North Asia
+Palu,Sulawesi Tengah,Indonesia,APAC,Southeast Asia
+Imphal,Manipur,India,APAC,Central Asia
+Shenyang,Liaoning,China,APAC,North Asia
+Bethlehem,Pennsylvania,United States,US,East
+Koumra,Mandoul,Chad,Africa,Africa
+Ballarat,Victoria,Australia,APAC,Oceania
+Podgorica,Podgorica,Montenegro,EMEA,EMEA
+Ribeirão Preto,São Paulo,Brazil,LATAM,South
+Zapopan,Jalisco,Mexico,LATAM,North
+Guelph,Ontario,Canada,Canada,Canada
+Bellingham,Washington,United States,US,West
+Bordeaux,Aquitaine,France,EU,Central
+Hamadan,Hamadan,Iran,EMEA,EMEA
+Windhoek,Khomas,Namibia,Africa,Africa
+Eindhoven,North Brabant,Netherlands,EU,Central
+Quetzaltenango,Quezaltenango,Guatemala,LATAM,Central
+Antiguo Cuscatlán,La Libertad,El Salvador,LATAM,Central
+Cranston,Rhode Island,United States,US,East
+Guantánamo,Guantánamo,Cuba,LATAM,Caribbean
+Bacolod City,Western Visayas,Philippines,APAC,Southeast Asia
+Kwinana,Western Australia,Australia,APAC,Oceania
+Deuil-la-Barre,Ile-de-France,France,EU,Central
+Lafayette,Louisiana,United States,US,South
+Lisbon,Lisboa,Portugal,EU,South
+Jhansi,Uttar Pradesh,India,APAC,Central Asia
+Amravati,Maharashtra,India,APAC,Central Asia
+Wafangdian,Liaoning,China,APAC,North Asia
+San Juan de la Maguana,San Juan,Dominican Republic,LATAM,Caribbean
+Antananarivo,Analamanga,Madagascar,Africa,Africa
+Ufa,Bashkortostan,Russia,EMEA,EMEA
+Tehran,Tehran,Iran,EMEA,EMEA
+Bendigo,Victoria,Australia,APAC,Oceania
+Quetta,Baluchistan,Pakistan,APAC,Central Asia
+Rovigo,Veneto,Italy,EU,South
+Soacha,Cundinamarca,Colombia,LATAM,South
+Dudley,England,United Kingdom,EU,North
+Vienna,Vienna,Austria,EMEA,EMEA
+Ris-Orangis,Ile-de-France,France,EU,Central
+Levallois-Perret,Ile-de-France,France,EU,Central
+Luts'k,Volyn,Ukraine,EMEA,EMEA
+San Salvador,San Salvador,El Salvador,LATAM,Central
+Lorain,Ohio,United States,US,East
+Stoke-on-Trent,England,United Kingdom,EU,North
+São Paulo,São Paulo,Brazil,LATAM,South
+Huaibei,Anhui,China,APAC,North Asia
+Lehi,Utah,United States,US,West
+Masterton,Wellington,New Zealand,APAC,Oceania
+Whangarei,Northland,New Zealand,APAC,Oceania
+Kunming,Yunnan,China,APAC,North Asia
+Columbia,Missouri,United States,US,Central
+Vancouver,British Columbia,Canada,Canada,Canada
+Pamplona,Navarra,Spain,EU,South
+Haninge,Stockholm,Sweden,EU,North
+Oviedo,Asturias,Spain,EU,South
+Carrollton,Texas,United States,US,Central
+Nasik,Maharashtra,India,APAC,Central Asia
+Torrevieja,Valenciana,Spain,EU,South
+Ube,Yamaguchi,Japan,APAC,North Asia
+Pozzuoli,Campania,Italy,EU,South
+Poltava,Poltava,Ukraine,EMEA,EMEA
+Depok,Yogyakarta,Indonesia,APAC,Southeast Asia
+Regensburg,Bavaria,Germany,EU,Central
+Visakhapatnam,Andhra Pradesh,India,APAC,Central Asia
+Clamart,Ile-de-France,France,EU,Central
+Garbsen,Lower Saxony,Germany,EU,Central
+Jixi,Heilongjiang,China,APAC,North Asia
+Potchefstroom,North-West,South Africa,Africa,Africa
+Vladimir,Vladimir,Russia,EMEA,EMEA
+Burgos,Castile and León,Spain,EU,South
+Kollam,Kerala,India,APAC,Central Asia
+Yangon,Yangon,Myanmar (Burma),APAC,Southeast Asia
+Bondy,Ile-de-France,France,EU,Central
+Mont-de-Marsan,Aquitaine,France,EU,Central
+Lyon,Rhône-Alpes,France,EU,Central
+Depok,Jawa Barat,Indonesia,APAC,Southeast Asia
+Santo André,São Paulo,Brazil,LATAM,South
+Menden,North Rhine-Westphalia,Germany,EU,Central
+Spanish Town,Saint Catherine,Jamaica,LATAM,Caribbean
+Taupo,Waikato,New Zealand,APAC,Oceania
+Fengcheng,Liaoning,China,APAC,North Asia
+Vernon,Upper Normandy,France,EU,Central
+Tianjin,Tianjin,China,APAC,North Asia
+Chihuahua,Chihuahua,Mexico,LATAM,North
+Elx,Valenciana,Spain,EU,South
+Santa Cruz de Barahona,Barahona,Dominican Republic,LATAM,Caribbean
+Brasília,Federal District,Brazil,LATAM,South
+Lanzhou,Gansu,China,APAC,North Asia
+Bologna,Emilia-Romagna,Italy,EU,South
+Alice Springs,Northern Territory,Australia,APAC,Oceania
+Doha,Ad Dawhah,Qatar,EMEA,EMEA
+Velletri,Lazio,Italy,EU,South
+Matsubara,Oita,Japan,APAC,North Asia
+Gloucester,England,United Kingdom,EU,North
+Puteaux,Ile-de-France,France,EU,Central
+Geelong,Victoria,Australia,APAC,Oceania
+Whakatane,Bay of Plenty,New Zealand,APAC,Oceania
+Açu,Rio Grande do Norte,Brazil,LATAM,South
+Colchester,England,United Kingdom,EU,North
+Sandy Springs,Georgia,United States,US,South
+Montpellier,Languedoc-Roussillon,France,EU,Central
+Wetzlar,Hesse,Germany,EU,Central
+Cleveland,Ohio,United States,US,East
+Shashi,Hubei,China,APAC,North Asia
+Chaoyang,Jilin,China,APAC,North Asia
+Rugby,England,United Kingdom,EU,North
+Round Rock,Texas,United States,US,Central
+Saint-Chamond,Rhône-Alpes,France,EU,Central
+Fontenay-aux-Roses,Ile-de-France,France,EU,Central
+Baotou,Inner Mongolia,China,APAC,North Asia
+Fort Worth,Texas,United States,US,Central
+Joinville,Santa Catarina,Brazil,LATAM,South
+Colombo,Parana,Brazil,LATAM,South
+Dover,New Hampshire,United States,US,East
+Jining,Shandong,China,APAC,North Asia
+Zhenjiang,Jiangsu,China,APAC,North Asia
+York,England,United Kingdom,EU,North
+Jining,Inner Mongolia,China,APAC,North Asia
+Mérida,Yucatán,Mexico,LATAM,North
+Villa Nueva,Guatemala,Guatemala,LATAM,Central
+Annecy-le-Vieux,Rhône-Alpes,France,EU,Central
+Drancy,Ile-de-France,France,EU,Central
+Jacksonville,Florida,United States,US,South
+Dar es Salaam,Dar Es Salaam,Tanzania,Africa,Africa
+Nuremberg,Bavaria,Germany,EU,Central
+Concord,California,United States,US,West
+Macheng,Hubei,China,APAC,North Asia
+Beni Mellal,Tadla-Azilal,Morocco,Africa,Africa
+Roswell,Georgia,United States,US,South
+Madurai,Tamil Nadu,India,APAC,Central Asia
+Dortmund,North Rhine-Westphalia,Germany,EU,Central
+Loubomo,Niari,Republic of the Congo,Africa,Africa
+Jiangmen,Guangdong,China,APAC,North Asia
+Troy,Ohio,United States,US,East
+Kaliningrad,Kaliningrad,Russia,EMEA,EMEA
+Kristiansand,Vest-Agder,Norway,EU,North
+Ad Diwaniyah,Al Qadisiyah,Iraq,EMEA,EMEA
+Bayonne,Aquitaine,France,EU,Central
+Avondale,Arizona,United States,US,West
+Fairfield,Ohio,United States,US,East
+San José de las Lajas,Mayabeque,Cuba,LATAM,Caribbean
+Algiers,Alger,Algeria,Africa,Africa
+Lowell,Massachusetts,United States,US,East
+Istanbul,Istanbul,Turkey,EMEA,EMEA
+Kaunas,Kaunas,Lithuania,EMEA,EMEA
+Ardabil,Ardabil,Iran,EMEA,EMEA
+Mexicali,Baja California,Mexico,LATAM,North
+Mecca,Makkah,Saudi Arabia,EMEA,EMEA
+Alexandria,Al Iskandariyah,Egypt,Africa,Africa
+Queanbeyan,New South Wales,Australia,APAC,Oceania
+Guilin,Guangxi,China,APAC,North Asia
+Gaomi,Shandong,China,APAC,North Asia
+Pretoria,Gauteng,South Africa,Africa,Africa
+Blackpool,England,United Kingdom,EU,North
+Schwerin,Mecklenburg-Vorpommern,Germany,EU,Central
+Aligarh,Uttar Pradesh,India,APAC,Central Asia
+Trento,Trentino-Alto Adige,Italy,EU,South
+Ravenna,Emilia-Romagna,Italy,EU,South
+Basel,Basel-Stadt,Switzerland,EU,Central
+Matola,Maputo,Mozambique,Africa,Africa
+Poitiers,Poitou-Charentes,France,EU,Central
+Seoul,Seoul,South Korea,APAC,North Asia
+Mulhouse,Alsace,France,EU,Central
+Milan,Lombardy,Italy,EU,South
+Kota Kinabalu,Sabah,Malaysia,APAC,Southeast Asia
+Denver,Colorado,United States,US,West
+Uberaba,Minas Gerais,Brazil,LATAM,South
+Rueil-Malmaison,Ile-de-France,France,EU,Central
+Crawley,England,United Kingdom,EU,North
+Makurdi,Benue,Nigeria,Africa,Africa
+Tallinn,Harjumaa,Estonia,EMEA,EMEA
+Swansea,Wales,United Kingdom,EU,North
+Paranaguá,Parana,Brazil,LATAM,South
+Samarinda,Kalimantan Timur,Indonesia,APAC,Southeast Asia
+Vijayawada,Andhra Pradesh,India,APAC,Central Asia
+Bandirma,Balikesir,Turkey,EMEA,EMEA
+Gagnoa,Fromager,Cote d'Ivoire,Africa,Africa
+Tegucigalpa,Francisco Morazán,Honduras,LATAM,Central
+Villiers-le-Bel,Ile-de-France,France,EU,Central
+Brampton,Ontario,Canada,Canada,Canada
+Columbia,Maryland,United States,US,East
+Tlaquepaque,Jalisco,Mexico,LATAM,North
+Saint-Denis,Ile-de-France,France,EU,Central
+Mangalore,Karnataka,India,APAC,Central Asia
+Sancti Spíritus,Sancti Spíritus,Cuba,LATAM,Caribbean
+Indaial,Santa Catarina,Brazil,LATAM,South
+Bergen,Hordaland,Norway,EU,North
+Riyadh,Ar Riyad,Saudi Arabia,EMEA,EMEA
+Lucerne,Lucerne,Switzerland,EU,Central
+Fernando de la Mora,Central,Paraguay,LATAM,South
+Noblesville,Indiana,United States,US,Central
+Malayer,Hamadan,Iran,EMEA,EMEA
+Mbuji-mayi,Kasai-Oriental,Democratic Republic of the Congo,Africa,Africa
+Gwalior,Madhya Pradesh,India,APAC,Central Asia
+Luoyang,Fujian,China,APAC,North Asia
+Southend-on-Sea,England,United Kingdom,EU,North
+Thionville,Lorraine,France,EU,Central
+Srinagar,Jammu and Kashmir,India,APAC,Central Asia
+Allahabad,Uttar Pradesh,India,APAC,Central Asia
+Bekasi,Jawa Barat,Indonesia,APAC,Southeast Asia
+Daloa,Haut-Sassandra,Cote d'Ivoire,Africa,Africa
+Saltillo,Coahuila,Mexico,LATAM,North
+Anaheim,California,United States,US,West
+Woking,England,United Kingdom,EU,North
+Baguio City,Cordillera,Philippines,APAC,Southeast Asia
+Magnitogorsk,Chelyabinsk,Russia,EMEA,EMEA
+Varanasi,Uttar Pradesh,India,APAC,Central Asia
+Serra,Espírito Santo,Brazil,LATAM,South
+Florence,Tuscany,Italy,EU,South
+Raleigh,North Carolina,United States,US,South
+Pescara,Abruzzi,Italy,EU,South
+Warwick,Rhode Island,United States,US,East
+Chittagong,Chittagong,Bangladesh,APAC,Central Asia
+Monclova,Coahuila,Mexico,LATAM,North
+Worthing,England,United Kingdom,EU,North
+Lençóis Paulista,São Paulo,Brazil,LATAM,South
+Coffs Harbour,New South Wales,Australia,APAC,Oceania
+Baghdad,Baghdad,Iraq,EMEA,EMEA
+San Severo,Apulia,Italy,EU,South
+San Luis,San Luis,Argentina,LATAM,South
+Guangzhou,Guangdong,China,APAC,North Asia
+Tiruppur,Tamil Nadu,India,APAC,Central Asia
+San Luis Potosí,San Luis Potosí,Mexico,LATAM,North
+Le Chesnay,Ile-de-France,France,EU,Central
+Prague,Prague,Czech Republic,EMEA,EMEA
+Lansing,Michigan,United States,US,Central
+Dieppe,Upper Normandy,France,EU,Central
+Gap,Provence-Alpes-Côte d'Azur,France,EU,Central
+Redlands,California,United States,US,West
+Shuangcheng,Heilongjiang,China,APAC,North Asia
+Bangui,Bangui,Central African Republic,Africa,Africa
+Hastings,Hawke's Bay,New Zealand,APAC,Oceania
+Oakland,California,United States,US,West
+Irapuato,Guanajuato,Mexico,LATAM,North
+Xinyi,Guangdong,China,APAC,North Asia
+Bhilwara,Rajasthan,India,APAC,Central Asia
+Antwerp,Antwerp,Belgium,EU,Central
+Orange,New South Wales,Australia,APAC,Oceania
+Napier,Hawke's Bay,New Zealand,APAC,Oceania
+Torreón,Coahuila,Mexico,LATAM,North
+Noda,Chiba,Japan,APAC,North Asia
+Porto-Novo,Ouémé,Benin,Africa,Africa
+Outreau,Nord-Pas-de-Calais,France,EU,Central
+Burlington,Vermont,United States,US,East
+Muskogee,Oklahoma,United States,US,Central
+Bourg-en-Bresse,Rhône-Alpes,France,EU,Central
+Americana,São Paulo,Brazil,LATAM,South
+Kashan,Esfahan,Iran,EMEA,EMEA
+Sunbury,Victoria,Australia,APAC,Oceania
+Herford,North Rhine-Westphalia,Germany,EU,Central
+Chesapeake,Virginia,United States,US,South
+Cairns,Queensland,Australia,APAC,Oceania
+L'viv,L'viv,Ukraine,EMEA,EMEA
+Oslo,Oslo,Norway,EU,North
+Arbil,Arbil,Iraq,EMEA,EMEA
+Des Moines,Washington,United States,US,West
+Bradford,England,United Kingdom,EU,North
+San Pedro de Macorís,San Pedro de Macorís,Dominican Republic,LATAM,Caribbean
+Estelí,Estelí,Nicaragua,LATAM,Central
+San Sebastian,Basque Country,Spain,EU,South
+Schiltigheim,Alsace,France,EU,Central
+Milwaukee,Wisconsin,United States,US,Central
+Consolación del Sur,Pinar del Río,Cuba,LATAM,Caribbean
+Tangier,Tanger-Tétouan,Morocco,Africa,Africa
+Oruro,Oruro,Bolivia,LATAM,South
+Munich,Bavaria,Germany,EU,Central
+Malegaon,Maharashtra,India,APAC,Central Asia
+Euskirchen,North Rhine-Westphalia,Germany,EU,Central
+Sakai,Gunma,Japan,APAC,North Asia
+Blagoveshchensk,Amur,Russia,EMEA,EMEA
+Tijuana,Baja California,Mexico,LATAM,North
+Hyderabad,Telangana,India,APAC,Central Asia
+Villeneuve-Saint-Georges,Ile-de-France,France,EU,Central
+Takasaki,Gunma,Japan,APAC,North Asia
+Bhilai,Chhattisgarh,India,APAC,Central Asia
+Santa Barbara,California,United States,US,West
+Rochester,New York,United States,US,East
+Durres,Durrës,Albania,EMEA,EMEA
+Frankfurt,Hesse,Germany,EU,Central
+Anqing,Anhui,China,APAC,North Asia
+Victoria,Tamaulipas,Mexico,LATAM,North
+San Gabriel,California,United States,US,West
+Copiapó,Atacama,Chile,LATAM,South
+Cincinnati,Ohio,United States,US,East
+Ensenada,Baja California,Mexico,LATAM,North
+La Romana,La Romana,Dominican Republic,LATAM,Caribbean
+Fort-de-France,Martinique,Martinique,LATAM,Caribbean
+Kingswood,England,United Kingdom,EU,North
+Trier,Rhineland-Palatinate,Germany,EU,Central
+Leeds,England,United Kingdom,EU,North
+Luoyang,Guangdong,China,APAC,North Asia
+Petrópolis,Rio de Janeiro,Brazil,LATAM,South
+Vantaa,Uusimaa,Finland,EU,North
+Watertown,New York,United States,US,East
+Noisy-le-Grand,Ile-de-France,France,EU,Central
+Homs,Hims,Syria,EMEA,EMEA
+Liaoyang,Liaoning,China,APAC,North Asia
+Fayetteville,North Carolina,United States,US,South
+Araguaína,Tocantins,Brazil,LATAM,South
+Denpasar,Bali,Indonesia,APAC,Southeast Asia
+Toulon,Provence-Alpes-Côte d'Azur,France,EU,Central
+Pune,Maharashtra,India,APAC,Central Asia
+Tucson,Arizona,United States,US,West
+Miami,Florida,United States,US,South
+Goyang,Gyeonggi,South Korea,APAC,North Asia
+Kalyan,Maharashtra,India,APAC,Central Asia
+Khulna,Khulna,Bangladesh,APAC,Central Asia
+Avadi,Tamil Nadu,India,APAC,Central Asia
+Semarang,Jawa Tengah,Indonesia,APAC,Southeast Asia
+Stuttgart,Baden-Württemberg,Germany,EU,Central
+Chelyabinsk,Chelyabinsk,Russia,EMEA,EMEA
+Zhanjiang,Guangdong,China,APAC,North Asia
+Greenville,North Carolina,United States,US,South
+Yueyang,Hunan,China,APAC,North Asia
+Pueblo,Colorado,United States,US,West
+Reutlingen,Baden-Württemberg,Germany,EU,Central
+Arras,Nord-Pas-de-Calais,France,EU,Central
+Matsudo,Chiba,Japan,APAC,North Asia
+Bayamo,Granma,Cuba,LATAM,Caribbean
+Reynosa,Tamaulipas,Mexico,LATAM,North
+Chester,England,United Kingdom,EU,North
+Rostock,Mecklenburg-Vorpommern,Germany,EU,Central
+Namur,Namur,Belgium,EU,Central
+Aachen,North Rhine-Westphalia,Germany,EU,Central
+Rasht,Gilan,Iran,EMEA,EMEA
+Grajaú,Maranhão,Brazil,LATAM,South
+Koshigaya,Saitama,Japan,APAC,North Asia
+Beirut,Beirut,Lebanon,EMEA,EMEA
+Huelva,Andalusía,Spain,EU,South
+Hefei,Anhui,China,APAC,North Asia
+Louisville,Kentucky,United States,US,South
+Valenzuela,National Capital,Philippines,APAC,Southeast Asia
+Thanjavur,Tamil Nadu,India,APAC,Central Asia
+Tegal,Jawa Tengah,Indonesia,APAC,Southeast Asia
+Kitchener,Ontario,Canada,Canada,Canada
+Sevran,Ile-de-France,France,EU,Central
+Hastings,England,United Kingdom,EU,North
+Halmstad,Halland,Sweden,EU,North
+Amstelveen,North Holland,Netherlands,EU,Central
+Portici,Campania,Italy,EU,South
+Toledo,Ohio,United States,US,East
+Sparks,Nevada,United States,US,West
+Murray Bridge,South Australia,Australia,APAC,Oceania
+Tengzhou,Shandong,China,APAC,North Asia
+Bagneux,Ile-de-France,France,EU,Central
+Balikpapan,Kalimantan Timur,Indonesia,APAC,Southeast Asia
+Bhatinda,Punjab,India,APAC,Central Asia
+Poza Rica de Hidalgo,Veracruz,Mexico,LATAM,North
+Colmar,Alsace,France,EU,Central
+Clichy-sous-Bois,Ile-de-France,France,EU,Central
+La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur,France,EU,Central
+Antipolo,Calabarzon,Philippines,APAC,Southeast Asia
+Creil,Picardy,France,EU,Central
+Curitiba,Parana,Brazil,LATAM,South
+Sale,Rabat-Salé-Zemmour-Zaer,Morocco,Africa,Africa
+Albury,New South Wales,Australia,APAC,Oceania
+Kutahya,Kutahya,Turkey,EMEA,EMEA
+Daqing,Heilongjiang,China,APAC,North Asia
+Waynesboro,Virginia,United States,US,South
+Rockhampton,Queensland,Australia,APAC,Oceania
+Accra,Greater Accra,Ghana,Africa,Africa
+Conselheiro Lafaiete,Minas Gerais,Brazil,LATAM,South
+Jiangdu,Jiangsu,China,APAC,North Asia
+Cochabamba,Cochabamba,Bolivia,LATAM,South
+Wolverhampton,England,United Kingdom,EU,North
+Mumbai,Maharashtra,India,APAC,Central Asia
+Caloundra,Queensland,Australia,APAC,Oceania
+Talcahuano,Biobio,Chile,LATAM,South
+Santiago,Santiago,Chile,LATAM,South
+Nairobi,Nairobi,Kenya,Africa,Africa
+Aurora,Illinois,United States,US,Central
+New Plymouth,Taranaki,New Zealand,APAC,Oceania
+Sesto San Giovanni,Lombardy,Italy,EU,South
+Florence,Alabama,United States,US,South
+Tangshan,Hebei,China,APAC,North Asia
+Edmonton,Alberta,Canada,Canada,Canada
+Lismore,New South Wales,Australia,APAC,Oceania
+Sikasso,Sikasso,Mali,Africa,Africa
+Macapá,Amapá,Brazil,LATAM,South
+Nottingham,England,United Kingdom,EU,North
+Mandurah,Western Australia,Australia,APAC,Oceania
+Venice,Veneto,Italy,EU,South
+Dormagen,North Rhine-Westphalia,Germany,EU,Central
+Bilbao,Basque Country,Spain,EU,South
+Bagcilar,Istanbul,Turkey,EMEA,EMEA
+Bressuire,Poitou-Charentes,France,EU,Central
+Houilles,Ile-de-France,France,EU,Central
+Solapur,Maharashtra,India,APAC,Central Asia
+Capannori,Tuscany,Italy,EU,South
+Kawagoe,Saitama,Japan,APAC,North Asia
+Yangzhou,Jiangsu,China,APAC,North Asia
+Monterrey,Nuevo León,Mexico,LATAM,North
+Ann Arbor,Michigan,United States,US,Central
+Misratah,Misratah,Libya,Africa,Africa
+Tlalpan,Distrito Federal,Mexico,LATAM,North
+Matanzas,Matanzas,Cuba,LATAM,Caribbean
+Can Tho,T?nh C?n Th?,Vietnam,APAC,Southeast Asia
+Greenwood,Indiana,United States,US,Central
+Las Tunas,Las Tunas,Cuba,LATAM,Caribbean
+Phoenix,Arizona,United States,US,West
+Villeneuve-le-Roi,Ile-de-France,France,EU,Central
+Vitrolles,Provence-Alpes-Côte d'Azur,France,EU,Central
+Tiruchchirappalli,Tamil Nadu,India,APAC,Central Asia
+Hengyang,Hunan,China,APAC,North Asia
+Hialeah,Florida,United States,US,South
+Marietta,Georgia,United States,US,South
+Ilopango,San Salvador,El Salvador,LATAM,Central
+Torbali,Izmir,Turkey,EMEA,EMEA
+Bhiwandi,Maharashtra,India,APAC,Central Asia
+Palmerston North,Manawatu-Wanganui,New Zealand,APAC,Oceania
+Kaifeng,Henan,China,APAC,North Asia
+Thornton,Colorado,United States,US,West
+Georgetown,Kentucky,United States,US,South
+Villa Alemana,Valparaíso,Chile,LATAM,South
+Tlalnepantla,México,Mexico,LATAM,North
+São Gonçalo,Rio de Janeiro,Brazil,LATAM,South
+Richmond,Kentucky,United States,US,South
+Katowice,Silesia,Poland,EMEA,EMEA
+Carora,Lara,Venezuela,LATAM,South
+Orihuela,Valenciana,Spain,EU,South
+Tulsa,Oklahoma,United States,US,Central
+Fasa,Fars,Iran,EMEA,EMEA
+San Fernando,San Fernando,Trinidad and Tobago,LATAM,Caribbean
+Mainz,Rhineland-Palatinate,Germany,EU,Central
+Gronau,North Rhine-Westphalia,Germany,EU,Central
+Bengbu,Anhui,China,APAC,North Asia
+Dublin,Dublin,Ireland,EU,North
+Antibes,Provence-Alpes-Côte d'Azur,France,EU,Central
+Natal,Rio Grande do Norte,Brazil,LATAM,South
+Concarneau,Brittany,France,EU,Central
+Lakeland,Florida,United States,US,South
+Brentwood,California,United States,US,West
+Solingen,North Rhine-Westphalia,Germany,EU,Central
+Palmerston,Northern Territory,Australia,APAC,Oceania
+Marrakech,Marrakech-Tensift-El Haouz,Morocco,Africa,Africa
+Cologne,North Rhine-Westphalia,Germany,EU,Central
+Reading,England,United Kingdom,EU,North
+Xinshi,Hubei,China,APAC,North Asia
+Sofia,Sofiya-Grad,Bulgaria,EMEA,EMEA
+Kryvyy Rih,Dnipropetrovs'k,Ukraine,EMEA,EMEA
+Cachan,Ile-de-France,France,EU,Central
+Carlisle,England,United Kingdom,EU,North
+Pleasant Grove,Utah,United States,US,West
+Montenegro,Quindío,Colombia,LATAM,South
+Asheville,North Carolina,United States,US,South
+Ipoh,Perak,Malaysia,APAC,Southeast Asia
+Xiaogan,Hubei,China,APAC,North Asia
+Yuci,Shanxi,China,APAC,North Asia
+Makhachkala,Dagestan,Russia,EMEA,EMEA
+Gongzhuling,Jilin,China,APAC,North Asia
+Devonport,Tasmania,Australia,APAC,Oceania
+Bottrop,North Rhine-Westphalia,Germany,EU,Central
+Jember,Jawa Timur,Indonesia,APAC,Southeast Asia
+Shulan,Jilin,China,APAC,North Asia
+Ulm,Baden-Württemberg,Germany,EU,Central
+Sheffield,England,United Kingdom,EU,North
+Guelma,Guelma,Algeria,Africa,Africa
+Stockholm,Stockholm,Sweden,EU,North
+Liaocheng,Shandong,China,APAC,North Asia
+Innsbruck,Tyrol,Austria,EU,Central
+Shantou,Guangdong,China,APAC,North Asia
+Rockford,Illinois,United States,US,Central
+Panama City,Panama,Panama,LATAM,Central
+Cabo de Santo Agostinho,Pernambuco,Brazil,LATAM,South
+Castrop-Rauxel,North Rhine-Westphalia,Germany,EU,Central
+Saint-Germain-en-Laye,Ile-de-France,France,EU,Central
+Cuttack,Odisha,India,APAC,Central Asia
+Tilburg,North Brabant,Netherlands,EU,Central
+Parla,Madrid,Spain,EU,South
+Ludhiana,Punjab,India,APAC,Central Asia
+Xinzhou,Shanxi,China,APAC,North Asia
+Glendale,Arizona,United States,US,West
+La Rochelle,Poitou-Charentes,France,EU,Central
+Soledad,Atlántico,Colombia,LATAM,South
+Ramat Aviv,Tel Aviv,Israel,EMEA,EMEA
+Paulista,Pernambuco,Brazil,LATAM,South
+Wagga Wagga,New South Wales,Australia,APAC,Oceania
+Lunel,Languedoc-Roussillon,France,EU,Central
+Cajazeiras,Paraíba,Brazil,LATAM,South
+Laiyang,Shandong,China,APAC,North Asia
+Guyancourt,Ile-de-France,France,EU,Central
+Zamora,Castile and León,Spain,EU,South
+Dallas,Texas,United States,US,Central
+Lagos,Lagos,Nigeria,Africa,Africa
+Ninghai,Shandong,China,APAC,North Asia
+Bogor,Jawa Barat,Indonesia,APAC,Southeast Asia
+Nancy,Lorraine,France,EU,Central
+Bello,Antioquia,Colombia,LATAM,South
+Chimaltenango,Chimaltenango,Guatemala,LATAM,Central
+Toronto,Ontario,Canada,Canada,Canada
+El Prat de Llobregat,Catalonia,Spain,EU,South
+Pematangsiantar,Sumatera Utara,Indonesia,APAC,Southeast Asia
+Albacete,Castile-La Mancha,Spain,EU,South
+Santa Clara,Villa Clara,Cuba,LATAM,Caribbean
+Maringá,Parana,Brazil,LATAM,South
+Osorno,Los Lagos,Chile,LATAM,South
+Brindisi,Apulia,Italy,EU,South
+Doncaster,England,United Kingdom,EU,North
+Fremont,Nebraska,United States,US,Central
+Santa Catarina,Nuevo León,Mexico,LATAM,North
+Annaba,Annaba,Algeria,Africa,Africa
+Utrecht,Utrecht,Netherlands,EU,Central
+Nagasaki,Nagasaki,Japan,APAC,North Asia
+Albany,Western Australia,Australia,APAC,Oceania
+Las Pinas,National Capital,Philippines,APAC,Southeast Asia
+Westminster,California,United States,US,West
+Shah Alam,Selangor,Malaysia,APAC,Southeast Asia
+Birmingham,England,United Kingdom,EU,North
+Rach Gia,Kiên Giang,Vietnam,APAC,Southeast Asia
+Dongguan,Guangdong,China,APAC,North Asia
+Fontainebleau,Ile-de-France,France,EU,Central
+Santa Cruz de la Sierra,Santa Cruz,Bolivia,LATAM,South
+Donets'k,Donetsk,Ukraine,EMEA,EMEA
+Jacksonville,North Carolina,United States,US,South
+Cardiff,Wales,United Kingdom,EU,North
+Spokane,Washington,United States,US,West
+Villeurbanne,Rhône-Alpes,France,EU,Central
+Nicolás Romero,México,Mexico,LATAM,North
+Chililabombwe,Copperbelt,Zambia,Africa,Africa
+Baltimore,Maryland,United States,US,East
+Nanterre,Ile-de-France,France,EU,Central
+Shihezi,Xinjiang Uygur,China,APAC,North Asia
+Givors,Rhône-Alpes,France,EU,Central
+Carrefour,Ouest,Haiti,LATAM,Caribbean
+Brasov,Brasov,Romania,EMEA,EMEA
+Vichy,Auvergne,France,EU,Central
+Kure,Hiroshima,Japan,APAC,North Asia
+Derby,England,United Kingdom,EU,North
+Arnhem,Gelderland,Netherlands,EU,Central
+Aprilia,Lazio,Italy,EU,South
+Waitakere,Auckland,New Zealand,APAC,Oceania
+Fargo,North Dakota,United States,US,Central
+Aurora,Colorado,United States,US,West
+Hanoi,Th? Dô Hà N?i,Vietnam,APAC,Southeast Asia
+Genk,Limburg,Belgium,EU,Central
+Castanhal,Pará,Brazil,LATAM,South
+La Spezia,Liguria,Italy,EU,South
+Jiangyan,Jiangsu,China,APAC,North Asia
+Wilmington,Delaware,United States,US,East
+Fairfield,Connecticut,United States,US,East
+Littlehampton,England,United Kingdom,EU,North
+Padang,Sumatera Barat,Indonesia,APAC,Southeast Asia
+Yunyang,Henan,China,APAC,North Asia
+Fatehpur,Rajasthan,India,APAC,Central Asia
+Changshu,Jiangsu,China,APAC,North Asia
+Quevedo,Los Rios,Ecuador,LATAM,South
+Changzhou,Jiangsu,China,APAC,North Asia
+Sakaka,Al Jawf,Saudi Arabia,EMEA,EMEA
+Saint-Dizier,Champagne-Ardenne,France,EU,Central
+Stourbridge,England,United Kingdom,EU,North
+Presidente Dutra,Maranhão,Brazil,LATAM,South
+El Paso,Texas,United States,US,Central
+Bognor Regis,England,United Kingdom,EU,North
+Xuzhou,Jiangsu,China,APAC,North Asia
+Ninghai,Zhejiang,China,APAC,North Asia
+Bridgetown,Saint Michael,Barbados,LATAM,Caribbean
+Fort Lauderdale,Florida,United States,US,South
+Beauvais,Picardy,France,EU,Central
+South Shields,England,United Kingdom,EU,North
+Manchester,Connecticut,United States,US,East
+Nuevo Laredo,Tamaulipas,Mexico,LATAM,North
+Kano,Kano,Nigeria,Africa,Africa
+Dewas,Madhya Pradesh,India,APAC,Central Asia
+Puertollano,Castile-La Mancha,Spain,EU,South
+Lawrence,Massachusetts,United States,US,East
+Bonn,North Rhine-Westphalia,Germany,EU,Central
+Danville,California,United States,US,West
+Arles,Provence-Alpes-Côte d'Azur,France,EU,Central
+Murcia,Murcia,Spain,EU,South
+Liverpool,England,United Kingdom,EU,North
+Fes,Fès-Boulemane,Morocco,Africa,Africa
+Farnborough,England,United Kingdom,EU,North
+Suining,Sichuan,China,APAC,North Asia
+Herne,North Rhine-Westphalia,Germany,EU,Central
+Ciego de Ávila,Ciego de Ávila,Cuba,LATAM,Caribbean
+Arkhangelsk,Arkhangel'sk,Russia,EMEA,EMEA
+Ljubljana,Ljubljana,Slovenia,EMEA,EMEA
+Marion,Ohio,United States,US,East
+Mount Isa,Queensland,Australia,APAC,Oceania
+Nizhyn,Chernihiv,Ukraine,EMEA,EMEA
+Bamako,Bamako,Mali,Africa,Africa
+Montevideo,Montevideo,Uruguay,LATAM,South
+Tepic,Nayarit,Mexico,LATAM,North
+Dnipropetrovs'k,Dnipropetrovs'k,Ukraine,EMEA,EMEA
+Gorakhpur,Uttar Pradesh,India,APAC,Central Asia
+Catania,Sicily,Italy,EU,South
+Grigny,Ile-de-France,France,EU,Central
+Yibin,Sichuan,China,APAC,North Asia
+Mahajanga,Boeny,Madagascar,Africa,Africa
+Saida,Saida,Algeria,Africa,Africa
+Cergy,Ile-de-France,France,EU,Central
+Arzgir,Stavropol',Russia,EMEA,EMEA
+Gravesend,England,United Kingdom,EU,North
+Mentougou,Beijing,China,APAC,North Asia
+Nampula,Nampula,Mozambique,Africa,Africa
+Edmonds,Washington,United States,US,West
+Traralgon,Victoria,Australia,APAC,Oceania
+Vinnytsya,Vinnytsya,Ukraine,EMEA,EMEA
+Evanston,Illinois,United States,US,Central
+Bossier City,Louisiana,United States,US,South
+Timaru,Canterbury,New Zealand,APAC,Oceania
+Libourne,Aquitaine,France,EU,Central
+Tampa,Florida,United States,US,South
+Ashdod,Southern,Israel,EMEA,EMEA
+Patrocínio,Minas Gerais,Brazil,LATAM,South
+Slough,England,United Kingdom,EU,North
+Rennes,Brittany,France,EU,Central
+Datong,Shanxi,China,APAC,North Asia
+Oberhausen,North Rhine-Westphalia,Germany,EU,Central
+Chipata,Eastern,Zambia,Africa,Africa
+Galati,Galati,Romania,EMEA,EMEA
+Toowoomba,Queensland,Australia,APAC,Oceania
+Bry-sur-Marne,Ile-de-France,France,EU,Central
+Balneário Camboriú,Santa Catarina,Brazil,LATAM,South
+Dreux,Centre,France,EU,Central
+Toulouse,Midi-Pyrénées,France,EU,Central
+Benghazi,Banghazi,Libya,Africa,Africa
+Bacoor,Calabarzon,Philippines,APAC,Southeast Asia
+Nanning,Guangxi,China,APAC,North Asia
+Stolberg,North Rhine-Westphalia,Germany,EU,Central
+Bari,Apulia,Italy,EU,South
+Xining,Qinghai,China,APAC,North Asia
+Tabuk,Tabuk,Saudi Arabia,EMEA,EMEA
+Guiyang,Guizhou,China,APAC,North Asia
+Durango,Durango,Mexico,LATAM,North
+Kenosha,Wisconsin,United States,US,Central
+Tokyo,Tokyo,Japan,APAC,North Asia
+Bene Beraq,Tel Aviv,Israel,EMEA,EMEA
+Rotherham,England,United Kingdom,EU,North
+Cork,Cork,Ireland,EU,North
+Columbus,Indiana,United States,US,Central
+Roodepoort,Gauteng,South Africa,Africa,Africa
+Fontaine,Rhône-Alpes,France,EU,Central
+Rabat,Rabat-Salé-Zemmour-Zaer,Morocco,Africa,Africa
+Temecula,California,United States,US,West
+José Bonifácio,São Paulo,Brazil,LATAM,South
+Lusaka,Lusaka,Zambia,Africa,Africa
+Basra,Al Basrah,Iraq,EMEA,EMEA
+Apple Valley,California,United States,US,West
+Meizhou,Guangdong,China,APAC,North Asia
+Guasave,Sinaloa,Mexico,LATAM,North
+Richardson,Texas,United States,US,Central
+Santana de Parnaíba,São Paulo,Brazil,LATAM,South
+Montgomery,Alabama,United States,US,South
+Austin,Texas,United States,US,Central
+Aubervilliers,Ile-de-France,France,EU,Central
+Upper Hutt,Wellington,New Zealand,APAC,Oceania
+Neuilly-sur-Seine,Ile-de-France,France,EU,Central
+Faridabad,Haryana,India,APAC,Central Asia
+Fairfield,California,United States,US,West
+Santa Ana,Santa Ana,El Salvador,LATAM,Central
+Le Havre,Upper Normandy,France,EU,Central
+Mwanza,Mwanza,Tanzania,Africa,Africa
+Orem,Utah,United States,US,West
+Petapa,Guatemala,Guatemala,LATAM,Central
+Newport News,Virginia,United States,US,South
+Miramas,Provence-Alpes-Côte d'Azur,France,EU,Central
+Mabopane,Gauteng,South Africa,Africa,Africa
+David,Chiriquí,Panama,LATAM,Central
+Dos Hermanas,Andalusía,Spain,EU,South
+Villa Frontera,Coahuila,Mexico,LATAM,North
+Franklin,Massachusetts,United States,US,East
+Suzhou,Jiangsu,China,APAC,North Asia
+Hartlepool,England,United Kingdom,EU,North
+Orizaba,Veracruz,Mexico,LATAM,North
+Lázaro Cárdenas,Michoacán,Mexico,LATAM,North
+Busan,Busan,South Korea,APAC,North Asia
+Pearland,Texas,United States,US,Central
+Holguín,Holguín,Cuba,LATAM,Caribbean
+Korba,Chhattisgarh,India,APAC,Central Asia
+Viterbo,Lazio,Italy,EU,South
+Carcassonne,Languedoc-Roussillon,France,EU,Central
+Villach,Carinthia,Austria,EU,Central
+Altamura,Apulia,Italy,EU,South
+Longmont,Colorado,United States,US,West
+Ezhou,Hubei,China,APAC,North Asia
+Escuintla,Escuintla,Guatemala,LATAM,Central
+Gujranwala,Punjab,Pakistan,APAC,Central Asia
+Jena,Thuringia,Germany,EU,Central
+Oxford,England,United Kingdom,EU,North
+Anantapur,Andhra Pradesh,India,APAC,Central Asia
+Qom,Qom,Iran,EMEA,EMEA
+Jiaozuo,Henan,China,APAC,North Asia
+Portsmouth,England,United Kingdom,EU,North
+Hildesheim,Lower Saxony,Germany,EU,Central
+Sunderland,England,United Kingdom,EU,North
+Al Mahallah al Kubra,Al Gharbiyah,Egypt,Africa,Africa
+La Plata,Provincia de Buenos Aires,Argentina,LATAM,South
+Landskrona,Skåne,Sweden,EU,North
+Helsinki,Uusimaa,Finland,EU,North
+Las Vegas,Nevada,United States,US,West
+Budapest,Budapest,Hungary,EMEA,EMEA
+Bath,England,United Kingdom,EU,North
+Lome,Maritime,Togo,Africa,Africa
+Ferrara,Emilia-Romagna,Italy,EU,South
+Palaiseau,Ile-de-France,France,EU,Central
+Gateshead,England,United Kingdom,EU,North
+Saint-Louis,Alsace,France,EU,Central
+Plainfield,New Jersey,United States,US,East
+Itamaraju,Bahia,Brazil,LATAM,South
+Coventry,England,United Kingdom,EU,North
+Villeneuve-d'Ascq,Nord-Pas-de-Calais,France,EU,Central
+Mathura,Uttar Pradesh,India,APAC,Central Asia
+Wilhelmshaven,Lower Saxony,Germany,EU,Central
+Hurghada,Al Bahr Al Ahmar,Egypt,Africa,Africa
+Gaya,Bihar,India,APAC,Central Asia
+Toul,Lorraine,France,EU,Central
+Arusha,Arusha,Tanzania,Africa,Africa
+Ibirité,Minas Gerais,Brazil,LATAM,South
+Guadalajara,Jalisco,Mexico,LATAM,North
+Ciudad del Carmen,Campeche,Mexico,LATAM,North
+Kolhapur,Maharashtra,India,APAC,Central Asia
+Valles,San Luis Potosí,Mexico,LATAM,North
+Beverly,Massachusetts,United States,US,East
+Buffalo,New York,United States,US,East
+Kassel,Hesse,Germany,EU,Central
+Greensboro,North Carolina,United States,US,South
+La Vega,La Vega,Dominican Republic,LATAM,Caribbean
+Nouakchott,Nouakchott,Mauritania,Africa,Africa
+Saint-Louis,Saint-Louis,Senegal,Africa,Africa
+Santa Marta,Magdalena,Colombia,LATAM,South
+Córdoba,Córdoba,Argentina,LATAM,South
+George,Western Cape,South Africa,Africa,Africa
+Sindelfingen,Baden-Württemberg,Germany,EU,Central
+Kawaguchi,Chiba,Japan,APAC,North Asia
+Villa Canales,Guatemala,Guatemala,LATAM,Central
+Zunyi,Guizhou,China,APAC,North Asia
+Wuchang,Heilongjiang,China,APAC,North Asia
+Hermosillo,Sonora,Mexico,LATAM,North
+Douai,Nord-Pas-de-Calais,France,EU,Central
+Fukuyama,Hiroshima,Japan,APAC,North Asia
+Dabrowa Gornicza,Silesia,Poland,EMEA,EMEA
+Essen,North Rhine-Westphalia,Germany,EU,Central
+Gresham,Oregon,United States,US,West
+Santiago de Compostela,Galicia,Spain,EU,South
+Paraparaumu,Wellington,New Zealand,APAC,Oceania
+San Juan,San Juan,Argentina,LATAM,South
+Manaus,Amazonas,Brazil,LATAM,South
+Mantes-la-Jolie,Ile-de-France,France,EU,Central
+Glasgow,Scotland,United Kingdom,EU,North
+Reno,Nevada,United States,US,West
+Pontivy,Brittany,France,EU,Central
+Tauranga,Bay of Plenty,New Zealand,APAC,Oceania
+The Hague,South Holland,Netherlands,EU,Central
+Karlstad,Värmland,Sweden,EU,North
+Rajkot,Gujarat,India,APAC,Central Asia
+Satna,Madhya Pradesh,India,APAC,Central Asia
+Yulin,Shaanxi,China,APAC,North Asia
+Manzanillo,Granma,Cuba,LATAM,Caribbean
+Karbala',Karbala',Iraq,EMEA,EMEA
+Hrodna,Hrodna,Belarus,EMEA,EMEA
+Clarksville,Tennessee,United States,US,South
+Guangshui,Hubei,China,APAC,North Asia
+Bikaner,Rajasthan,India,APAC,Central Asia
+Indore,Madhya Pradesh,India,APAC,Central Asia
+Wigan,England,United Kingdom,EU,North
+Beykoz,Istanbul,Turkey,EMEA,EMEA
+Le Cannet,Provence-Alpes-Côte d'Azur,France,EU,Central
+Columbia,South Carolina,United States,US,South
+Tirupati,Andhra Pradesh,India,APAC,Central Asia
+Manizales,Caldas,Colombia,LATAM,South
+Conflans-Sainte-Honorine,Ile-de-France,France,EU,Central
+Leicester,England,United Kingdom,EU,North
+Luanda,Luanda,Angola,Africa,Africa
+Mbandaka,Equateur,Democratic Republic of the Congo,Africa,Africa
+Cuernavaca,Morelos,Mexico,LATAM,North
+San Pedro Sula,Cortés,Honduras,LATAM,Central
+Jinjiang,Fujian,China,APAC,North Asia
+Zhaoqing,Guangdong,China,APAC,North Asia
+Broken Arrow,Oklahoma,United States,US,Central
+Ponferrada,Castile and León,Spain,EU,South
+Yerres,Ile-de-France,France,EU,Central
+Lawrence,Indiana,United States,US,Central
+Blenheim,Marlborough,New Zealand,APAC,Oceania
+Rillieux-la-Pape,Rhône-Alpes,France,EU,Central
+Luohe,Henan,China,APAC,North Asia
+Spijkenisse,South Holland,Netherlands,EU,Central
+Nzerekore,Nzérékoré,Guinea,Africa,Africa
+Zaria,Kaduna,Nigeria,Africa,Africa
+Bielefeld,North Rhine-Westphalia,Germany,EU,Central
+Stains,Ile-de-France,France,EU,Central
+San Francisco de Macorís,Duarte,Dominican Republic,LATAM,Caribbean
+Lecce,Apulia,Italy,EU,South
+Colorado Springs,Colorado,United States,US,West
+São Luís,Maranhão,Brazil,LATAM,South
+Bagnolet,Ile-de-France,France,EU,Central
+Qitaihe,Heilongjiang,China,APAC,North Asia
+Meerut,Uttar Pradesh,India,APAC,Central Asia
+Shumen,Shumen,Bulgaria,EMEA,EMEA
+Ponte Nova,Minas Gerais,Brazil,LATAM,South
+Jinhua,Zhejiang,China,APAC,North Asia
+Cheltenham,England,United Kingdom,EU,North
+Kaduna,Kaduna,Nigeria,Africa,Africa
+Breda,North Brabant,Netherlands,EU,Central
+Valladolid,Castile and León,Spain,EU,South
+Courbevoie,Ile-de-France,France,EU,Central
+Fuengirola,Andalusía,Spain,EU,South
+Charleroi,Hainaut,Belgium,EU,Central
+Oran,Oran,Algeria,Africa,Africa
+Kigali,Kigali,Rwanda,Africa,Africa
+Adana,Adana,Turkey,EMEA,EMEA
+Nova Serrana,Minas Gerais,Brazil,LATAM,South
+Guadalajara,Castile-La Mancha,Spain,EU,South
+Oklahoma City,Oklahoma,United States,US,Central
+Santa Helena,Maranhão,Brazil,LATAM,South
+Great Falls,Montana,United States,US,West
+Belo Horizonte,Minas Gerais,Brazil,LATAM,South
+North York,Ontario,Canada,Canada,Canada
+Lakeville,Minnesota,United States,US,Central
+Atakpame,Plateaux,Togo,Africa,Africa
+Amadora,Lisboa,Portugal,EU,South
+Pekanbaru,Riau,Indonesia,APAC,Southeast Asia
+Louisville,Colorado,United States,US,West
+Smyrna,Georgia,United States,US,South
+Saint Cloud,Minnesota,United States,US,Central
+Jamundí,Valle del Cauca,Colombia,LATAM,South
+Foumban,Ouest,Cameroon,Africa,Africa
+Jilin,Jilin,China,APAC,North Asia
+Versailles,Ile-de-France,France,EU,Central
+Lorca,Murcia,Spain,EU,South
+Langenhagen,Lower Saxony,Germany,EU,Central
+Caucaia,Ceará,Brazil,LATAM,South
+Borujerd,Lorestan,Iran,EMEA,EMEA
+Fortaleza,Ceará,Brazil,LATAM,South
+Anyang,Gyeonggi,South Korea,APAC,North Asia
+Apodaca,Nuevo León,Mexico,LATAM,North
+Parbhani,Maharashtra,India,APAC,Central Asia
+Kita-ku,Osaka,Japan,APAC,North Asia
+Likasi,Katanga,Democratic Republic of the Congo,Africa,Africa
+Bom Jesus da Lapa,Bahia,Brazil,LATAM,South
+Arlington,Virginia,United States,US,South
+Appleton,Wisconsin,United States,US,Central
+Apopa,San Salvador,El Salvador,LATAM,Central
+Asti,Piedmont,Italy,EU,South
+Mauá,São Paulo,Brazil,LATAM,South
+Ranchi,Jharkhand,India,APAC,Central Asia
+Brest,Brittany,France,EU,Central
+Newcastle,Kwazulu-natal,South Africa,Africa,Africa
+Luhans'k,Luhans'k,Ukraine,EMEA,EMEA
+Geneva,Geneva,Switzerland,EU,Central
+Hautmont,Nord-Pas-de-Calais,France,EU,Central
+Offenburg,Baden-Württemberg,Germany,EU,Central
+Ananindeua,Pará,Brazil,LATAM,South
+Nagercoil,Tamil Nadu,India,APAC,Central Asia
+Iguala,Guerrero,Mexico,LATAM,North
+Portland,Oregon,United States,US,West
+Comodoro Rivadavia,Chubut,Argentina,LATAM,South
+Nizamabad,Telangana,India,APAC,Central Asia
+Meriden,Connecticut,United States,US,East
+Resistencia,Chaco,Argentina,LATAM,South
+Bijie,Guizhou,China,APAC,North Asia
+Copenhagen,Hovedstaden,Denmark,EU,North
+Niamey,Niamey,Niger,Africa,Africa
+Evry,Ile-de-France,France,EU,Central
+Bourges,Centre,France,EU,Central
+Great Yarmouth,England,United Kingdom,EU,North
+Nashville,Tennessee,United States,US,South
+Draguignan,Provence-Alpes-Côte d'Azur,France,EU,Central
+Jiutepec,Morelos,Mexico,LATAM,North
+Hamm,North Rhine-Westphalia,Germany,EU,Central
+Bareilly,Uttar Pradesh,India,APAC,Central Asia
+Mamak,Ankara,Turkey,EMEA,EMEA
+Sannois,Ile-de-France,France,EU,Central
+Toluca,México,Mexico,LATAM,North
+Linz,Upper Austria,Austria,EU,Central
+Dubuque,Iowa,United States,US,Central
+Port Moresby,National Capital,Papua New Guinea,APAC,Oceania
+Kerman,Kerman,Iran,EMEA,EMEA
+Lakewood,Ohio,United States,US,East
+La Ceiba,Atlántida,Honduras,LATAM,Central
+Port Macquarie,New South Wales,Australia,APAC,Oceania
+Nelson,Nelson,New Zealand,APAC,Oceania
+Gdansk,Pomerania,Poland,EMEA,EMEA
+Puducherry,Puducherry,India,APAC,Central Asia
+Little Rock,Arkansas,United States,US,South
+Changwon,Gyeongsangnam,South Korea,APAC,North Asia
+Remscheid,North Rhine-Westphalia,Germany,EU,Central
+Exeter,England,United Kingdom,EU,North
+Leshan,Sichuan,China,APAC,North Asia
+Chinautla,Guatemala,Guatemala,LATAM,Central
+Brandenburg,Brandenburg,Germany,EU,Central
+Saint-Ouen,Ile-de-France,France,EU,Central
+Le Plessis-Robinson,Ile-de-France,France,EU,Central
+Halle,Saxony-Anhalt,Germany,EU,Central
+Harrow,England,United Kingdom,EU,North
+Echirolles,Rhône-Alpes,France,EU,Central
+Nogent-sur-Oise,Picardy,France,EU,Central
+Casoria,Campania,Italy,EU,South
+Griffith,New South Wales,Australia,APAC,Oceania
+Barra Mansa,Rio de Janeiro,Brazil,LATAM,South
+Naperville,Illinois,United States,US,Central
+Saint-Genis-Laval,Rhône-Alpes,France,EU,Central
+Ibagué,Tolima,Colombia,LATAM,South
+Tirunelveli,Tamil Nadu,India,APAC,Central Asia
+Ulan Bator,Ulaanbaatar,Mongolia,EMEA,EMEA
+Les Herbiers,Pays de la Loire,France,EU,Central
+Pasco,Washington,United States,US,West
+Cheyenne,Wyoming,United States,US,West
+Perugia,Umbria,Italy,EU,South
+Dresden,Saxony,Germany,EU,Central
+Francisco Beltrão,Parana,Brazil,LATAM,South
+Tours,Centre,France,EU,Central
+Araçatuba,São Paulo,Brazil,LATAM,South
+Gawler,South Australia,Australia,APAC,Oceania
+Des Moines,Iowa,United States,US,Central
+Groningen,Groningen,Netherlands,EU,Central
+Ichalkaranji,Maharashtra,India,APAC,Central Asia
+Naples,Campania,Italy,EU,South
+Bur Sudan,Red Sea,Sudan,Africa,Africa
+Firozabad,Uttar Pradesh,India,APAC,Central Asia
+Aschaffenburg,Bavaria,Germany,EU,Central
+Soissons,Picardy,France,EU,Central
+Aoba-ku,Kanagawa,Japan,APAC,North Asia
+Silivri,Istanbul,Turkey,EMEA,EMEA
+Tawau,Sabah,Malaysia,APAC,Southeast Asia
+Limeira,São Paulo,Brazil,LATAM,South
+Oldham,England,United Kingdom,EU,North
+Itajaí,Santa Catarina,Brazil,LATAM,South
+Goiânia,Goiás,Brazil,LATAM,South
+Neuwied,Rhineland-Palatinate,Germany,EU,Central
+Marano di Napoli,Campania,Italy,EU,South
+Papakura,Auckland,New Zealand,APAC,Oceania
+Watford,England,United Kingdom,EU,North
+Dalian,Liaoning,China,APAC,North Asia
+Annecy,Rhône-Alpes,France,EU,Central
+Sunnyvale,California,United States,US,West
+Madero,Tamaulipas,Mexico,LATAM,North
+Tongchuan,Shaanxi,China,APAC,North Asia
+Kramators'k,Donetsk,Ukraine,EMEA,EMEA
+Ujjain,Madhya Pradesh,India,APAC,Central Asia
+Asansol,West Bengal,India,APAC,Central Asia
+Brahmapur,Odisha,India,APAC,Central Asia
+Roissy-en-Brie,Ile-de-France,France,EU,Central
+Varese,Lombardy,Italy,EU,South
+Coulommiers,Ile-de-France,France,EU,Central
+Chelmsford,England,United Kingdom,EU,North
+Coimbra,Coimbra,Portugal,EU,South
+Ashford,England,United Kingdom,EU,North
+Bouake,Vallee Du Bandama,Cote d'Ivoire,Africa,Africa
+Mildura,Victoria,Australia,APAC,Oceania
+Puerto La Cruz,Anzoátegui,Venezuela,LATAM,South
+Teresópolis,Rio de Janeiro,Brazil,LATAM,South
+Juiz de Fora,Minas Gerais,Brazil,LATAM,South
+Foggia,Apulia,Italy,EU,South
+Parma,Ohio,United States,US,East
+Farmington,New Mexico,United States,US,West
+Cholula,Puebla,Mexico,LATAM,North
+Pamiers,Midi-Pyrénées,France,EU,Central
+Criciúma,Santa Catarina,Brazil,LATAM,South
+Taubaté,São Paulo,Brazil,LATAM,South
+Pantin,Ile-de-France,France,EU,Central
+Gilbert,Arizona,United States,US,West
+Oceanside,New York,United States,US,East
+Celaya,Guanajuato,Mexico,LATAM,North
+Mansfield,England,United Kingdom,EU,North
+Kazerun,Fars,Iran,EMEA,EMEA
+Taiyuan,Shanxi,China,APAC,North Asia
+Pasadena,Texas,United States,US,Central
+Río Bravo,Tamaulipas,Mexico,LATAM,North
+Chiclana de la Frontera,Andalusía,Spain,EU,South
+Los Mochis,Sinaloa,Mexico,LATAM,North
+Suffolk,Virginia,United States,US,South
+Anshun,Guizhou,China,APAC,North Asia
+San Pablo de las Salinas,México,Mexico,LATAM,North
+Poissy,Ile-de-France,France,EU,Central
+Choluteca,Choluteca,Honduras,LATAM,Central
+San Andrés Tuxtla,Veracruz,Mexico,LATAM,North
+Fort Collins,Colorado,United States,US,West
+Dublin,Ohio,United States,US,East
+Hiratsuka,Kanagawa,Japan,APAC,North Asia
+Huangshi,Hubei,China,APAC,North Asia
+Xinghua,Jiangsu,China,APAC,North Asia
+Knoxville,Tennessee,United States,US,South
+Khartoum,Khartoum,Sudan,Africa,Africa
+Al Minya,Al Minya,Egypt,Africa,Africa
+Midland,Michigan,United States,US,Central
+Vicenza,Veneto,Italy,EU,South
+Lima,Lima (city),Peru,LATAM,South
+Pontoise,Ile-de-France,France,EU,Central
+Daejeon,Daejeon,South Korea,APAC,North Asia
+Springfield,Ohio,United States,US,East
+Zhengzhou,Henan,China,APAC,North Asia
+Landerneau,Brittany,France,EU,Central
+Rouen,Upper Normandy,France,EU,Central
+Heze,Shandong,China,APAC,North Asia
+Quelimane,Zambezia,Mozambique,Africa,Africa
+Atlixco,Puebla,Mexico,LATAM,North
+Rajshahi,Rajshahi,Bangladesh,APAC,Central Asia
+Villefontaine,Rhône-Alpes,France,EU,Central
+Arraiján,Panama,Panama,LATAM,Central
+Querétaro,Querétaro,Mexico,LATAM,North
+Ploiesti,Prahova,Romania,EMEA,EMEA
+Kassala,Kassala,Sudan,Africa,Africa
+Saqqez,Kordestan,Iran,EMEA,EMEA
+Dos Quebradas,Risaralda,Colombia,LATAM,South
+Seremban,Negeri Sembilan,Malaysia,APAC,Southeast Asia
+Meudon,Ile-de-France,France,EU,Central
+Hradec Kralove,Hradec Kralove,Czech Republic,EMEA,EMEA
+Peoria,Illinois,United States,US,Central
+Villemomble,Ile-de-France,France,EU,Central
+Kupang,Nusa Tenggara Timur,Indonesia,APAC,Southeast Asia
+General Escobedo,Nuevo León,Mexico,LATAM,North
+Kawasaki,Fukuoka,Japan,APAC,North Asia
+Rambouillet,Ile-de-France,France,EU,Central
+Kopeysk,Chelyabinsk,Russia,EMEA,EMEA
+Kaiyuan,Liaoning,China,APAC,North Asia
+Parma,Emilia-Romagna,Italy,EU,South
+Maceió,Alagoas,Brazil,LATAM,South
+Ndola,Copperbelt,Zambia,Africa,Africa
+Samarra',Salah Ad Din,Iraq,EMEA,EMEA
+Huainan,Anhui,China,APAC,North Asia
+Sumy,Sumy,Ukraine,EMEA,EMEA
+Taranto,Apulia,Italy,EU,South
+Mount Gambier,South Australia,Australia,APAC,Oceania
+Bolton,England,United Kingdom,EU,North
+Valinhos,São Paulo,Brazil,LATAM,South
+Safi,Doukkala-Abda,Morocco,Africa,Africa
+Jackson,Mississippi,United States,US,South
+Marly-le-Roi,Ile-de-France,France,EU,Central
+Lugo,Galicia,Spain,EU,South
+Potosí,Potosí,Bolivia,LATAM,South
+Belleville,New Jersey,United States,US,East
+Oldenburg,Lower Saxony,Germany,EU,Central
+Garza García,Nuevo León,Mexico,LATAM,North
+Concord,New Hampshire,United States,US,East
+Dayr az Zawr,Dayr Az Zawr,Syria,EMEA,EMEA
+Irkutsk,Irkutsk,Russia,EMEA,EMEA
+San Miguelito,Panama,Panama,LATAM,Central
+Chillán,Biobio,Chile,LATAM,South
+Wodonga,Victoria,Australia,APAC,Oceania
+Annonay,Rhône-Alpes,France,EU,Central
+Zhongxiang,Hubei,China,APAC,North Asia
+Mogadishu,Banaadir,Somalia,Africa,Africa
+Bryansk,Bryansk,Russia,EMEA,EMEA
+Severodvinsk,Arkhangel'sk,Russia,EMEA,EMEA
+Chengdu,Sichuan,China,APAC,North Asia
+Armidale,New South Wales,Australia,APAC,Oceania
+Soweto,Gauteng,South Africa,Africa,Africa
+Durgapur,Maharashtra,India,APAC,Central Asia
+Nueva Gerona,Isla de la Juventud,Cuba,LATAM,Caribbean
+Presidencia Roque Sáenz Peña,Chaco,Argentina,LATAM,South
+Castres,Midi-Pyrénées,France,EU,Central
+Fushun,Liaoning,China,APAC,North Asia
+Franca,São Paulo,Brazil,LATAM,South
+Ludwigshafen am Rhein,Rhineland-Palatinate,Germany,EU,Central
+Arica,Arica y Parinacota,Chile,LATAM,South
+Sartrouville,Ile-de-France,France,EU,Central
+Mombasa,Coast,Kenya,Africa,Africa
+Nazilli,Aydin,Turkey,EMEA,EMEA
+Jiutai,Jilin,China,APAC,North Asia
+Koidu,Eastern,Sierra Leone,Africa,Africa
+Suihua,Heilongjiang,China,APAC,North Asia
+Messina,Sicily,Italy,EU,South
+Reims,Champagne-Ardenne,France,EU,Central
+Behbahan,Khuzestan,Iran,EMEA,EMEA
+Ajmer,Rajasthan,India,APAC,Central Asia
+Cluj-Napoca,Cluj,Romania,EMEA,EMEA
+Oradea,Bihor,Romania,EMEA,EMEA
+Bristol,England,United Kingdom,EU,North
+Tipitapa,Managua,Nicaragua,LATAM,Central
+Alicante,Valenciana,Spain,EU,South
+Hasselt,Limburg,Belgium,EU,Central
+Aksu,Xinjiang Uygur,China,APAC,North Asia
+Trabzon,Trabzon,Turkey,EMEA,EMEA
+Troisdorf,North Rhine-Westphalia,Germany,EU,Central
+Kindia,Kindia,Guinea,Africa,Africa
+Aix-en-Provence,Provence-Alpes-Côte d'Azur,France,EU,Central
+Tanta,Al Gharbiyah,Egypt,Africa,Africa
+Choloma,Cortés,Honduras,LATAM,Central
+Ulhasnagar,Maharashtra,India,APAC,Central Asia
+Caracas,Distrito Capital,Venezuela,LATAM,South
+Oleksandriya,Kirovohrad,Ukraine,EMEA,EMEA
+Mississauga,Ontario,Canada,Canada,Canada
+Independence,Missouri,United States,US,Central
+Wattrelos,Nord-Pas-de-Calais,France,EU,Central
+Licheng,Guangdong,China,APAC,North Asia
+Nieuwegein,Utrecht,Netherlands,EU,Central
+Huaiyin,Jiangsu,China,APAC,North Asia
+Pimpri,Maharashtra,India,APAC,Central Asia
+Brownsville,Texas,United States,US,Central
+Abidjan,Lagunes,Cote d'Ivoire,Africa,Africa
+Turku,Finland Proper,Finland,EU,North
+Portmore,Saint Catherine,Jamaica,LATAM,Caribbean
+Ivanovo,Ivanovo,Russia,EMEA,EMEA
+Artemisa,Artemisa,Cuba,LATAM,Caribbean
+Niort,Poitou-Charentes,France,EU,Central
+Denizli,Denizli,Turkey,EMEA,EMEA
+Heerlen,Limburg,Netherlands,EU,Central
+Pharr,Texas,United States,US,Central
+Valencia,Carabobo,Venezuela,LATAM,South
+Takamatsu,Kagawa,Japan,APAC,North Asia
+Kaluga,Kaluga,Russia,EMEA,EMEA
+Burbank,California,United States,US,West
+Jayapura,Papua,Indonesia,APAC,Southeast Asia
+Martigues,Provence-Alpes-Côte d'Azur,France,EU,Central
+Bastia,Corsica,France,EU,Central
+Deltona,Florida,United States,US,South
+London,Ontario,Canada,Canada,Canada
+Kankan,Kankan,Guinea,Africa,Africa
+Shanwei,Guangdong,China,APAC,North Asia
+Massy,Ile-de-France,France,EU,Central
+Vaughan,Ontario,Canada,Canada,Canada
+Acuña,Coahuila,Mexico,LATAM,North
+Langen,Lower Saxony,Germany,EU,Central
+Villeneuve-sur-Lot,Aquitaine,France,EU,Central
+Manchester,England,United Kingdom,EU,North
+Como,Lombardy,Italy,EU,South
+Les Ulis,Ile-de-France,France,EU,Central
+Melitopol',Zaporizhzhya,Ukraine,EMEA,EMEA
+Haarlem,North Holland,Netherlands,EU,Central
+Memphis,Tennessee,United States,US,South
+Ashqelon,Southern,Israel,EMEA,EMEA
+Garforth,England,United Kingdom,EU,North
+Sarajevo,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,EMEA,EMEA
+Dunedin,Otago,New Zealand,APAC,Oceania
+Vitoria,Basque Country,Spain,EU,South
+Middlesbrough,England,United Kingdom,EU,North
+Bissau,Bissau,Guinea-Bissau,Africa,Africa
+Dubbo,New South Wales,Australia,APAC,Oceania
+Genoa,Liguria,Italy,EU,South
+Ratlam,Madhya Pradesh,India,APAC,Central Asia
+Khmel'nyts'kyy,Khmel'nyts'kyy,Ukraine,EMEA,EMEA
+Linhai,Zhejiang,China,APAC,North Asia
+Avion,Nord-Pas-de-Calais,France,EU,Central
+Pforzheim,Baden-Württemberg,Germany,EU,Central
+Coimbatore,Tamil Nadu,India,APAC,Central Asia
+Durham,North Carolina,United States,US,South
+Makati,National Capital,Philippines,APAC,Southeast Asia
+Mechelen,Antwerp,Belgium,EU,Central
+Perth Amboy,New Jersey,United States,US,East
+Nellore,Andhra Pradesh,India,APAC,Central Asia
+Tivoli,Lazio,Italy,EU,South
+Cuiabá,Mato Grosso,Brazil,LATAM,South
+Pinar del Río,Pinar del Río,Cuba,LATAM,Caribbean
+Coacalco,México,Mexico,LATAM,North
+Bowling Green,Ohio,United States,US,East
+Tamarac,Florida,United States,US,South
+Cúcuta,Norte de Santander,Colombia,LATAM,South
+Ijuí,Rio Grande do Sul,Brazil,LATAM,South
+Clinton,Maryland,United States,US,East
+Beira,Sofala,Mozambique,Africa,Africa
+Basildon,England,United Kingdom,EU,North
+Yamoussoukro,Lacs,Cote d'Ivoire,Africa,Africa
+San Jose,California,United States,US,West
+Huntsville,Texas,United States,US,Central
+Maubeuge,Nord-Pas-de-Calais,France,EU,Central
+Djibouti,Djibouti,Djibouti,Africa,Africa
+Saga,Saga,Japan,APAC,North Asia
+Tournefeuille,Midi-Pyrénées,France,EU,Central
+Chester,Pennsylvania,United States,US,East
+Donghai,Guangdong,China,APAC,North Asia
+Oshawa,Ontario,Canada,Canada,Canada
+Crewe,England,United Kingdom,EU,North
+Sucy-en-Brie,Ile-de-France,France,EU,Central
+Jackson,Tennessee,United States,US,South
+Roseville,Minnesota,United States,US,Central
+Renton,Washington,United States,US,West
+Nakuru,Rift Valley,Kenya,Africa,Africa
+Montmorency,Ile-de-France,France,EU,Central
+Barueri,São Paulo,Brazil,LATAM,South
+Valenciennes,Nord-Pas-de-Calais,France,EU,Central
+Bilaspur,Uttar Pradesh,India,APAC,Central Asia
+Divinópolis,Minas Gerais,Brazil,LATAM,South
+Lugoj,Timis,Romania,EMEA,EMEA
+Salamanca,Guanajuato,Mexico,LATAM,North
+Passo Fundo,Rio Grande do Sul,Brazil,LATAM,South
+Saumur,Pays de la Loire,France,EU,Central
+Siegen,North Rhine-Westphalia,Germany,EU,Central
+Dumai,Riau,Indonesia,APAC,Southeast Asia
+Palermo,Sicily,Italy,EU,South
+Tumkur,Karnataka,India,APAC,Central Asia
+Mount Vernon,New York,United States,US,East
+Limoges,Limousin,France,EU,Central
+Wasquehal,Nord-Pas-de-Calais,France,EU,Central
+Cagliari,Sardinia,Italy,EU,South
+Vannes,Brittany,France,EU,Central
+Lausanne,Vaud,Switzerland,EU,Central
+Athis-Mons,Ile-de-France,France,EU,Central
+Jerusalem,Jerusalem,Israel,EMEA,EMEA
+Charallave,Miranda,Venezuela,LATAM,South
+Masjed Soleyman,Khuzestan,Iran,EMEA,EMEA
+Palma Soriano,Santiago de Cuba,Cuba,LATAM,Caribbean
+Sonsonate,Sonsonate,El Salvador,LATAM,Central
+Northampton,England,United Kingdom,EU,North
+Gera,Thuringia,Germany,EU,Central
+Redondo Beach,California,United States,US,West
+Walsall,England,United Kingdom,EU,North
+Jonesboro,Arkansas,United States,US,South
+Potsdam,Brandenburg,Germany,EU,Central
+Grosseto,Tuscany,Italy,EU,South
+Parker,Colorado,United States,US,West
+Neunkirchen,Saarland,Germany,EU,Central
+Marignane,Provence-Alpes-Côte d'Azur,France,EU,Central
+Boise,Idaho,United States,US,West
+Pietermaritzburg,Kwazulu-natal,South Africa,Africa,Africa
+Huehuetenango,Huehuetenango,Guatemala,LATAM,Central
+Cuenca,Azuay,Ecuador,LATAM,South
+Medina,Al Madinah,Saudi Arabia,EMEA,EMEA
+Mansfield,Texas,United States,US,Central
+Tamworth,New South Wales,Australia,APAC,Oceania
+Worcester,England,United Kingdom,EU,North
+Champigny-sur-Marne,Ile-de-France,France,EU,Central
+Port Harcourt,Rivers,Nigeria,Africa,Africa
+Smyrna,Tennessee,United States,US,South
+Hoover,Alabama,United States,US,South
+Ituiutaba,Minas Gerais,Brazil,LATAM,South
+Raipur,Chhattisgarh,India,APAC,Central Asia
+Guwahati,Assam,India,APAC,Central Asia
+Gaziantep,Gaziantep,Turkey,EMEA,EMEA
+Jerez de la Frontera,Andalusía,Spain,EU,South
+Carrara,Tuscany,Italy,EU,South
+Constanta,Constanta,Romania,EMEA,EMEA
+Cotia,São Paulo,Brazil,LATAM,South
+Beaumont,Texas,United States,US,Central
+Rafsanjan,Kerman,Iran,EMEA,EMEA
+Guacara,Carabobo,Venezuela,LATAM,South
+Al Mubarraz,Ash Sharqiyah,Saudi Arabia,EMEA,EMEA
+Aberdeen,Scotland,United Kingdom,EU,North
+Montes Claros,Minas Gerais,Brazil,LATAM,South
+La Chorrera,Panama,Panama,LATAM,Central
+Cotonou,Littoral,Benin,Africa,Africa
+Washington,District of Columbia,United States,US,East
+Chico,California,United States,US,West
+Puente Alto,Santiago,Chile,LATAM,South
+Tecomán,Colima,Mexico,LATAM,North
+Peshawar,Khyber Pakhtunkhwa,Pakistan,APAC,Central Asia
+Kawasaki,Kanagawa,Japan,APAC,North Asia
+Pasadena,California,United States,US,West
+Acerra,Campania,Italy,EU,South
+Chilpancingo,Guerrero,Mexico,LATAM,North
+Khomeynishahr,Esfahan,Iran,EMEA,EMEA
+Edmond,Oklahoma,United States,US,Central
+Jieshou,Anhui,China,APAC,North Asia
+Surrey,British Columbia,Canada,Canada,Canada
+Progreso,Yucatán,Mexico,LATAM,North
+Decatur,Illinois,United States,US,Central
+San Bernardo,Santiago,Chile,LATAM,South
+Aalen,Baden-Württemberg,Germany,EU,Central
+Aurangabad,Maharashtra,India,APAC,Central Asia
+Marsabit,Eastern,Kenya,Africa,Africa
+Lodz,Lodz,Poland,EMEA,EMEA
+Multan,Punjab,Pakistan,APAC,Central Asia
+Allentown,Pennsylvania,United States,US,East
+Mufulira,Copperbelt,Zambia,Africa,Africa
+Greifswald,Mecklenburg-Vorpommern,Germany,EU,Central
+Tempe,Arizona,United States,US,West
+Letchworth,England,United Kingdom,EU,North
+Mosul,Ninawa,Iraq,EMEA,EMEA
+João Pessoa,Paraíba,Brazil,LATAM,South
+Sibiu,Sibiu,Romania,EMEA,EMEA
+Fresnes,Ile-de-France,France,EU,Central
+Cuajimalpa,Distrito Federal,Mexico,LATAM,North
+Córdoba,Veracruz,Mexico,LATAM,North
+Fayetteville,Arkansas,United States,US,South
+Tunis,Tunis,Tunisia,Africa,Africa
+Itapevi,São Paulo,Brazil,LATAM,South
+Halle,North Rhine-Westphalia,Germany,EU,Central
+Rosario,Santa Fe,Argentina,LATAM,South
+Mykolayiv,Mykolayiv,Ukraine,EMEA,EMEA
+Sandnes,Rogaland,Norway,EU,North
+Masaya,Masaya,Nicaragua,LATAM,Central
+Kissimmee,Florida,United States,US,South
+Aylesbury,England,United Kingdom,EU,North
+Cambé,Parana,Brazil,LATAM,South
+Aracaju,Sergipe,Brazil,LATAM,South
+Warrington,England,United Kingdom,EU,North
+Granada,Granada,Nicaragua,LATAM,Central
+Limoeiro do Norte,Ceará,Brazil,LATAM,South
+Katoomba,New South Wales,Australia,APAC,Oceania
+Kediri,Jawa Timur,Indonesia,APAC,Southeast Asia
+Yaroslavl',Yaroslavl',Russia,EMEA,EMEA
+Salavat,Bashkortostan,Russia,EMEA,EMEA
+Malang,Jawa Timur,Indonesia,APAC,Southeast Asia
+Calais,Nord-Pas-de-Calais,France,EU,Central
+Provo,Utah,United States,US,West
+Novo Gama,Goiás,Brazil,LATAM,South
+Peterborough,England,United Kingdom,EU,North
+Bunbury,Western Australia,Australia,APAC,Oceania
+Plymouth,England,United Kingdom,EU,North
+Maryborough,Queensland,Australia,APAC,Oceania
+Leuven,Flemish Brabant,Belgium,EU,Central
+Zagreb,Grad Zagreb,Croatia,EMEA,EMEA
+Frontera,Tabasco,Mexico,LATAM,North
+Resende,Rio de Janeiro,Brazil,LATAM,South
+Weifang,Shandong,China,APAC,North Asia
+Chaville,Ile-de-France,France,EU,Central
+Patiala,Punjab,India,APAC,Central Asia
+Al Hillah,Babil,Iraq,EMEA,EMEA
+Lowestoft,England,United Kingdom,EU,North
+Hardenberg,Overijssel,Netherlands,EU,Central
+Kowloon,Hong Kong,Hong Kong,APAC,North Asia
+Cuscatancingo,San Salvador,El Salvador,LATAM,Central
+Yantai,Shandong,China,APAC,North Asia
+Melton,Victoria,Australia,APAC,Oceania
+Drammen,Buskerud,Norway,EU,North
+Auburn,Alabama,United States,US,South
+Oosterhout,North Brabant,Netherlands,EU,Central
+Torrance,California,United States,US,West
+Montauban,Midi-Pyrénées,France,EU,Central
+Jiangyou,Sichuan,China,APAC,North Asia
+Livry-Gargan,Ile-de-France,France,EU,Central
+Sorocaba,São Paulo,Brazil,LATAM,South
+Xi'an,Shaanxi,China,APAC,North Asia
+Kathmandu,Central,Nepal,APAC,Central Asia
+Quimper,Brittany,France,EU,Central
+Ixtapaluca,México,Mexico,LATAM,North
+Wiesbaden,Hesse,Germany,EU,Central
+Gdynia,Pomerania,Poland,EMEA,EMEA
+Magdeburg,Saxony-Anhalt,Germany,EU,Central
+Gennevilliers,Ile-de-France,France,EU,Central
+Castelldefels,Catalonia,Spain,EU,South
+Widnes,England,United Kingdom,EU,North
+Kaspiysk,Dagestan,Russia,EMEA,EMEA
+Chapecó,Santa Catarina,Brazil,LATAM,South
+Darbhanga,Bihar,India,APAC,Central Asia
+Coral Springs,Florida,United States,US,South
+Laredo,Texas,United States,US,Central
+Klagenfurt,Carinthia,Austria,EU,Central
+Aswan,Aswan,Egypt,Africa,Africa
+Cienfuegos,Cienfuegos,Cuba,LATAM,Caribbean
+Miguel Hidalgo,Distrito Federal,Mexico,LATAM,North
+Panevezys,Panevezys,Lithuania,EMEA,EMEA
+Erftstadt,North Rhine-Westphalia,Germany,EU,Central
+Lippstadt,North Rhine-Westphalia,Germany,EU,Central
+Brive-la-Gaillarde,Limousin,France,EU,Central
+Gisborne,Gisborne,New Zealand,APAC,Oceania
+Pulheim,North Rhine-Westphalia,Germany,EU,Central
+Coudekerque-Branche,Nord-Pas-de-Calais,France,EU,Central
+Roeselare,West Flanders,Belgium,EU,Central
+Highland Park,Illinois,United States,US,Central
+Ciénaga,Magdalena,Colombia,LATAM,South
+Bingol,Bingol,Turkey,EMEA,EMEA
+Les Abymes,Guadeloupe,Guadeloupe,LATAM,Caribbean
+Swindon,England,United Kingdom,EU,North
+Abreu e Lima,Pernambuco,Brazil,LATAM,South
+Pereira,Risaralda,Colombia,LATAM,South
+Odense,South Denmark,Denmark,EU,North
+Haikou,Hainan,China,APAC,North Asia
+Obregón,Sonora,Mexico,LATAM,North
+Sari,Mazandaran,Iran,EMEA,EMEA
+Baruta,Miranda,Venezuela,LATAM,South
+Hangzhou,Zhejiang,China,APAC,North Asia
+Chingola,Copperbelt,Zambia,Africa,Africa
+Saint-Cyr-sur-Loire,Centre,France,EU,Central
+Guntur,Andhra Pradesh,India,APAC,Central Asia
+Nishinomiya,Hyogo,Japan,APAC,North Asia
+Offenbach,Hesse,Germany,EU,Central
+Waterlooville,England,United Kingdom,EU,North
+Huizhou,Guangdong,China,APAC,North Asia
+Sohag,Suhaj,Egypt,Africa,Africa
+Decatur,Alabama,United States,US,South
+Dewsbury,England,United Kingdom,EU,North
+Bishkek,Bishkek,Kyrgyzstan,EMEA,EMEA
+Licheng,Jiangsu,China,APAC,North Asia
+Thika,Central,Kenya,Africa,Africa
+Bron,Rhône-Alpes,France,EU,Central
+Normal,Illinois,United States,US,Central
+Deventer,Overijssel,Netherlands,EU,Central
+Tieling,Liaoning,China,APAC,North Asia
+Santiago de los Caballeros,Santiago,Dominican Republic,LATAM,Caribbean
+Laval,Quebec,Canada,Canada,Canada
+Montereau-Fault-Yonne,Ile-de-France,France,EU,Central
+Bulawayo,Bulawayo,Zimbabwe,Africa,Africa
+Xuanhua,Hebei,China,APAC,North Asia
+Vallauris,Provence-Alpes-Côte d'Azur,France,EU,Central
+Redmond,Oregon,United States,US,West
+Clydach,Wales,United Kingdom,EU,North
+Xianyang,Shaanxi,China,APAC,North Asia
+Forster,New South Wales,Australia,APAC,Oceania
+Springfield,Oregon,United States,US,West
+Dartford,England,United Kingdom,EU,North
+Yokkaichi,Mie,Japan,APAC,North Asia
+El Ejido,Andalusía,Spain,EU,South
+Salzburg,Salzburg,Austria,EU,Central
+Dundee,Scotland,United Kingdom,EU,North
+Belgaum,Karnataka,India,APAC,Central Asia
+Rybnik,Silesia,Poland,EMEA,EMEA
+Iringa,Iringa,Tanzania,Africa,Africa
+Benin City,Edo,Nigeria,Africa,Africa
+Arlington,Texas,United States,US,Central
+Yicheng,Hubei,China,APAC,North Asia
+Kiel,Schleswig-Holstein,Germany,EU,Central
+Kaiserslautern,Rhineland-Palatinate,Germany,EU,Central
+Garches,Ile-de-France,France,EU,Central
+Waterbury,Connecticut,United States,US,East
+Rosenheim,Bavaria,Germany,EU,Central
+Poole,England,United Kingdom,EU,North
+Pocatello,Idaho,United States,US,West
+Villejuif,Ile-de-France,France,EU,Central
+Vryburg,North-West,South Africa,Africa,Africa
+Termez,Surxondaryo,Uzbekistan,EMEA,EMEA
+Xintai,Shandong,China,APAC,North Asia
+Richmond,Indiana,United States,US,Central
+Wuchuan,Guangdong,China,APAC,North Asia
+Heroica Zitácuaro,Michoacán,Mexico,LATAM,North
+Richmond,British Columbia,Canada,Canada,Canada
+Worms,Rhineland-Palatinate,Germany,EU,Central
+Darmstadt,Hesse,Germany,EU,Central
+Issoire,Auvergne,France,EU,Central
+Yichun,Heilongjiang,China,APAC,North Asia
+Issy-les-Moulineaux,Ile-de-France,France,EU,Central
+Chaozhou,Guangdong,China,APAC,North Asia
+Chaoyang,Liaoning,China,APAC,North Asia
+Granada,Andalusía,Spain,EU,South
+Bhubaneswar,Odisha,India,APAC,Central Asia
+Broken Hill,New South Wales,Australia,APAC,Oceania
+Porto,Porto,Portugal,EU,South
+Columbia,Tennessee,United States,US,South
+Sanming,Fujian,China,APAC,North Asia
+Invercargill,Southland,New Zealand,APAC,Oceania
+Salt Lake City,Utah,United States,US,West
+Kuching,Sarawak,Malaysia,APAC,Southeast Asia
+Probolinggo,Jawa Timur,Indonesia,APAC,Southeast Asia
+Chandler,Arizona,United States,US,West
+Kandahar,Kandahar,Afghanistan,APAC,Central Asia
+Duitama,Boyacá,Colombia,LATAM,South
+Taverny,Ile-de-France,France,EU,Central
+Caxias do Sul,Rio Grande do Sul,Brazil,LATAM,South
+Elmhurst,Illinois,United States,US,Central
+Laghouat,Laghouat,Algeria,Africa,Africa
+Juba,Central Equatoria,South Sudan,Africa,Africa
+Sumaré,São Paulo,Brazil,LATAM,South
+Lucca,Tuscany,Italy,EU,South
+Minden,North Rhine-Westphalia,Germany,EU,Central
+Herten,North Rhine-Westphalia,Germany,EU,Central
+Pelotas,Rio Grande do Sul,Brazil,LATAM,South
+Arvada,Colorado,United States,US,West
+Campo Grande,Mato Grosso do Sul,Brazil,LATAM,South
+Lower Hutt,Wellington,New Zealand,APAC,Oceania
+Poznan,Greater Poland,Poland,EMEA,EMEA
+Birigui,São Paulo,Brazil,LATAM,South
+Wad Madani,Gezira,Sudan,Africa,Africa
+Florence,South Carolina,United States,US,South
+Islamabad,F.C.T.,Pakistan,APAC,Central Asia
+Stevenage,England,United Kingdom,EU,North
+Nanchang,Jiangxi,China,APAC,North Asia
+Guayaquil,Guayas,Ecuador,LATAM,South
+Rancagua,O'Higgins,Chile,LATAM,South
+Rawalpindi,Punjab,Pakistan,APAC,Central Asia
+Zhuhai,Guangdong,China,APAC,North Asia
+Mau,Madhya Pradesh,India,APAC,Central Asia
+Shahriar,Tehran,Iran,EMEA,EMEA
+Contramaestre,Santiago de Cuba,Cuba,LATAM,Caribbean
+Thonon-les-Bains,Rhône-Alpes,France,EU,Central
+Allauch,Provence-Alpes-Côte d'Azur,France,EU,Central
+Amritsar,Punjab,India,APAC,Central Asia
+Rondonópolis,Mato Grosso,Brazil,LATAM,South
+Handan,Hebei,China,APAC,North Asia
+Coslada,Madrid,Spain,EU,South
+Plantation,Florida,United States,US,South
+Bauchi,Bauchi,Nigeria,Africa,Africa
+Maple Grove,Minnesota,United States,US,Central
+Auburn,New York,United States,US,East
+Ratingen,North Rhine-Westphalia,Germany,EU,Central
+Caloocan,National Capital,Philippines,APAC,Southeast Asia
+Inglewood,California,United States,US,West
+Libreville,Estuaire,Gabon,Africa,Africa
+Saint Charles,Illinois,United States,US,Central
+Pomona,California,United States,US,West
+Opole,Opole,Poland,EMEA,EMEA
+Gastonia,North Carolina,United States,US,South
+São Bernardo do Campo,São Paulo,Brazil,LATAM,South
+Metz,Lorraine,France,EU,Central
+Peoria,Arizona,United States,US,West
+Albuquerque,New Mexico,United States,US,West
+Plano,Texas,United States,US,Central
+Tongling,Anhui,China,APAC,North Asia
+Colima,Colima,Mexico,LATAM,North
+Green Bay,Wisconsin,United States,US,Central
+Klagenfurt,Carinthia,Austria,EMEA,EMEA
+Cheshunt,England,United Kingdom,EU,North
+Middletown,Connecticut,United States,US,East
+Chula Vista,California,United States,US,West
+Riverside,California,United States,US,West
+Guarulhos,São Paulo,Brazil,LATAM,South
+Homyel',Homyel',Belarus,EMEA,EMEA
+Torquay,England,United Kingdom,EU,North
+Narbonne,Languedoc-Roussillon,France,EU,Central
+Sylhet,Sylhet,Bangladesh,APAC,Central Asia
+Sandakan,Sabah,Malaysia,APAC,Southeast Asia
+Takamatsu,Ishikawa,Japan,APAC,North Asia
+Al Muharraq,Muharraq,Bahrain,EMEA,EMEA
+Akola,Maharashtra,India,APAC,Central Asia
+Troy,New York,United States,US,East
+El Cajon,California,United States,US,West
+Birkenhead,England,United Kingdom,EU,North
+Istres,Provence-Alpes-Côte d'Azur,France,EU,Central
+Noisy-le-Sec,Ile-de-France,France,EU,Central
+Shangyu,Zhejiang,China,APAC,North Asia
+Winnipeg,Manitoba,Canada,Canada,Canada
+Burnaby,British Columbia,Canada,Canada,Canada
+Bacau,Bacau,Romania,EMEA,EMEA
+Nantong,Jiangsu,China,APAC,North Asia
+Mougins,Provence-Alpes-Côte d'Azur,France,EU,Central
+Bolzano,Trentino-Alto Adige,Italy,EU,South
+Amiens,Picardy,France,EU,Central
+Valencia,Northern Mindanao,Philippines,APAC,Southeast Asia
+Farroupilha,Rio Grande do Sul,Brazil,LATAM,South
+Hangu,Tianjin,China,APAC,North Asia
+Uskudar,Istanbul,Turkey,EMEA,EMEA
+Wuxi,Hunan,China,APAC,North Asia
+Lora del Río,Andalusía,Spain,EU,South
+Mcallen,Texas,United States,US,Central
+Colón,Colón,Panama,LATAM,Central
+Torcy,Ile-de-France,France,EU,Central
+Zanjan,Zanjan,Iran,EMEA,EMEA
+Calabar,Cross River,Nigeria,Africa,Africa
+Rotorua,Bay of Plenty,New Zealand,APAC,Oceania
+Veracruz,Veracruz,Mexico,LATAM,North
+Sincan,Ankara,Turkey,EMEA,EMEA
+Paderborn,North Rhine-Westphalia,Germany,EU,Central
+Orsay,Ile-de-France,France,EU,Central
+Medina,Ohio,United States,US,East
+Guatire,Miranda,Venezuela,LATAM,South
+Thiais,Ile-de-France,France,EU,Central
+San Lorenzo,Central,Paraguay,LATAM,South
+Sterlitamak,Bashkortostan,Russia,EMEA,EMEA
+La Teste-de-Buch,Aquitaine,France,EU,Central
+Haifa,Haifa,Israel,EMEA,EMEA
+Barranquilla,Atlántico,Colombia,LATAM,South
+Maradi,Maradi,Niger,Africa,Africa
+Dearborn,Michigan,United States,US,Central
+Blumenau,Santa Catarina,Brazil,LATAM,South
+Gravatá,Pernambuco,Brazil,LATAM,South
+Scottsdale,Arizona,United States,US,West
+Oxnard,California,United States,US,West
+Margate,England,United Kingdom,EU,North
+Trapani,Sicily,Italy,EU,South
+Lormont,Aquitaine,France,EU,Central
+Sapucaia do Sul,Rio Grande do Sul,Brazil,LATAM,South
+Paço do Lumiar,Maranhão,Brazil,LATAM,South
+Jingmen,Hubei,China,APAC,North Asia
+Bengkulu,Bengkulu,Indonesia,APAC,Southeast Asia
+Kirkwood,Missouri,United States,US,Central
+Lichinga,Niassa,Mozambique,Africa,Africa
+Sargodha,Punjab,Pakistan,APAC,Central Asia
+Mardin,Mardin,Turkey,EMEA,EMEA
+Aulnay-sous-Bois,Ile-de-France,France,EU,Central
+Mesa,Arizona,United States,US,West
+Bihar Sharif,Bihar,India,APAC,Central Asia
+Ottawa,Ontario,Canada,Canada,Canada
+Huyton,England,United Kingdom,EU,North
+Hyderabad,Sindh,Pakistan,APAC,Central Asia
+Taizz,Ta'izz,Yemen,EMEA,EMEA
+Trappes,Ile-de-France,France,EU,Central
+Montrouge,Ile-de-France,France,EU,Central
+Huambo,Huambo,Angola,Africa,Africa
+Wuppertal,North Rhine-Westphalia,Germany,EU,Central
+Verona,Veneto,Italy,EU,South
+Brighton,England,United Kingdom,EU,North
+Bayreuth,Bavaria,Germany,EU,Central
+Ankara,Ankara,Turkey,EMEA,EMEA
+Tehuacán,Puebla,Mexico,LATAM,North
+Redditch,England,United Kingdom,EU,North
+Kent,Washington,United States,US,West
+Da Nang,Dà Nang,Vietnam,APAC,Southeast Asia
+Umtata,Eastern Cape,South Africa,Africa,Africa
+Hubli,Karnataka,India,APAC,Central Asia
+Ludwigsfelde,Brandenburg,Germany,EU,Central
+Maidenhead,England,United Kingdom,EU,North
+Delmenhorst,Lower Saxony,Germany,EU,Central
+Kingston,Ontario,Canada,Canada,Canada
+Gagny,Ile-de-France,France,EU,Central
+Weston-super-Mare,England,United Kingdom,EU,North
+Kuala Terengganu,Trengganu,Malaysia,APAC,Southeast Asia
+Emden,Lower Saxony,Germany,EU,Central
+Karlsruhe,Baden-Württemberg,Germany,EU,Central
+Amman,'Amman,Jordan,EMEA,EMEA
+Pau,Aquitaine,France,EU,Central
+Calgary,Alberta,Canada,Canada,Canada
+Whitby,Ontario,Canada,Canada,Canada
+Legnano,Lombardy,Italy,EU,South
+Baranagar,West Bengal,India,APAC,Central Asia
+Arequipa,Arequipa,Peru,LATAM,South
+Gravataí,Rio Grande do Sul,Brazil,LATAM,South
+Niterói,Rio de Janeiro,Brazil,LATAM,South
+Avignon,Provence-Alpes-Côte d'Azur,France,EU,Central
+Sanandaj,Kordestan,Iran,EMEA,EMEA
+Gebze,Kocaeli,Turkey,EMEA,EMEA
+Hazebrouck,Nord-Pas-de-Calais,France,EU,Central
+Uppsala,Uppsala,Sweden,EU,North
+Slupsk,Pomerania,Poland,EMEA,EMEA
+South Bend,Indiana,United States,US,Central
+Agen,Aquitaine,France,EU,Central
+Wallasey,England,United Kingdom,EU,North
+Ras al Khaymah,Ra's Al Khaymah,United Arab Emirates,EMEA,EMEA
+Burnie,Tasmania,Australia,APAC,Oceania
+Xinxiang,Henan,China,APAC,North Asia
+Irun,Basque Country,Spain,EU,South
+Pontianak,Kalimantan Barat,Indonesia,APAC,Southeast Asia
+Roseville,Michigan,United States,US,Central
+Grevenbroich,North Rhine-Westphalia,Germany,EU,Central
+Hamilton,Ontario,Canada,Canada,Canada
+Santa Rosa,Rio Grande do Sul,Brazil,LATAM,South
+Paraná,Entre Ríos,Argentina,LATAM,South
+Canton,Michigan,United States,US,Central
+Guildford,England,United Kingdom,EU,North
+Ruda Slaska,Silesia,Poland,EMEA,EMEA
+Six-Fours-les-Plages,Provence-Alpes-Côte d'Azur,France,EU,Central
+Murray,Kentucky,United States,US,South
+Salvador,Bahia,Brazil,LATAM,South
+Luton,England,United Kingdom,EU,North
+Cottbus,Brandenburg,Germany,EU,Central
+Kilwinning,Scotland,United Kingdom,EU,North
+Neijiang,Sichuan,China,APAC,North Asia
+Shkoder,Shkodër,Albania,EMEA,EMEA
+Abadan,Khuzestan,Iran,EMEA,EMEA
+Overland Park,Kansas,United States,US,Central
+Cainta,Calabarzon,Philippines,APAC,Southeast Asia
+Velsen,North Holland,Netherlands,EU,Central
+Ahvaz,Khuzestan,Iran,EMEA,EMEA
+Lawton,Oklahoma,United States,US,Central
+Paterson,New Jersey,United States,US,East
+Jamnagar,Gujarat,India,APAC,Central Asia
+Gothenburg,Västra Götaland,Sweden,EU,North
+Durban,Kwazulu-natal,South Africa,Africa,Africa
+Cárdenas,Matanzas,Cuba,LATAM,Caribbean
+Rheine,North Rhine-Westphalia,Germany,EU,Central
+Maracaibo,Zulia,Venezuela,LATAM,South
+Tourcoing,Nord-Pas-de-Calais,France,EU,Central
+Saint Peters,Missouri,United States,US,Central
+Guanambi,Bahia,Brazil,LATAM,South
+Sukkur,Sindh,Pakistan,APAC,Central Asia
+Firminy,Rhône-Alpes,France,EU,Central
+Las Rozas de Madrid,Madrid,Spain,EU,South
+Moradabad,Uttar Pradesh,India,APAC,Central Asia
+Shinyanga,Shinyanga,Tanzania,Africa,Africa
+Chisinau,Chisinau,Moldova,EMEA,EMEA
+Lakewood,California,United States,US,West
+Sakai,Ibaraki,Japan,APAC,North Asia
+Barreiras,Bahia,Brazil,LATAM,South
+Ajaccio,Corsica,France,EU,Central
+Meyzieu,Rhône-Alpes,France,EU,Central
+Batman,Batman,Turkey,EMEA,EMEA
+La Crosse,Wisconsin,United States,US,Central
+Bukavu,South Kivu,Democratic Republic of the Congo,Africa,Africa
+San Rafael,Mendoza,Argentina,LATAM,South
+Gorgan,Golestan,Iran,EMEA,EMEA
+Woodstock,Georgia,United States,US,South
+Brescia,Lombardy,Italy,EU,South
+Heidelberg,Baden-Württemberg,Germany,EU,Central
+Haguenau,Alsace,France,EU,Central
+Jos,Plateau,Nigeria,Africa,Africa
+Punta Arenas,Magallanes y Antártica Chilena,Chile,LATAM,South
+Galway,Galway,Ireland,EU,North
+Wenzhou,Zhejiang,China,APAC,North Asia
+Targu Jiu,Gorj,Romania,EMEA,EMEA
+Ingolstadt,Bavaria,Germany,EU,Central
+Wheeling,West Virginia,United States,US,East
+Southaven,Mississippi,United States,US,South
+Neiva,Huila,Colombia,LATAM,South
+Savigny-le-Temple,Ile-de-France,France,EU,Central
+Tarragona,Catalonia,Spain,EU,South
+Pingdingshan,Henan,China,APAC,North Asia
+Canoas,Rio Grande do Sul,Brazil,LATAM,South
+Timisoara,Timis,Romania,EMEA,EMEA
+Stralsund,Mecklenburg-Vorpommern,Germany,EU,Central
+Ceuta,Ceuta,Spain,EU,South
+Varna,Varna,Bulgaria,EMEA,EMEA
+Nevsehir,Nevsehir,Turkey,EMEA,EMEA
+Guanajuato,Guanajuato,Mexico,LATAM,North
+Takestan,Qazvin,Iran,EMEA,EMEA
+Quilmes,Provincia de Buenos Aires,Argentina,LATAM,South
+Rio Branco,Acre,Brazil,LATAM,South
+Salem,Oregon,United States,US,West
+Delgado,San Salvador,El Salvador,LATAM,Central
+Bistrita,Bistrita-Nasaud,Romania,EMEA,EMEA
+Angeles City,Central Luzon,Philippines,APAC,Southeast Asia
+Gelsenkirchen,North Rhine-Westphalia,Germany,EU,Central
+Huancayo,Junín,Peru,LATAM,South
+Vallejo,California,United States,US,West
+Amersfoort,Utrecht,Netherlands,EU,Central
+Camarillo,California,United States,US,West
+Linyi,Shandong,China,APAC,North Asia
+Kherson,Kherson,Ukraine,EMEA,EMEA
+Girona,Catalonia,Spain,EU,South
+Dorsten,North Rhine-Westphalia,Germany,EU,Central
+Kirovohrad,Kirovohrad,Ukraine,EMEA,EMEA
+Moca,Espaillat,Dominican Republic,LATAM,Caribbean
+Berdyans'k,Zaporizhzhya,Ukraine,EMEA,EMEA
+Osasco,São Paulo,Brazil,LATAM,South
+Cerignola,Apulia,Italy,EU,South
+Borazjan,Bushehr,Iran,EMEA,EMEA
+Wels,Upper Austria,Austria,EU,Central
+Mission Viejo,California,United States,US,West
+Berne,Bern,Switzerland,EU,Central
+Surubim,Pernambuco,Brazil,LATAM,South
+Woodbury,Minnesota,United States,US,Central
+Jammu,Jammu and Kashmir,India,APAC,Central Asia
+Des Plaines,Illinois,United States,US,Central
+Man,Dix-Huit Montagnes,Cote d'Ivoire,Africa,Africa
+Saint-Malo,Brittany,France,EU,Central
+Ebolowa,Sud,Cameroon,Africa,Africa
+Djougou,Donga,Benin,Africa,Africa
+Thies Nones,Thies,Senegal,Africa,Africa
+Pilar,Alagoas,Brazil,LATAM,South
+Batna,Batna,Algeria,Africa,Africa
+Roseville,California,United States,US,West
+Villenave-d'Ornon,Aquitaine,France,EU,Central
+Passaic,New Jersey,United States,US,East
+Wakefield,England,United Kingdom,EU,North
+Norderstedt,Schleswig-Holstein,Germany,EU,Central
+Saint-Michel-sur-Orge,Ile-de-France,France,EU,Central
+Samobor,Zagrebacka,Croatia,EMEA,EMEA
+Regina,Saskatchewan,Canada,Canada,Canada
+Changsha,Hunan,China,APAC,North Asia
+Dearborn Heights,Michigan,United States,US,Central
+Twin Falls,Idaho,United States,US,West
+Les Clayes-sous-Bois,Ile-de-France,France,EU,Central
+Yongchuan,Chongqing,China,APAC,North Asia
+Melun,Ile-de-France,France,EU,Central
+Chemnitz,Saxony,Germany,EU,Central
+Rotterdam,South Holland,Netherlands,EU,Central
+Koblenz,Rhineland-Palatinate,Germany,EU,Central
+Binjai,Sumatera Utara,Indonesia,APAC,Southeast Asia
+Yuma,Arizona,United States,US,West
+Wadi as Sir,'Amman,Jordan,EMEA,EMEA
+Hagen,North Rhine-Westphalia,Germany,EU,Central
+Zahedan,Sistan Va Baluchestan,Iran,EMEA,EMEA
+Heyuan,Guangdong,China,APAC,North Asia
+Halesowen,England,United Kingdom,EU,North
+Pingnan,Guangxi,China,APAC,North Asia
+Lubango,Huila,Angola,Africa,Africa
+Ceyhan,Adana,Turkey,EMEA,EMEA
+Mount Pleasant,South Carolina,United States,US,South
+Xingtai,Hebei,China,APAC,North Asia
+Bandar Abbas,Hormozgan,Iran,EMEA,EMEA
+Gonaïves,Artibonite,Haiti,LATAM,Caribbean
+Wilmington,North Carolina,United States,US,South
+Chieti,Abruzzi,Italy,EU,South
+Auxerre,Burgundy,France,EU,Central
+Rio Rancho,New Mexico,United States,US,West
+Gradignan,Aquitaine,France,EU,Central
+Trenton,Michigan,United States,US,Central
+Satu Mare,Satu Mare,Romania,EMEA,EMEA
+Badalona,Catalonia,Spain,EU,South
+Bornova,Izmir,Turkey,EMEA,EMEA
+Tripoli,North Lebanon,Lebanon,EMEA,EMEA
+Lincoln,England,United Kingdom,EU,North
+Washington,England,United Kingdom,EU,North
+Monroe,Louisiana,United States,US,South
+Lake Forest,California,United States,US,West
+Winterthur,Zürich,Switzerland,EU,Central
+Caen,Lower Normandy,France,EU,Central
+Araranguá,Santa Catarina,Brazil,LATAM,South
+Frontignan,Languedoc-Roussillon,France,EU,Central
+Piedras Negras,Coahuila,Mexico,LATAM,North
+Huangshan,Anhui,China,APAC,North Asia
+Derbent,Dagestan,Russia,EMEA,EMEA
+Wheeling,Illinois,United States,US,Central
+Ramnicu Valcea,Valcea,Romania,EMEA,EMEA
+Reading,Pennsylvania,United States,US,East
+Hod HaSharon,Central,Israel,EMEA,EMEA
+Hesperia,California,United States,US,West
+Kisangani,Orientale,Democratic Republic of the Congo,Africa,Africa
+Gladstone,Queensland,Australia,APAC,Oceania
+Santos,São Paulo,Brazil,LATAM,South
+Pertuis,Provence-Alpes-Côte d'Azur,France,EU,Central
+Mont-Saint-Aignan,Upper Normandy,France,EU,Central
+Le Pontet,Provence-Alpes-Côte d'Azur,France,EU,Central
+Zhuzhou,Hunan,China,APAC,North Asia
+Colomiers,Midi-Pyrénées,France,EU,Central
+Cessnock,New South Wales,Australia,APAC,Oceania
+Nanyang,Henan,China,APAC,North Asia
+Pasto,Nariño,Colombia,LATAM,South
+San Bernardino,California,United States,US,West
+Apopka,Florida,United States,US,South
+Barika,Batna,Algeria,Africa,Africa
+Fuzhou,Fujian,China,APAC,North Asia
+Taytay,Calabarzon,Philippines,APAC,Southeast Asia
+Ermont,Ile-de-France,France,EU,Central
+Zhoukou,Henan,China,APAC,North Asia
+Les Mureaux,Ile-de-France,France,EU,Central
+Quchan,Razavi Khorasan,Iran,EMEA,EMEA
+Miramar,Tamaulipas,Mexico,LATAM,North
+K'ut'aisi,Imereti,Georgia,EMEA,EMEA
+Cartagena,Murcia,Spain,EU,South
+Myslowice,Silesia,Poland,EMEA,EMEA
+Rivne,Rivne,Ukraine,EMEA,EMEA
+Emmen,Drenthe,Netherlands,EU,Central
+Chenzhou,Hunan,China,APAC,North Asia
+Revere,Massachusetts,United States,US,East
+Siedlce,Masovia,Poland,EMEA,EMEA
+Shuangyashan,Heilongjiang,China,APAC,North Asia
+Paracatu,Minas Gerais,Brazil,LATAM,South
+Aew?l-li,Jeju,South Korea,APAC,North Asia
+Quibdó,Chocó,Colombia,LATAM,South
+Budënnovsk,Stavropol',Russia,EMEA,EMEA
+Burgas,Burgas,Bulgaria,EMEA,EMEA
+Zlatoust,Chelyabinsk,Russia,EMEA,EMEA
+Vitória,Espírito Santo,Brazil,LATAM,South
+Jalalabad,Nangarhar,Afghanistan,APAC,Central Asia
+Sabadell,Catalonia,Spain,EU,South
+Presidente Prudente,São Paulo,Brazil,LATAM,South
+Garoua,Nord,Cameroon,Africa,Africa
+Kolwezi,Katanga,Democratic Republic of the Congo,Africa,Africa
+San Fernando,Andalusía,Spain,EU,South
+Verviers,Liège,Belgium,EU,Central
+Wichita,Kansas,United States,US,Central
+Eugene,Oregon,United States,US,West
+Saharanpur,Uttar Pradesh,India,APAC,Central Asia
+Cremona,Lombardy,Italy,EU,South
+Duque de Caxias,Rio de Janeiro,Brazil,LATAM,South
+Warsaw,Masovia,Poland,EMEA,EMEA
+Bakersfield,California,United States,US,West
+Lajeado,Rio Grande do Sul,Brazil,LATAM,South
+Plzen,Plzen,Czech Republic,EMEA,EMEA
+Mazyr,Homyel',Belarus,EMEA,EMEA
+Getafe,Madrid,Spain,EU,South
+Tongliao,Inner Mongolia,China,APAC,North Asia
+San Cristóbal de Las Casas,Chiapas,Mexico,LATAM,North
+Mentor,Ohio,United States,US,East
+Bursa,Bursa,Turkey,EMEA,EMEA
+Gaspar,Santa Catarina,Brazil,LATAM,South
+Daegu,Daegu,South Korea,APAC,North Asia
+Betim,Minas Gerais,Brazil,LATAM,South
+Goulburn,New South Wales,Australia,APAC,Oceania
+Rolândia,Parana,Brazil,LATAM,South
+Laohekou,Hubei,China,APAC,North Asia
+Blackburn,England,United Kingdom,EU,North
+Doetinchem,Gelderland,Netherlands,EU,Central
+Botosani,Botosani,Romania,EMEA,EMEA
+Beni Suef,Bani Suwayf,Egypt,Africa,Africa
+Tarbes,Midi-Pyrénées,France,EU,Central
+Modica,Sicily,Italy,EU,South
+Grand Prairie,Texas,United States,US,Central
+Manzini,Manzini,Swaziland,Africa,Africa
+Port Arthur,Texas,United States,US,Central
+San Francisco del Rincón,Guanajuato,Mexico,LATAM,North
+Chatou,Ile-de-France,France,EU,Central
+Akron,Ohio,United States,US,East
+Novara,Piedmont,Italy,EU,South
+Broomfield,Colorado,United States,US,West
+Capelle aan den IJssel,South Holland,Netherlands,EU,Central
+Francisco Morato,São Paulo,Brazil,LATAM,South
+Torquay,Queensland,Australia,APAC,Oceania
+Stellenbosch,Western Cape,South Africa,Africa,Africa
+La Porte,Indiana,United States,US,Central
+Bar-le-Duc,Lorraine,France,EU,Central
+Jundiaí,São Paulo,Brazil,LATAM,South
+Cuautitlán,México,Mexico,LATAM,North
+Palencia,Castile and León,Spain,EU,South
+Enugu,Enugu,Nigeria,Africa,Africa
+Idfu,Aswan,Egypt,Africa,Africa
+Buffalo Grove,Illinois,United States,US,Central
+Woodstock,Illinois,United States,US,Central
+Manzanillo,Colima,Mexico,LATAM,North
+Recife,Pernambuco,Brazil,LATAM,South
+Bedford,England,United Kingdom,EU,North
+Mbinga,Ruvuma,Tanzania,Africa,Africa
+Monroe,North Carolina,United States,US,South
+Bamenda,Nord-Ouest,Cameroon,Africa,Africa
+Heilbronn,Baden-Württemberg,Germany,EU,Central
+Puerto Vallarta,Jalisco,Mexico,LATAM,North
+Qiqihar,Heilongjiang,China,APAC,North Asia
+Sarcelles,Ile-de-France,France,EU,Central
+Carvin,Nord-Pas-de-Calais,France,EU,Central
+Latina,Lazio,Italy,EU,South
+Purwokerto,Jawa Tengah,Indonesia,APAC,Southeast Asia
+Rochester,Minnesota,United States,US,Central
+Torre del Greco,Campania,Italy,EU,South
+Diyarbakir,Diyarbakir,Turkey,EMEA,EMEA
+Mitry-Mory,Ile-de-France,France,EU,Central
+Srinagar,Uttarakhand,India,APAC,Central Asia
+Targu Mures,Mures,Romania,EMEA,EMEA
+Chaguanas,Chaguanas,Trinidad and Tobago,LATAM,Caribbean
+Utica,New York,United States,US,East
+Los Patios,Norte de Santander,Colombia,LATAM,South
+Anápolis,Goiás,Brazil,LATAM,South
+Orlando,Florida,United States,US,South
+Bournemouth,England,United Kingdom,EU,North
+Porto Alegre,Rio Grande do Sul,Brazil,LATAM,South
+São José dos Campos,São Paulo,Brazil,LATAM,South
+Pico Rivera,California,United States,US,West
+Taiping,Perak,Malaysia,APAC,Southeast Asia
+Andradina,São Paulo,Brazil,LATAM,South
+Erfurt,Thuringia,Germany,EU,Central
+Olympia,Washington,United States,US,West
+Vacaville,California,United States,US,West
+Tigard,Oregon,United States,US,West
+Stockton,California,United States,US,West
+Vratsa,Vratsa,Bulgaria,EMEA,EMEA
+Valle de La Pascua,Guárico,Venezuela,LATAM,South
+Talavera de la Reina,Castile-La Mancha,Spain,EU,South
+Hempstead,New York,United States,US,East
+Montecatini Terme,Tuscany,Italy,EU,South
+Guayana,Bolivar,Venezuela,LATAM,South
+Gladstone,Missouri,United States,US,Central
+Yingcheng,Hubei,China,APAC,North Asia
+Tuxtla Gutiérrez,Chiapas,Mexico,LATAM,North
+Pasig,National Capital,Philippines,APAC,Southeast Asia
+Pucallpa,Ucayali,Peru,LATAM,South
+Johnson City,Tennessee,United States,US,South
+Richmond Hill,Ontario,Canada,Canada,Canada
+Capua,Campania,Italy,EU,South
+San Juan del Río,Querétaro,Mexico,LATAM,North
+Chincha Alta,Ica,Peru,LATAM,South
+Oceanside,California,United States,US,West
+Sousa,Paraíba,Brazil,LATAM,South
+Norwich,England,United Kingdom,EU,North
+Boscoreale,Campania,Italy,EU,South
+Friedrichshafen,Baden-Württemberg,Germany,EU,Central
+Namangan,Namangan,Uzbekistan,EMEA,EMEA
+Yacuiba,Tarija,Bolivia,LATAM,South
+La Pintana,Santiago,Chile,LATAM,South
+Corbeil-Essonnes,Ile-de-France,France,EU,Central
+Anglet,Aquitaine,France,EU,Central
+Bertoua,Est,Cameroon,Africa,Africa
+Teresina,Piauí,Brazil,LATAM,South
+El Progreso,Yoro,Honduras,LATAM,Central
+Kikwit,Bandundu,Democratic Republic of the Congo,Africa,Africa
+Giyani,Limpopo,South Africa,Africa,Africa
+Girón,Santander,Colombia,LATAM,South
+Holon,Tel Aviv,Israel,EMEA,EMEA
+Altamira,Pará,Brazil,LATAM,South
+Oak Park,Michigan,United States,US,Central
+Cabo Frio,Rio de Janeiro,Brazil,LATAM,South
+Moulins,Auvergne,France,EU,Central
+Stockport,England,United Kingdom,EU,North
+Amatitlán,Guatemala,Guatemala,LATAM,Central
+Eau Claire,Wisconsin,United States,US,Central
+Hove,England,United Kingdom,EU,North
+Kartal,Istanbul,Turkey,EMEA,EMEA
+York,Pennsylvania,United States,US,East
+Ibadan,Oyo,Nigeria,Africa,Africa
+Jacareí,São Paulo,Brazil,LATAM,South
+Marl,North Rhine-Westphalia,Germany,EU,Central
+Bonneuil-sur-Marne,Ile-de-France,France,EU,Central
+Skokie,Illinois,United States,US,Central
+Abha,'Asir,Saudi Arabia,EMEA,EMEA
+Tanga,Tanga,Tanzania,Africa,Africa
+Eastbourne,England,United Kingdom,EU,North
+Tahta,Suhaj,Egypt,Africa,Africa
+Orsha,Vitsyebsk,Belarus,EMEA,EMEA
+Ibb,Ibb,Yemen,EMEA,EMEA
+Passos,Minas Gerais,Brazil,LATAM,South
+Cherbourg-Octeville,Lower Normandy,France,EU,Central
+Temixco,Morelos,Mexico,LATAM,North
+Oswego,Illinois,United States,US,Central
+Rottingdean,England,United Kingdom,EU,North
+Hailin,Heilongjiang,China,APAC,North Asia
+Salinas,California,United States,US,West
+Agadir,Souss-Massa-Draâ,Morocco,Africa,Africa
+Castelnau-le-Lez,Languedoc-Roussillon,France,EU,Central
+Roman,Neamt,Romania,EMEA,EMEA
+Costa Mesa,California,United States,US,West
+Chernihiv,Chernihiv,Ukraine,EMEA,EMEA
+Livingstone,Southern,Zambia,Africa,Africa
+Superior,Wisconsin,United States,US,Central
+Whittier,California,United States,US,West
+Kisumu,Nyanza,Kenya,Africa,Africa
+Constantine,Constantine,Algeria,Africa,Africa
+Kindu,Maniema,Democratic Republic of the Congo,Africa,Africa
+Damanhur,Al Buhayrah,Egypt,Africa,Africa
+Minuf,Al Minufiyah,Egypt,Africa,Africa
+Cherkasy,Cherkasy,Ukraine,EMEA,EMEA
+Bolu,Bolu,Turkey,EMEA,EMEA
+Morgan Hill,California,United States,US,West
+Kota,Rajasthan,India,APAC,Central Asia
+Hisar,Haryana,India,APAC,Central Asia
+Carol Stream,Illinois,United States,US,Central
+Chartres,Centre,France,EU,Central
+Lubbock,Texas,United States,US,Central
+Guiping,Guangxi,China,APAC,North Asia
+Shijiazhuang,Hebei,China,APAC,North Asia
+Callao,Callao,Peru,LATAM,South
+Yokkaichi,Oita,Japan,APAC,North Asia
+Osh,Osh,Kyrgyzstan,EMEA,EMEA
+Rochdale,England,United Kingdom,EU,North
+Salina Cruz,Oaxaca,Mexico,LATAM,North
+Villingen-Schwenningen,Baden-Württemberg,Germany,EU,Central
+Huadian,Jilin,China,APAC,North Asia
+Catia La Mar,Vargas,Venezuela,LATAM,South
+Cholet,Pays de la Loire,France,EU,Central
+Bucheon,Gyeonggi,South Korea,APAC,North Asia
+Fontenay-sous-Bois,Ile-de-France,France,EU,Central
+Hollywood,Florida,United States,US,South
+Nacka,Stockholm,Sweden,EU,North
+Cannes,Provence-Alpes-Côte d'Azur,France,EU,Central
+Calamba,Calabarzon,Philippines,APAC,Southeast Asia
+La Madeleine,Nord-Pas-de-Calais,France,EU,Central
+Livingston,Scotland,United Kingdom,EU,North
+Boa Vista,Roraima,Brazil,LATAM,South
+Pine Bluff,Arkansas,United States,US,South
+Ad Diwem,White Nile,Sudan,Africa,Africa
+Karimnagar,Telangana,India,APAC,Central Asia
+Herat,Hirat,Afghanistan,APAC,Central Asia
+Takatsuki,Osaka,Japan,APAC,North Asia
+Clifton,New Jersey,United States,US,East
+Angarsk,Irkutsk,Russia,EMEA,EMEA
+Gallarate,Lombardy,Italy,EU,South
+Chetumal,Quintana Roo,Mexico,LATAM,North
+Franklin,Tennessee,United States,US,South
+Bangor,Maine,United States,US,East
+Zaanstad,North Holland,Netherlands,EU,Central
+Mishawaka,Indiana,United States,US,Central
+Horlivka,Donetsk,Ukraine,EMEA,EMEA
+São Miguel dos Campos,Alagoas,Brazil,LATAM,South
+Tamale,Northern,Ghana,Africa,Africa
+Salon-de-Provence,Provence-Alpes-Côte d'Azur,France,EU,Central
+Cognac,Poitou-Charentes,France,EU,Central
+Plovdiv,Plovdiv,Bulgaria,EMEA,EMEA
+Halluin,Nord-Pas-de-Calais,France,EU,Central
+Hereford,England,United Kingdom,EU,North
+Huzhou,Zhejiang,China,APAC,North Asia
+Recklinghausen,North Rhine-Westphalia,Germany,EU,Central
+Portoviejo,Manabi,Ecuador,LATAM,South
+Ngaoundere,Adamaoua,Cameroon,Africa,Africa
+São Leopoldo,Rio Grande do Sul,Brazil,LATAM,South
+Pistoia,Tuscany,Italy,EU,South
+Rubí,Catalonia,Spain,EU,South
+Hechuan,Chongqing,China,APAC,North Asia
+Radom,Masovia,Poland,EMEA,EMEA
+Esenyurt,Istanbul,Turkey,EMEA,EMEA
+Bergamo,Lombardy,Italy,EU,South
+Diadema,São Paulo,Brazil,LATAM,South
+Vanves,Ile-de-France,France,EU,Central
+Moshi,Kilimanjaro,Tanzania,Africa,Africa
+Jaú,São Paulo,Brazil,LATAM,South
+Caçador,Santa Catarina,Brazil,LATAM,South
+Murrieta,California,United States,US,West
+La Paz,La Paz,Bolivia,LATAM,South
+San Jose del Monte,Central Luzon,Philippines,APAC,Southeast Asia
+Moorhead,Minnesota,United States,US,Central
+Lorena,São Paulo,Brazil,LATAM,South
+Northwich,England,United Kingdom,EU,North
+Warangal,Telangana,India,APAC,Central Asia
+Polatli,Ankara,Turkey,EMEA,EMEA
+Dunstable,England,United Kingdom,EU,North
+Ashgabat,Ashgabat,Turkmenistan,EMEA,EMEA
+Florencia,Caquetá,Colombia,LATAM,South
+Dhule,Maharashtra,India,APAC,Central Asia
+Najafabad,Esfahan,Iran,EMEA,EMEA
+Belfort,Franche-Comté,France,EU,Central
+Santa Maria,California,United States,US,West
+Carlsbad,New Mexico,United States,US,West
+Lagos de Moreno,Jalisco,Mexico,LATAM,North
+Pontault-Combault,Ile-de-France,France,EU,Central
+Bryan,Texas,United States,US,Central
+Turgutlu,Manisa,Turkey,EMEA,EMEA
+Athens,Georgia,United States,US,South
+Pesaro,Marche,Italy,EU,South
+Saint Petersburg,Florida,United States,US,South
+Quincy,Massachusetts,United States,US,East
+Iasi,Iasi,Romania,EMEA,EMEA
+Mossoró,Rio Grande do Norte,Brazil,LATAM,South
+Friedberg,Hesse,Germany,EU,Central
+Lancaster,Pennsylvania,United States,US,East
+Puyang,Henan,China,APAC,North Asia
+Puerto Montt,Los Lagos,Chile,LATAM,South
+Al Fayyum,Al Fayyum,Egypt,Africa,Africa
+Irbid,Irbid,Jordan,EMEA,EMEA
+Barbacena,Minas Gerais,Brazil,LATAM,South
+Zhumadian,Henan,China,APAC,North Asia
+Arak,Markazi,Iran,EMEA,EMEA
+Perpignan,Languedoc-Roussillon,France,EU,Central
+Westfield,New Jersey,United States,US,East
+Waco,Texas,United States,US,Central
+Ludwigsburg,Baden-Württemberg,Germany,EU,Central
+Franconville,Ile-de-France,France,EU,Central
+Penedo,Alagoas,Brazil,LATAM,South
+Dniprodzerzhyns'k,Dnipropetrovs'k,Ukraine,EMEA,EMEA
+Korhogo,Savanes,Cote d'Ivoire,Africa,Africa
+Flers,Lower Normandy,France,EU,Central
+Tarnow,Lesser Poland,Poland,EMEA,EMEA
+Lohne,Lower Saxony,Germany,EU,Central
+Musoma,Mara,Tanzania,Africa,Africa
+Mbeya,Mbeya,Tanzania,Africa,Africa
+Kasugai,Aichi,Japan,APAC,North Asia
+Senhor do Bonfim,Bahia,Brazil,LATAM,South
+Sallanches,Rhône-Alpes,France,EU,Central
+Apeldoorn,Gelderland,Netherlands,EU,Central
+Karliova,Bingol,Turkey,EMEA,EMEA
+Plaisance-du-Touch,Midi-Pyrénées,France,EU,Central
+Kirsehir,Kirsehir,Turkey,EMEA,EMEA
+Bandar-e Anzali,Gilan,Iran,EMEA,EMEA
+Trieste,Friuli-Venezia Giulia,Italy,EU,South
+Balikesir,Balikesir,Turkey,EMEA,EMEA
+Colombes,Ile-de-France,France,EU,Central
+Acayucan,Veracruz,Mexico,LATAM,North
+Irving,Texas,United States,US,Central
+Carpi,Emilia-Romagna,Italy,EU,South
+Amol,Mazandaran,Iran,EMEA,EMEA
+Bahawalpur,Punjab,Pakistan,APAC,Central Asia
+Zabol,Sistan Va Baluchestan,Iran,EMEA,EMEA
+Reus,Catalonia,Spain,EU,South
+Braga,Braga,Portugal,EU,South
+Badajoz,Extremadura,Spain,EU,South
+Hayange,Lorraine,France,EU,Central
+Bejaia,Bejaia,Algeria,Africa,Africa
+Unna,North Rhine-Westphalia,Germany,EU,Central
+Texarkana,Arkansas,United States,US,South
+Sucre,Chuquisaca,Bolivia,LATAM,South
+Ontario,California,United States,US,West
+La Roche-sur-Yon,Pays de la Loire,France,EU,Central
+Almelo,Overijssel,Netherlands,EU,Central
+Vacaria,Rio Grande do Sul,Brazil,LATAM,South
+Marbella,Andalusía,Spain,EU,South
+Lake Charles,Louisiana,United States,US,South
+Malatya,Malatya,Turkey,EMEA,EMEA
+Bezerros,Pernambuco,Brazil,LATAM,South
+Al Hufuf,Ash Sharqiyah,Saudi Arabia,EMEA,EMEA
+Bagé,Rio Grande do Sul,Brazil,LATAM,South
+Delft,South Holland,Netherlands,EU,Central
+Sittard,Limburg,Netherlands,EU,Central
+Panihati,West Bengal,India,APAC,Central Asia
+Hidalgo,Michoacán,Mexico,LATAM,North
+Choisy-le-Roi,Ile-de-France,France,EU,Central
+Raipur,Rajasthan,India,APAC,Central Asia
+Uithoorn,North Holland,Netherlands,EU,Central
+Sioux Falls,South Dakota,United States,US,Central
+Eragny,Ile-de-France,France,EU,Central
+Lake Elsinore,California,United States,US,West
+Rosarito,Baja California,Mexico,LATAM,North
+New Rochelle,New York,United States,US,East
+Chandigarh,Chandigarh,India,APAC,Central Asia
+Sagamihara,Kanagawa,Japan,APAC,North Asia
+Xichang,Sichuan,China,APAC,North Asia
+Cagnes-sur-Mer,Provence-Alpes-Côte d'Azur,France,EU,Central
+Zabrze,Silesia,Poland,EMEA,EMEA
+Molina de Segura,Murcia,Spain,EU,South
+Matadi,Bas-Congo,Democratic Republic of the Congo,Africa,Africa
+Kaiyuan,Yunnan,China,APAC,North Asia
+Esquina,Corrientes,Argentina,LATAM,South
+Saveh,Markazi,Iran,EMEA,EMEA
+Cankaya,Ankara,Turkey,EMEA,EMEA
+Uruguaiana,Rio Grande do Sul,Brazil,LATAM,South
+Valence,Rhône-Alpes,France,EU,Central
+Chitungwiza,Harare,Zimbabwe,Africa,Africa
+East London,Eastern Cape,South Africa,Africa,Africa
+Conway,Arkansas,United States,US,South
+Maiduguri,Borno,Nigeria,Africa,Africa
+Gonesse,Ile-de-France,France,EU,Central
+Schiedam,South Holland,Netherlands,EU,Central
+Hattiesburg,Mississippi,United States,US,South
+Wetter (Ruhr),North Rhine-Westphalia,Germany,EU,Central
+Floridablanca,Santander,Colombia,LATAM,South
+Halifax,England,United Kingdom,EU,North
+Bebington,England,United Kingdom,EU,North
+Saint-Cloud,Ile-de-France,France,EU,Central
+Pontes e Lacerda,Mato Grosso,Brazil,LATAM,South
+Solihull,England,United Kingdom,EU,North
+Iskenderun,Hatay,Turkey,EMEA,EMEA
+Canakkale,Canakkale,Turkey,EMEA,EMEA
+Freeport,New York,United States,US,East
+Kozan,Adana,Turkey,EMEA,EMEA
+Helena,Montana,United States,US,West
+Vlore,Vlorë,Albania,EMEA,EMEA
+Monza,Lombardy,Italy,EU,South
+Palm Coast,Florida,United States,US,South
+São Pedro da Aldeia,Rio de Janeiro,Brazil,LATAM,South
+Uvira,South Kivu,Democratic Republic of the Congo,Africa,Africa
+Edogawa-ku,Tokyo,Japan,APAC,North Asia
+Cirebon,Jawa Barat,Indonesia,APAC,Southeast Asia
+Kokshetau,Aqmola,Kazakhstan,EMEA,EMEA
+Brussels,Brussels,Belgium,EU,Central
+Yancheng,Jiangsu,China,APAC,North Asia
+Saanich,British Columbia,Canada,Canada,Canada
+Manteca,California,United States,US,West
+Neuilly-sur-Marne,Ile-de-France,France,EU,Central
+Nakhon Ratchasima,Nakhon Ratchasima,Thailand,APAC,Southeast Asia
+Saint-Avold,Lorraine,France,EU,Central
+Gaziemir,Izmir,Turkey,EMEA,EMEA
+Edinburg,Texas,United States,US,Central
+Hengelo,Overijssel,Netherlands,EU,Central
+Pekalongan,Jawa Tengah,Indonesia,APAC,Southeast Asia
+Naumburg,Saxony-Anhalt,Germany,EU,Central
+Civitavecchia,Lazio,Italy,EU,South
+Dinslaken,North Rhine-Westphalia,Germany,EU,Central
+Pila,Greater Poland,Poland,EMEA,EMEA
+Moreno Valley,California,United States,US,West
+Antalya,Antalya,Turkey,EMEA,EMEA
+Epinal,Lorraine,France,EU,Central
+Grasse,Provence-Alpes-Côte d'Azur,France,EU,Central
+Ipswich,England,United Kingdom,EU,North
+East Kilbride,Scotland,United Kingdom,EU,North
+Chorzow,Silesia,Poland,EMEA,EMEA
+Montfermeil,Ile-de-France,France,EU,Central
+Gummersbach,North Rhine-Westphalia,Germany,EU,Central
+Marsala,Sicily,Italy,EU,South
+Suwon,Gyeonggi,South Korea,APAC,North Asia
+Buca,Izmir,Turkey,EMEA,EMEA
+Sant Boi de Llobregat,Catalonia,Spain,EU,South
+Van,Van,Turkey,EMEA,EMEA
+Hackensack,New Jersey,United States,US,East
+Guzmán,Jalisco,Mexico,LATAM,North
+Cruz das Almas,Bahia,Brazil,LATAM,South
+Cipolletti,Río Negro,Argentina,LATAM,South
+Siping,Jilin,China,APAC,North Asia
+Arauca,Arauca,Colombia,LATAM,South
+Sukabumi,Jawa Barat,Indonesia,APAC,Southeast Asia
+Registro,São Paulo,Brazil,LATAM,South
+Sevastopol,Sevastopol',Ukraine,EMEA,EMEA
+Langenfeld,North Rhine-Westphalia,Germany,EU,Central
+Mirzapur,Uttar Pradesh,India,APAC,Central Asia
+Rome,New York,United States,US,East
+Zeist,Utrecht,Netherlands,EU,Central
+Benevento,Campania,Italy,EU,South
+Kotka,Kymenlaakso,Finland,EU,North
+Baní,Peravia,Dominican Republic,LATAM,Caribbean
+Ibaraki,Osaka,Japan,APAC,North Asia
+Taza,Taza-Al Hoceima-Taounate,Morocco,Africa,Africa
+Quixadá,Ceará,Brazil,LATAM,South
+Yao,Osaka,Japan,APAC,North Asia
+Porlamar,Nueva Esparta,Venezuela,LATAM,South
+Qarshi,Qashqadaryo,Uzbekistan,EMEA,EMEA
+Ternopil',Ternopil',Ukraine,EMEA,EMEA
+Le Blanc-Mesnil,Ile-de-France,France,EU,Central
+Tangerang,Jawa Barat,Indonesia,APAC,Southeast Asia
+Centurion,Gauteng,South Africa,Africa,Africa
+Delray Beach,Florida,United States,US,South
+Pembroke Pines,Florida,United States,US,South
+Ipiales,Nariño,Colombia,LATAM,South
+Bristol,Connecticut,United States,US,East
+Bratsk,Irkutsk,Russia,EMEA,EMEA
+Sialkot,Punjab,Pakistan,APAC,Central Asia
+Pessac,Aquitaine,France,EU,Central
+Rizhao,Shandong,China,APAC,North Asia
+Nha Trang,Khánh Hòa,Vietnam,APAC,Southeast Asia
+Freiburg,Baden-Württemberg,Germany,EU,Central
+Ocaña,Norte de Santander,Colombia,LATAM,South
+Bezons,Ile-de-France,France,EU,Central
+Yambol,Yambol,Bulgaria,EMEA,EMEA
+Shangzhi,Heilongjiang,China,APAC,North Asia
+Oktyabr'skiy,Bashkortostan,Russia,EMEA,EMEA
+Senlis,Picardy,France,EU,Central
+Mar del Plata,Provincia de Buenos Aires,Argentina,LATAM,South
+Dire Dawa,Dire Dawa,Ethiopia,Africa,Africa
+Agrigento,Sicily,Italy,EU,South
+Sale,England,United Kingdom,EU,North
+Cambrai,Nord-Pas-de-Calais,France,EU,Central
+Aba,Abia,Nigeria,Africa,Africa
+Poços de Caldas,Minas Gerais,Brazil,LATAM,South
+Vaulx-en-Velin,Rhône-Alpes,France,EU,Central
+Butare,Southern,Rwanda,Africa,Africa
+Asunción,Asunción,Paraguay,LATAM,South
+Mendoza,Mendoza,Argentina,LATAM,South
+Southport,England,United Kingdom,EU,North
+Missoula,Montana,United States,US,West
+Itaúna,Minas Gerais,Brazil,LATAM,South
+Sabzevar,Razavi Khorasan,Iran,EMEA,EMEA
+Markham,Ontario,Canada,Canada,Canada
+Sangli,Maharashtra,India,APAC,Central Asia
+Bremerhaven,Bremen,Germany,EU,Central
+Miramar,Florida,United States,US,South
+Drobeta-Turnu Severin,Mehedinti,Romania,EMEA,EMEA
+Jodhpur,Gujarat,India,APAC,Central Asia
+Bo,Southern,Sierra Leone,Africa,Africa
+Acireale,Sicily,Italy,EU,South
+Laon,Picardy,France,EU,Central
+Hampton,Virginia,United States,US,South
+Redding,California,United States,US,West
+Corlu,Tekirdag,Turkey,EMEA,EMEA
+Baia Mare,Maramures,Romania,EMEA,EMEA
+San José de Guanipa,Anzoátegui,Venezuela,LATAM,South
+Nagaoka,Shizuoka,Japan,APAC,North Asia
+Durgapur,West Bengal,India,APAC,Central Asia
+Mâcon,Burgundy,France,EU,Central
+Zhaoyuan,Heilongjiang,China,APAC,North Asia
+Tyler,Texas,United States,US,Central
+Ploemeur,Brittany,France,EU,Central
+La Paz,Baja California Sur,Mexico,LATAM,North
+Innsbruck,Tyrol,Austria,EMEA,EMEA
+Vertou,Pays de la Loire,France,EU,Central
+Holyoke,Massachusetts,United States,US,East
+Mauguio,Languedoc-Roussillon,France,EU,Central
+Funabashi,Chiba,Japan,APAC,North Asia
+Elazig,Elazig,Turkey,EMEA,EMEA
+San Justo,Santa Fe,Argentina,LATAM,South
+Santo Domingo de los Colorados,Pichincha,Ecuador,LATAM,South
+Gladbeck,North Rhine-Westphalia,Germany,EU,Central
+Woodland,California,United States,US,West
+Korla,Xinjiang Uygur,China,APAC,North Asia
+Maisons-Alfort,Ile-de-France,France,EU,Central
+Bisceglie,Apulia,Italy,EU,South
+Draper,Utah,United States,US,West
+Jurema,Pernambuco,Brazil,LATAM,South
+Bijapur,Karnataka,India,APAC,Central Asia
+Witten,North Rhine-Westphalia,Germany,EU,Central
+Marina di Carrara,Tuscany,Italy,EU,South
+Taboão da Serra,São Paulo,Brazil,LATAM,South
+Meaux,Ile-de-France,France,EU,Central
+Alcobendas,Madrid,Spain,EU,South
+Cuxhaven,Lower Saxony,Germany,EU,Central
+Natitingou,Atakora,Benin,Africa,Africa
+Basingstoke,England,United Kingdom,EU,North
+Czestochowa,Silesia,Poland,EMEA,EMEA
+Lebanon,Tennessee,United States,US,South
+Pinheiro,Maranhão,Brazil,LATAM,South
+Albi,Midi-Pyrénées,France,EU,Central
+Wuzhou,Guangxi,China,APAC,North Asia
+Ilorin,Kwara,Nigeria,Africa,Africa
+Barreirinhas,Maranhão,Brazil,LATAM,South
+East Orange,New Jersey,United States,US,East
+Goussainville,Ile-de-France,France,EU,Central
+Qostanay,Qostanay,Kazakhstan,EMEA,EMEA
+Vineland,New Jersey,United States,US,East
+Cesena,Emilia-Romagna,Italy,EU,South
+Shahreza,Esfahan,Iran,EMEA,EMEA
+Settat,Chaouia-Ouardigha,Morocco,Africa,Africa
+Rancho Cucamonga,California,United States,US,West
+Ercolano,Campania,Italy,EU,South
+Vitry-sur-Seine,Ile-de-France,France,EU,Central
+Cavaillon,Provence-Alpes-Côte d'Azur,France,EU,Central
+Chesterfield,England,United Kingdom,EU,North
+Gien,Centre,France,EU,Central
+Port Said,Bur Sa'id,Egypt,Africa,Africa
+Solna,Stockholm,Sweden,EU,North
+Nikopol',Dnipropetrovs'k,Ukraine,EMEA,EMEA
+San Angelo,Texas,United States,US,Central
+Hadera,Haifa,Israel,EMEA,EMEA
+Itapecerica da Serra,São Paulo,Brazil,LATAM,South
+Ocotlán,Jalisco,Mexico,LATAM,North
+Vilhena,Rondônia,Brazil,LATAM,South
+Tel Aviv,Tel Aviv,Israel,EMEA,EMEA
+Taylor,Michigan,United States,US,Central
+Antofagasta,Antofagasta,Chile,LATAM,South
+Shrewsbury,England,United Kingdom,EU,North
+Evreux,Upper Normandy,France,EU,Central
+Mouscron,Hainaut,Belgium,EU,Central
+Bucaramanga,Santander,Colombia,LATAM,South
+Piotrkow Trybunalski,Lodz,Poland,EMEA,EMEA
+Jiaxing,Zhejiang,China,APAC,North Asia
+Zhangjiakou,Hebei,China,APAC,North Asia
+Andijon,Andijan,Uzbekistan,EMEA,EMEA
+Arnsberg,North Rhine-Westphalia,Germany,EU,Central
+Les Pennes-Mirabeau,Provence-Alpes-Côte d'Azur,France,EU,Central
+Harare,Harare,Zimbabwe,Africa,Africa
+Saint Louis,Missouri,United States,US,Central
+Boghni,Tizi Ouzou,Algeria,Africa,Africa
+Runcorn,England,United Kingdom,EU,North
+Las Piedras,Canelones,Uruguay,LATAM,South
+Changde,Hunan,China,APAC,North Asia
+Puerto Padre,Las Tunas,Cuba,LATAM,Caribbean
+Carquefou,Pays de la Loire,France,EU,Central
+Cedar Rapids,Iowa,United States,US,Central
+Kenitra,Gharb-Chrarda-Béni Hssen,Morocco,Africa,Africa
+Caserta,Campania,Italy,EU,South
+Saint-Quentin,Picardy,France,EU,Central
+Osmaniye,Osmaniye,Turkey,EMEA,EMEA
+Posadas,Misiones,Argentina,LATAM,South
+Brumado,Bahia,Brazil,LATAM,South
+Xianning,Hubei,China,APAC,North Asia
+Chattanooga,Tennessee,United States,US,South
+Salem,Virginia,United States,US,South
+Khorramshahr,Khuzestan,Iran,EMEA,EMEA
+Eskilstuna,Södermanland,Sweden,EU,North
+Jalna,Maharashtra,India,APAC,Central Asia
+Pavlodar,Pavlodar,Kazakhstan,EMEA,EMEA
+Tartu,Tartumaa,Estonia,EMEA,EMEA
+Encinitas,California,United States,US,West
+Sidi Bel Abbes,Sidi Bel Abbes,Algeria,Africa,Africa
+Kampala,Kampala,Uganda,Africa,Africa
+Qazvin,Qazvin,Iran,EMEA,EMEA
+Igdir,Igdir,Turkey,EMEA,EMEA
+Louviers,Upper Normandy,France,EU,Central
+Guanare,Portuguesa,Venezuela,LATAM,South
+Mallawi,Al Minya,Egypt,Africa,Africa
+Bedford,Texas,United States,US,Central
+Kettering,England,United Kingdom,EU,North
+Leverkusen,North Rhine-Westphalia,Germany,EU,Central
+Zenica,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,EMEA,EMEA
+Miass,Chelyabinsk,Russia,EMEA,EMEA
+Tychy,Silesia,Poland,EMEA,EMEA
+Khenifra,Meknès-Tafilalet,Morocco,Africa,Africa
+Drogobych,L'viv,Ukraine,EMEA,EMEA
+Visalia,California,United States,US,West
+Balmazujvaros,Hajdu-Bihar,Hungary,EMEA,EMEA
+Guatemala City,Guatemala,Guatemala,LATAM,Central
+Fleury-les-Aubrais,Centre,France,EU,Central
+Mohammedia,Grand Casablanca,Morocco,Africa,Africa
+Hendersonville,Tennessee,United States,US,South
+Acarigua,Portuguesa,Venezuela,LATAM,South
+Maturín,Monagas,Venezuela,LATAM,South
+Nitra,Nitra,Slovakia,EMEA,EMEA
+Barquisimeto,Lara,Venezuela,LATAM,South
+League City,Texas,United States,US,Central
+San Martín,Cuscatlán,El Salvador,LATAM,Central
+Barneveld,Gelderland,Netherlands,EU,Central
+Tarsus,Mersin,Turkey,EMEA,EMEA
+Pirapora,Minas Gerais,Brazil,LATAM,South
+Rapid City,South Dakota,United States,US,Central
+Bellary,Karnataka,India,APAC,Central Asia
+Frankfort,Illinois,United States,US,Central
+Gubkin,Belgorod,Russia,EMEA,EMEA
+Velbert,North Rhine-Westphalia,Germany,EU,Central
+Colombo,Western,Sri Lanka,APAC,Central Asia
+Mau,Uttar Pradesh,India,APAC,Central Asia
+Zwolle,Overijssel,Netherlands,EU,Central
+Messaad,Djelfa,Algeria,Africa,Africa
+Umuarama,Parana,Brazil,LATAM,South
+Park Ridge,Illinois,United States,US,Central
+Norwich,Connecticut,United States,US,East
+Kayseri,Kayseri,Turkey,EMEA,EMEA
+Corum,Corum,Turkey,EMEA,EMEA
+Manisa,Manisa,Turkey,EMEA,EMEA
+Domont,Ile-de-France,France,EU,Central
+Neuilly-Plaisance,Ile-de-France,France,EU,Central
+Lins,São Paulo,Brazil,LATAM,South
+Antakya,Hatay,Turkey,EMEA,EMEA
+St. Catharines,Ontario,Canada,Canada,Canada
+Blois,Centre,France,EU,Central
+Ikot Ekpene,Akwa Ibom,Nigeria,Africa,Africa
+Manhattan,Kansas,United States,US,Central
+Tournai,Hainaut,Belgium,EU,Central
+Montceau-les-Mines,Burgundy,France,EU,Central
+The Colony,Texas,United States,US,Central
+Nigde,Nigde,Turkey,EMEA,EMEA
+Sanford,Florida,United States,US,South
+Bourgoin-Jallieu,Rhône-Alpes,France,EU,Central
+Lanxi,Zhejiang,China,APAC,North Asia
+Conroe,Texas,United States,US,Central
+Lianzhou,Guangdong,China,APAC,North Asia
+Mezitli,Mersin,Turkey,EMEA,EMEA
+Sceaux,Ile-de-France,France,EU,Central
+Stavanger,Rogaland,Norway,EU,North
+Eggenstein-Leopoldshafen,Baden-Württemberg,Germany,EU,Central
+Ancona,Marche,Italy,EU,South
+Campeche,Campeche,Mexico,LATAM,North
+Saint-Herblain,Pays de la Loire,France,EU,Central
+Uvarovo,Tambov,Russia,EMEA,EMEA
+Hilden,North Rhine-Westphalia,Germany,EU,Central
+Saint-Nazaire,Pays de la Loire,France,EU,Central
+Navegantes,Santa Catarina,Brazil,LATAM,South
+Saskatoon,Saskatchewan,Canada,Canada,Canada
+Cormeilles-en-Parisis,Ile-de-France,France,EU,Central
+Bhatpara,West Bengal,India,APAC,Central Asia
+Zinder,Zinder,Niger,Africa,Africa
+Covington,Washington,United States,US,West
+Olathe,Kansas,United States,US,Central
+Barnsley,England,United Kingdom,EU,North
+La Mesa,California,United States,US,West
+Sakai,Osaka,Japan,APAC,North Asia
+Malambo,Atlántico,Colombia,LATAM,South
+Mardan,Khyber Pakhtunkhwa,Pakistan,APAC,Central Asia
+Iquitos,Loreto,Peru,LATAM,South
+Randfontein,Gauteng,South Africa,Africa,Africa
+Huddinge,Stockholm,Sweden,EU,North
+Chengjiang,Jiangsu,China,APAC,North Asia
+Lancaster,California,United States,US,West
+Kuito,Bie,Angola,Africa,Africa
+Pinsk,Brest,Belarus,EMEA,EMEA
+Auch,Midi-Pyrénées,France,EU,Central
+Sahuayo de José María Morelos,Michoacán,Mexico,LATAM,North
+Albertville,Rhône-Alpes,France,EU,Central
+Vittoria,Sicily,Italy,EU,South
+Tetouan,Tanger-Tétouan,Morocco,Africa,Africa
+Langen,Hesse,Germany,EU,Central
+Handa,Aichi,Japan,APAC,North Asia
+Lanester,Brittany,France,EU,Central
+Daytona Beach,Florida,United States,US,South
+Khouribga,Chaouia-Ouardigha,Morocco,Africa,Africa
+Gardanne,Provence-Alpes-Côte d'Azur,France,EU,Central
+Bloomington,Illinois,United States,US,Central
+Valdemoro,Madrid,Spain,EU,South
+Gulbarga,Karnataka,India,APAC,Central Asia
+Rockville,Maryland,United States,US,East
+Fukui,Fukui,Japan,APAC,North Asia
+Salamanca,Castile and León,Spain,EU,South
+Santiago del Estero,Santiago del Estero,Argentina,LATAM,South
+Qidong,Jiangsu,China,APAC,North Asia
+Bajos de Haina,San Cristóbal,Dominican Republic,LATAM,Caribbean
+Forbach,Lorraine,France,EU,Central
+Freeport,Illinois,United States,US,Central
+Yichun,Jiangxi,China,APAC,North Asia
+Cártama,Andalusía,Spain,EU,South
+Villiers-sur-Marne,Ile-de-France,France,EU,Central
+Minna,Niger,Nigeria,Africa,Africa
+Almaty,Almaty City,Kazakhstan,EMEA,EMEA
+Coatzacoalcos,Veracruz,Mexico,LATAM,North
+Contagem,Minas Gerais,Brazil,LATAM,South
+Niagara Falls,New York,United States,US,East
+Balti,Balti,Moldova,EMEA,EMEA
+Ulsan,Ulsan,South Korea,APAC,North Asia
+Garden City,Kansas,United States,US,Central
+Kawaguchi,Saitama,Japan,APAC,North Asia
+Boa Esperança,Minas Gerais,Brazil,LATAM,South
+Armenia,Quindío,Colombia,LATAM,South
+Petare,Miranda,Venezuela,LATAM,South
+Bragança Paulista,São Paulo,Brazil,LATAM,South
+Barretos,São Paulo,Brazil,LATAM,South
+Guidonia Montecelio,Lazio,Italy,EU,South
+Cournon-d'Auvergne,Auvergne,France,EU,Central
+Boulogne-sur-Mer,Nord-Pas-de-Calais,France,EU,Central
+Nkongsamba,Littoral,Cameroon,Africa,Africa
+Palatine,Illinois,United States,US,Central
+Tianguá,Ceará,Brazil,LATAM,South
+North Charleston,South Carolina,United States,US,South
+Glenview,Illinois,United States,US,Central
+Antsiranana,Diana,Madagascar,Africa,Africa
+Valledupar,Cesar,Colombia,LATAM,South
+Pindamonhangaba,São Paulo,Brazil,LATAM,South
+Tampico,Tamaulipas,Mexico,LATAM,North
+Coppell,Texas,United States,US,Central
+Vignola,Emilia-Romagna,Italy,EU,South
+Jincheng,Shanxi,China,APAC,North Asia
+Gaithersburg,Maryland,United States,US,East
+Kahramanmaras,Kahramanmaras,Turkey,EMEA,EMEA
+Texas City,Texas,United States,US,Central
+Kamarhati,West Bengal,India,APAC,Central Asia
+Bandundu,Bandundu,Democratic Republic of the Congo,Africa,Africa
+Chevilly-Larue,Ile-de-France,France,EU,Central
+Kent,Ohio,United States,US,East
+Port Saint Lucie,Florida,United States,US,South
+Bolívar,Bolivar,Venezuela,LATAM,South
+Warri,Delta,Nigeria,Africa,Africa
+Delicias,Chihuahua,Mexico,LATAM,North
+Alfortville,Ile-de-France,France,EU,Central
+Yaritagua,Yaracuy,Venezuela,LATAM,South
+Kremenchuk,Poltava,Ukraine,EMEA,EMEA
+Villeparisis,Ile-de-France,France,EU,Central
+Verdun,Lorraine,France,EU,Central
+Berck,Nord-Pas-de-Calais,France,EU,Central
+Roanne,Rhône-Alpes,France,EU,Central
+Warner Robins,Georgia,United States,US,South
+Mtwara,Mtwara,Tanzania,Africa,Africa
+Banda Aceh,Aceh,Indonesia,APAC,Southeast Asia
+Westland,Michigan,United States,US,Central
+Jiamusi,Heilongjiang,China,APAC,North Asia
+Roubaix,Nord-Pas-de-Calais,France,EU,Central
+Villeneuve-la-Garenne,Ile-de-France,France,EU,Central
+Katsushika-ku,Tokyo,Japan,APAC,North Asia
+San Mateo,California,United States,US,West
+Fano,Marche,Italy,EU,South
+Feira,Aveiro,Portugal,EU,South
+Moa,Holguín,Cuba,LATAM,Caribbean
+Viersen,North Rhine-Westphalia,Germany,EU,Central
+Mococa,São Paulo,Brazil,LATAM,South
+Gliwice,Silesia,Poland,EMEA,EMEA
+Estepona,Andalusía,Spain,EU,South
+Dover,Delaware,United States,US,East
+Mostaganem,Mostaganem,Algeria,Africa,Africa
+Sanary-sur-Mer,Provence-Alpes-Côte d'Azur,France,EU,Central
+Warrnambool,Victoria,Australia,APAC,Oceania
+Mersin,Mersin,Turkey,EMEA,EMEA
+Trinidad,Beni,Bolivia,LATAM,South
+Lisieux,Lower Normandy,France,EU,Central
+Datong,Anhui,China,APAC,North Asia
+Neu-Ulm,Bavaria,Germany,EU,Central
+Getxo,Basque Country,Spain,EU,South
+Soledad Díez Gutiérrez,San Luis Potosí,Mexico,LATAM,North
+Piacenza,Emilia-Romagna,Italy,EU,South
+Clichy,Ile-de-France,France,EU,Central
+Toyohashi,Aichi,Japan,APAC,North Asia
+Milford,Connecticut,United States,US,East
+Astana,Astana,Kazakhstan,EMEA,EMEA
+Mariupol',Donetsk,Ukraine,EMEA,EMEA
+Garanhuns,Pernambuco,Brazil,LATAM,South
+Zaporizhzhya,Zaporizhzhya,Ukraine,EMEA,EMEA
+Ganganagar,Rajasthan,India,APAC,Central Asia
+Maracay,Aragua,Venezuela,LATAM,South
+Summerville,South Carolina,United States,US,South
+Asyut,Asyut,Egypt,Africa,Africa
+Vassouras,Rio de Janeiro,Brazil,LATAM,South
+Medea,Medea,Algeria,Africa,Africa
+Viña del Mar,Valparaíso,Chile,LATAM,South
+Halifax,Nova Scotia,Canada,Canada,Canada
+Trani,Apulia,Italy,EU,South
+Toledo,Castile-La Mancha,Spain,EU,South
+Loughborough,England,United Kingdom,EU,North
+Helmond,North Brabant,Netherlands,EU,Central
+Neubrandenburg,Mecklenburg-Vorpommern,Germany,EU,Central
+Buyukcekmece,Istanbul,Turkey,EMEA,EMEA
+Darton,England,United Kingdom,EU,North
+Pingxiang,Jiangxi,China,APAC,North Asia
+Khemisset,Rabat-Salé-Zemmour-Zaer,Morocco,Africa,Africa
+College Station,Texas,United States,US,Central
+Arcoverde,Pernambuco,Brazil,LATAM,South
+Dzhezkazgan,Qaraghandy,Kazakhstan,EMEA,EMEA
+Bowling Green,Kentucky,United States,US,South
+Yanji,Jilin,China,APAC,North Asia
+Rhondda,Wales,United Kingdom,EU,North
+Sosnowiec,Silesia,Poland,EMEA,EMEA
+Jequié,Bahia,Brazil,LATAM,South
+Rosny-sous-Bois,Ile-de-France,France,EU,Central
+Chimbote,Ancash,Peru,LATAM,South
+Cartago,Valle del Cauca,Colombia,LATAM,South
+Troyes,Champagne-Ardenne,France,EU,Central
+Fuenlabrada,Madrid,Spain,EU,South
+Konya,Konya,Turkey,EMEA,EMEA
+Wilson,North Carolina,United States,US,South
+Clacton-on-Sea,England,United Kingdom,EU,North
+Pomezia,Lazio,Italy,EU,South
+Springs,Gauteng,South Africa,Africa,Africa
+Bergheim,North Rhine-Westphalia,Germany,EU,Central
+Abbotsford,British Columbia,Canada,Canada,Canada
+Bruges,West Flanders,Belgium,EU,Central
+Cruzeiro,São Paulo,Brazil,LATAM,South
+Harlingen,Texas,United States,US,Central
+Bilbeis,Ash Sharqiyah,Egypt,Africa,Africa
+Cumaná,Sucre,Venezuela,LATAM,South
+Vancouver,Washington,United States,US,West
+Panipat,Haryana,India,APAC,Central Asia
+Bad Waldsee,Baden-Württemberg,Germany,EU,Central
+Udaipur,Tripura,India,APAC,Central Asia
+Eunápolis,Bahia,Brazil,LATAM,South
+Kalundborg,Zealand,Denmark,EU,North
+Bergisch Gladbach,North Rhine-Westphalia,Germany,EU,Central
+Santa Cruz do Sul,Rio Grande do Sul,Brazil,LATAM,South
+Murray,Utah,United States,US,West
+Gandia,Valenciana,Spain,EU,South
+Grand Rapids,Michigan,United States,US,Central
+Águas Lindas de Goiás,Goiás,Brazil,LATAM,South
+Moncalieri,Piedmont,Italy,EU,South
+Roermond,Limburg,Netherlands,EU,Central
+Wolfsburg,Lower Saxony,Germany,EU,Central
+Skikda,Skikda,Algeria,Africa,Africa
+Yushu,Jilin,China,APAC,North Asia
+Ostrava,Moravian-Silesian,Czech Republic,EMEA,EMEA
+Valparaíso,Valparaíso,Chile,LATAM,South
+Zacatecas,Zacatecas,Mexico,LATAM,North
+Arrentela,Setúbal,Portugal,EU,South
+Citrus Heights,California,United States,US,West
+Montesson,Ile-de-France,France,EU,Central
+Hot Springs,Arkansas,United States,US,South
+Coon Rapids,Minnesota,United States,US,Central
+Ramat Gan,Tel Aviv,Israel,EMEA,EMEA
+Wendeng,Shandong,China,APAC,North Asia
+Caluire-et-Cuire,Rhône-Alpes,France,EU,Central
+Camaçari,Bahia,Brazil,LATAM,South
+Bialystok,Podlaskie,Poland,EMEA,EMEA
+Apatzingán de la Constitución,Michoacán,Mexico,LATAM,North
+Vespasiano,Minas Gerais,Brazil,LATAM,South
+Cambridge,Massachusetts,United States,US,East
+Ain Oussera,Djelfa,Algeria,Africa,Africa
+Ji-Paraná,Rondônia,Brazil,LATAM,South
+Kashira,Moscow,Russia,EMEA,EMEA
+Adiyaman,Adiyaman,Turkey,EMEA,EMEA
+Giurgiu,Giurgiu,Romania,EMEA,EMEA
+Barra do Piraí,Rio de Janeiro,Brazil,LATAM,South
+Kulob,Khatlon,Tajikistan,EMEA,EMEA
+Las Cruces,New Mexico,United States,US,West
+Pontevedra,Galicia,Spain,EU,South
+Esbjerg,South Denmark,Denmark,EU,North
+Arezzo,Tuscany,Italy,EU,South
+Mijas,Andalusía,Spain,EU,South
+Chimoio,Manica,Mozambique,Africa,Africa
+Sanliurfa,Sanliurfa,Turkey,EMEA,EMEA
+Camocim,Ceará,Brazil,LATAM,South
+Pestovo,Novgorod,Russia,EMEA,EMEA
+Argentan,Lower Normandy,France,EU,Central
+Saint Charles,Missouri,United States,US,Central
+Sarreguemines,Lorraine,France,EU,Central
+Waiblingen,Baden-Württemberg,Germany,EU,Central
+Vigneux-sur-Seine,Ile-de-France,France,EU,Central
+Tlemcen,Tlemcen,Algeria,Africa,Africa
+Fresnillo de González Echeverría,Zacatecas,Mexico,LATAM,North
+Javanrud,Kermanshah,Iran,EMEA,EMEA
+Rochefort,Poitou-Charentes,France,EU,Central
+Belgorod,Belgorod,Russia,EMEA,EMEA
+Molfetta,Apulia,Italy,EU,South
+Westonaria,Gauteng,South Africa,Africa,Africa
+Majadahonda,Madrid,Spain,EU,South
+Maisons-Laffitte,Ile-de-France,France,EU,Central
+Floriano,Piauí,Brazil,LATAM,South
+Terneuzen,Zeeland,Netherlands,EU,Central
+Les Lilas,Ile-de-France,France,EU,Central
+Sliven,Sliven,Bulgaria,EMEA,EMEA
+Sagunto,Valenciana,Spain,EU,South
+Sapele,Delta,Nigeria,Africa,Africa
+Avellino,Campania,Italy,EU,South
+Baraki,Tipaza,Algeria,Africa,Africa
+Echuca,Victoria,Australia,APAC,Oceania
+Turkmenabat,Lebap,Turkmenistan,EMEA,EMEA
+Oriximiná,Pará,Brazil,LATAM,South
+Erechim,Rio Grande do Sul,Brazil,LATAM,South
+Leeuwarden,Friesland,Netherlands,EU,Central
+Yiwu,Zhejiang,China,APAC,North Asia
+Ayacucho,Ayacucho,Peru,LATAM,South
+San Marcos,Texas,United States,US,Central
+Corrientes,Corrientes,Argentina,LATAM,South
+Ziguinchor,Ziguinchor,Senegal,Africa,Africa
+Briton Ferry,Wales,United Kingdom,EU,North
+Barry,Wales,United Kingdom,EU,North
+Yazd,Yazd,Iran,EMEA,EMEA
+Qena,Qina,Egypt,Africa,Africa
+Hinckley,England,United Kingdom,EU,North
+Guarapari,Espírito Santo,Brazil,LATAM,South
+Lund,Skåne,Sweden,EU,North
+Montargis,Centre,France,EU,Central
+La Celle-Saint-Cloud,Ile-de-France,France,EU,Central
+Abu Kabir,Ash Sharqiyah,Egypt,Africa,Africa
+Caldwell,Idaho,United States,US,West
+Lianzhou,Guangxi,China,APAC,North Asia
+Xinzhou,Hubei,China,APAC,North Asia
+Braila,Braila,Romania,EMEA,EMEA
+Lianyuan,Hunan,China,APAC,North Asia
+Itapecuru Mirim,Maranhão,Brazil,LATAM,South
+Damaturu,Yobe,Nigeria,Africa,Africa
+Duzce,Düzce,Turkey,EMEA,EMEA
+Kayes,Kayes,Mali,Africa,Africa
+Santa Fe,Santa Fe,Argentina,LATAM,South
+Grove City,Ohio,United States,US,East
+Rochester Hills,Michigan,United States,US,Central
+Bamberg,Bavaria,Germany,EU,Central
+Alphen aan den Rijn,South Holland,Netherlands,EU,Central
+Sogamoso,Boyacá,Colombia,LATAM,South
+Oakville,Ontario,Canada,Canada,Canada
+El Escorial,Madrid,Spain,EU,South
+Cary,North Carolina,United States,US,South
+Haltom City,Texas,United States,US,Central
+Avellaneda,Santa Fe,Argentina,LATAM,South
+Treviglio,Lombardy,Italy,EU,South
+Lons-le-Saunier,Franche-Comté,France,EU,Central
+Oullins,Rhône-Alpes,France,EU,Central
+Indaiatuba,São Paulo,Brazil,LATAM,South
+Hemel Hempstead,England,United Kingdom,EU,North
+Mannheim,Baden-Württemberg,Germany,EU,Central
+Juazeiro,Bahia,Brazil,LATAM,South
+Le Creusot,Burgundy,France,EU,Central
+Longueuil,Quebec,Canada,Canada,Canada
+Limbe,Sud-Ouest,Cameroon,Africa,Africa
+Temirtau,Qaraghandy,Kazakhstan,EMEA,EMEA
+Linz,Upper Austria,Austria,EMEA,EMEA
+Mysore,Karnataka,India,APAC,Central Asia
+Hohhot,Inner Mongolia,China,APAC,North Asia
+Woonsocket,Rhode Island,United States,US,East
+Kars,Kars,Turkey,EMEA,EMEA
+Eskisehir,Eskisehir,Turkey,EMEA,EMEA
+Oyama,Tochigi,Japan,APAC,North Asia
+Cosenza,Calabria,Italy,EU,South
+Xiangfan,Hubei,China,APAC,North Asia
+Jizzakh,Jizzakh,Uzbekistan,EMEA,EMEA
+Zielona Gora,Lubusz,Poland,EMEA,EMEA
+Fareham,England,United Kingdom,EU,North
+Boynton Beach,Florida,United States,US,South
+Juliaca,Puno,Peru,LATAM,South
+Bielsko-Biala,Silesia,Poland,EMEA,EMEA
+Qaraghandy,Qaraghandy,Kazakhstan,EMEA,EMEA
+Potenza,Basilicata,Italy,EU,South
+Dourados,Mato Grosso do Sul,Brazil,LATAM,South
+Allen,Texas,United States,US,Central
+Montgeron,Ile-de-France,France,EU,Central
+Windsor,Ontario,Canada,Canada,Canada
+Ennigerloh,North Rhine-Westphalia,Germany,EU,Central
+Aalst,East Flanders,Belgium,EU,Central
+Stara Zagora,Stara Zagora,Bulgaria,EMEA,EMEA
+Rijeka,Primorsko-Goranska,Croatia,EMEA,EMEA
+Hamilton,Ohio,United States,US,East
+Catanduva,São Paulo,Brazil,LATAM,South
+Bafoussam,Ouest,Cameroon,Africa,Africa
+Cinisello Balsamo,Lombardy,Italy,EU,South
+Tokat,Tokat,Turkey,EMEA,EMEA
+Sonneberg,Thuringia,Germany,EU,Central
+Dordrecht,South Holland,Netherlands,EU,Central
+Etimesgut,Ankara,Turkey,EMEA,EMEA
+Tanggu,Tianjin,China,APAC,North Asia
+Marion,Iowa,United States,US,Central
+Guimarães,Braga,Portugal,EU,South
+Odessa,Texas,United States,US,Central
+Saint-Pol-sur-Mer,Nord-Pas-de-Calais,France,EU,Central
+Turmero,Aragua,Venezuela,LATAM,South
+Palmira,Valle del Cauca,Colombia,LATAM,South
+Ilo,Moquegua,Peru,LATAM,South
+Hamme,East Flanders,Belgium,EU,Central
+Wenling,Zhejiang,China,APAC,North Asia
+Urganch,Khorezm,Uzbekistan,EMEA,EMEA
+Assen,Drenthe,Netherlands,EU,Central
+Sivas,Sivas,Turkey,EMEA,EMEA
+Passau,Bavaria,Germany,EU,Central
+Shagamu,Ogun,Nigeria,Africa,Africa
+Enschede,Overijssel,Netherlands,EU,Central
+Southampton,England,United Kingdom,EU,North
+Lorient,Brittany,France,EU,Central
+Ilhéus,Bahia,Brazil,LATAM,South
+An Nasiriyah,Dhi Qar,Iraq,EMEA,EMEA
+San Luis Río Colorado,Sonora,Mexico,LATAM,North
+Kurashiki,Okayama,Japan,APAC,North Asia
+Elbeuf,Upper Normandy,France,EU,Central
+Lincoln Park,Michigan,United States,US,Central
+Purmerend,North Holland,Netherlands,EU,Central
+Kabwe,Central,Zambia,Africa,Africa
+Sarkand,Almaty,Kazakhstan,EMEA,EMEA
+Elkhart,Indiana,United States,US,Central
+Owerri,Imo,Nigeria,Africa,Africa
+Les Pavillons-sous-Bois,Ile-de-France,France,EU,Central
+Gulu,Gulu,Uganda,Africa,Africa
+Taizhou,Jiangsu,China,APAC,North Asia
+Nuneaton,England,United Kingdom,EU,North
+Willich,North Rhine-Westphalia,Germany,EU,Central
+Tremblay-en-France,Ile-de-France,France,EU,Central
+Quincy,Illinois,United States,US,Central
+San Salvador de Jujuy,Jujuy,Argentina,LATAM,South
+Tsukuba,Ibaraki,Japan,APAC,North Asia
+Durg,Chhattisgarh,India,APAC,Central Asia
+Lida,Hrodna,Belarus,EMEA,EMEA
+High Wycombe,England,United Kingdom,EU,North
+Palo Negro,Aragua,Venezuela,LATAM,South
+Banjarmasin,Kalimantan Selatan,Indonesia,APAC,Southeast Asia
+Orland Park,Illinois,United States,US,Central
+Meridian,Idaho,United States,US,West
+Macon,Georgia,United States,US,South
+Onitsha,Anambra,Nigeria,Africa,Africa
+Sonipat,Haryana,India,APAC,Central Asia
+Beipiao,Liaoning,China,APAC,North Asia
+Marlborough,Massachusetts,United States,US,East
+Arapiraca,Alagoas,Brazil,LATAM,South
+Santa Rosa,La Pampa,Argentina,LATAM,South
+Anzio,Lazio,Italy,EU,South
+Holland,Michigan,United States,US,Central
+Banska Bystrica,Banská Bystrica,Slovakia,EMEA,EMEA
+Commerce City,Colorado,United States,US,West
+Kerpen,North Rhine-Westphalia,Germany,EU,Central
+Edea,Littoral,Cameroon,Africa,Africa
+Taunton,England,United Kingdom,EU,North
+Acámbaro,Guanajuato,Mexico,LATAM,North
+Ariquemes,Rondônia,Brazil,LATAM,South
+Rio Grande,Rio Grande do Sul,Brazil,LATAM,South
+Loudi,Hunan,China,APAC,North Asia
+Bristol,Tennessee,United States,US,South
+Palmares,Pernambuco,Brazil,LATAM,South
+Guarujá,São Paulo,Brazil,LATAM,South
+Lingolsheim,Alsace,France,EU,Central
+Quebec,Quebec,Canada,Canada,Canada
+Montbrison,Rhône-Alpes,France,EU,Central
+Guaratinguetá,São Paulo,Brazil,LATAM,South
+Flensburg,Schleswig-Holstein,Germany,EU,Central
+Yangjiang,Guangdong,China,APAC,North Asia
+Bujumbura,Bujumbura-Mairie,Burundi,Africa,Africa
+Maastricht,Limburg,Netherlands,EU,Central
+Laguna Niguel,California,United States,US,West
+Puno,Puno,Peru,LATAM,South
+Kismaayo,Jubbada Hoose,Somalia,Africa,Africa
+Beaune,Burgundy,France,EU,Central
+Pazardzhik,Pazardzhik,Bulgaria,EMEA,EMEA
+Asahikawa,Hokkaido,Japan,APAC,North Asia
+Linden,New Jersey,United States,US,East
+Tabora,Tabora,Tanzania,Africa,Africa
+Champaign,Illinois,United States,US,Central
+Zihuatanejo,Guerrero,Mexico,LATAM,North
+Jacobina,Bahia,Brazil,LATAM,South
+Deyang,Sichuan,China,APAC,North Asia
+Neuquén,Neuquén,Argentina,LATAM,South
+Chatham,England,United Kingdom,EU,North
+Inegol,Bursa,Turkey,EMEA,EMEA
+Mopti,Mopti,Mali,Africa,Africa
+Fianarantsoa,Haute-Matsiatra,Madagascar,Africa,Africa
+Wausau,Wisconsin,United States,US,Central
+Ichikawa,Chiba,Japan,APAC,North Asia
+Cajamarca,Cajamarca,Peru,LATAM,South
+Coachella,California,United States,US,West
+Kortrijk,West Flanders,Belgium,EU,Central
+Baqubah,Diyala,Iraq,EMEA,EMEA
+Alessandria,Piedmont,Italy,EU,South
+Gela,Sicily,Italy,EU,South
+Parakou,Borgou,Benin,Africa,Africa
+La Rioja,La Rioja,Argentina,LATAM,South
+Jaworzno,Silesia,Poland,EMEA,EMEA
+Bahía Blanca,Provincia de Buenos Aires,Argentina,LATAM,South
+Ronchin,Nord-Pas-de-Calais,France,EU,Central
+Rustenburg,North-West,South Africa,Africa,Africa
+Chaumont,Champagne-Ardenne,France,EU,Central
+Birobidzhan,Yevrey,Russia,EMEA,EMEA
+Caraguatatuba,São Paulo,Brazil,LATAM,South
+Peterborough,Ontario,Canada,Canada,Canada
+Littleton,Colorado,United States,US,West
+Samsun,Samsun,Turkey,EMEA,EMEA
+Foshan,Guangdong,China,APAC,North Asia
+Usol'ye-Sibirskoye,Irkutsk,Russia,EMEA,EMEA
+Arad,Arad,Romania,EMEA,EMEA
+West Jordan,Utah,United States,US,West
+Nijmegen,Gelderland,Netherlands,EU,Central
+Tatuí,São Paulo,Brazil,LATAM,South
+Shushtar,Khuzestan,Iran,EMEA,EMEA
+Kenner,Louisiana,United States,US,South
+Maidstone,England,United Kingdom,EU,North
+Villavicencio,Meta,Colombia,LATAM,South
+Tongzhou,Beijing,China,APAC,North Asia
+Bolingbrook,Illinois,United States,US,Central
+Chioggia,Veneto,Italy,EU,South
+Praia Grande,São Paulo,Brazil,LATAM,South
+Pompano Beach,Florida,United States,US,South
+Saginaw,Michigan,United States,US,Central
+Disuq,Kafr Ash Shaykh,Egypt,Africa,Africa
+Limay,Ile-de-France,France,EU,Central
+Maltepe,Istanbul,Turkey,EMEA,EMEA
+Changzhi,Shanxi,China,APAC,North Asia
+Cambridge,Waikato,New Zealand,APAC,Oceania
+Valle Hermoso,Tamaulipas,Mexico,LATAM,North
+Zaoyang,Hubei,China,APAC,North Asia
+Itapetininga,São Paulo,Brazil,LATAM,South
+Pisa,Tuscany,Italy,EU,South
+Jingdezhen,Jiangxi,China,APAC,North Asia
+Mons-en-Baroeul,Nord-Pas-de-Calais,France,EU,Central
+Saint-Laurent,Quebec,Canada,Canada,Canada
+Carpentras,Provence-Alpes-Côte d'Azur,France,EU,Central
+Chifeng,Inner Mongolia,China,APAC,North Asia
+Hapur,Uttar Pradesh,India,APAC,Central Asia
+Morogoro,Morogoro,Tanzania,Africa,Africa
+Teziutlán,Puebla,Mexico,LATAM,North
+Den Helder,North Holland,Netherlands,EU,Central
+Shimoga,Karnataka,India,APAC,Central Asia
+Annemasse,Rhône-Alpes,France,EU,Central
+Sassari,Sardinia,Italy,EU,South
+Corpus Christi,Texas,United States,US,Central
+San Nicolás de los Arroyos,Provincia de Buenos Aires,Argentina,LATAM,South
+Seraing,Liège,Belgium,EU,Central
+Hilversum,North Holland,Netherlands,EU,Central
+Zhangzhou,Fujian,China,APAC,North Asia
+Melbourne,Florida,United States,US,South
+Erzurum,Erzurum,Turkey,EMEA,EMEA
+Iquique,Tarapacá,Chile,LATAM,South
+Barcelona,Anzoátegui,Venezuela,LATAM,South
+Votuporanga,São Paulo,Brazil,LATAM,South
+Olomouc,Olomouc,Czech Republic,EMEA,EMEA
+Gusau,Zamfara,Nigeria,Africa,Africa
+Yanbu al Bahr,Al Madinah,Saudi Arabia,EMEA,EMEA
+Clovis,New Mexico,United States,US,West
+Loures,Lisboa,Portugal,EU,South
+Upplands Väsby,Stockholm,Sweden,EU,North
+Vesoul,Franche-Comté,France,EU,Central
+Bloemfontein,Free State,South Africa,Africa,Africa
+Várzea Grande,Mato Grosso,Brazil,LATAM,South
+Huixquilucan,México,Mexico,LATAM,North
+Luanshya,Copperbelt,Zambia,Africa,Africa
+Sokode,Centrale,Togo,Africa,Africa
+Liuyang,Hunan,China,APAC,North Asia
+Barddhaman,West Bengal,India,APAC,Central Asia
+Salta,Salta,Argentina,LATAM,South
+Tallaght,South Dublin,Ireland,EU,North
+Quartu Sant'Elena,Sardinia,Italy,EU,South
+New Bedford,Massachusetts,United States,US,East
+Soma,Manisa,Turkey,EMEA,EMEA
+Imola,Emilia-Romagna,Italy,EU,South
+Olivet,Centre,France,EU,Central
+Bobigny,Ile-de-France,France,EU,Central
+San Pedro,Calabarzon,Philippines,APAC,Southeast Asia
+Ilam,Ilam,Iran,EMEA,EMEA
+Red Deer,Alberta,Canada,Canada,Canada
+Biarritz,Aquitaine,France,EU,Central
+Modesto,California,United States,US,West
+Torbat-e Heydariyeh,Razavi Khorasan,Iran,EMEA,EMEA
+Stakhanov,Luhans'k,Ukraine,EMEA,EMEA
+Polatsk,Vitsyebsk,Belarus,EMEA,EMEA
+Abbeville,Picardy,France,EU,Central
+Shizuishan,Ningxia,China,APAC,North Asia
+Kumanovo,Kumanovo,Macedonia,EMEA,EMEA
+Kiziltepe,Mardin,Turkey,EMEA,EMEA
+Al Khums,Al Marqab,Libya,Africa,Africa
+Helsingborg,Skåne,Sweden,EU,North
+St. John's,Newfoundland,Canada,Canada,Canada
+El Limón,Aragua,Venezuela,LATAM,South
+Siauliai,iauliai,Lithuania,EMEA,EMEA
+Sobral,Ceará,Brazil,LATAM,South
+Kwangju,Gyeonggi,South Korea,APAC,North Asia
+Craiova,Dolj,Romania,EMEA,EMEA
+Baden-Baden,Baden-Württemberg,Germany,EU,Central
+Cedar Hill,Texas,United States,US,Central
+Orange,New Jersey,United States,US,East
+Bury,England,United Kingdom,EU,North
+Barasat,West Bengal,India,APAC,Central Asia
+Alanya,Antalya,Turkey,EMEA,EMEA
+Saint Paul,Minnesota,United States,US,Central
+Bitonto,Apulia,Italy,EU,South
+Fulda,Hesse,Germany,EU,Central
+Melchor Ocampo,México,Mexico,LATAM,North
+Savona,Liguria,Italy,EU,South
+Graz,Styria,Austria,EMEA,EMEA
+Borken,North Rhine-Westphalia,Germany,EU,Central
+Fiumicino,Lazio,Italy,EU,South
+Itu,São Paulo,Brazil,LATAM,South
+Ordu,Ordu,Turkey,EMEA,EMEA
+Mary,Mary,Turkmenistan,EMEA,EMEA
+Salzburg,Salzburg,Austria,EMEA,EMEA
+Hamar,Hedmark,Norway,EU,North
+La Quinta,California,United States,US,West
+Linares,Nuevo León,Mexico,LATAM,North
+Ghaziabad,Uttar Pradesh,India,APAC,Central Asia
+Shangqiu,Henan,China,APAC,North Asia
+Hickory,North Carolina,United States,US,South
+Hillsboro,Oregon,United States,US,West
+Kalisz,Greater Poland,Poland,EMEA,EMEA
+Gulfport,Mississippi,United States,US,South
+Ivano-Frankivs'k,Ivano-Frankivsk,Ukraine,EMEA,EMEA
+Laurel,Maryland,United States,US,East
+Cassilândia,Mato Grosso do Sul,Brazil,LATAM,South
+Schweinfurt,Bavaria,Germany,EU,Central
+Benoni,Gauteng,South Africa,Africa,Africa
+Kandi,Alibori,Benin,Africa,Africa
+Isparta,Isparta,Turkey,EMEA,EMEA
+Loum,Littoral,Cameroon,Africa,Africa
+Bagamoyo,Pwani,Tanzania,Africa,Africa
+Goldsboro,North Carolina,United States,US,South
+Homestead,Florida,United States,US,South
+Trujillo,La Libertad,Peru,LATAM,South
+Cabimas,Zulia,Venezuela,LATAM,South
+Koforidua,Eastern,Ghana,Africa,Africa
+New Albany,Indiana,United States,US,Central
+Bloomington,Indiana,United States,US,Central
+Mubi,Adamawa,Nigeria,Africa,Africa
+Rimini,Emilia-Romagna,Italy,EU,South
+Manacapuru,Amazonas,Brazil,LATAM,South
+Ekibastuz,Pavlodar,Kazakhstan,EMEA,EMEA
+Santa Clara,California,United States,US,West
+Vila Nova de Gaia,Porto,Portugal,EU,South
+Anyang,Henan,China,APAC,North Asia
+Harlow,England,United Kingdom,EU,North
+La Ciotat,Provence-Alpes-Côte d'Azur,France,EU,Central
+Coari,Amazonas,Brazil,LATAM,South
+Hattingen,North Rhine-Westphalia,Germany,EU,Central
+Zilina,ilina,Slovakia,EMEA,EMEA
+Kocaeli,Kocaeli,Turkey,EMEA,EMEA
+Kukatpalli,Telangana,India,APAC,Central Asia
+Huaihua,Hunan,China,APAC,North Asia
+Arapongas,Parana,Brazil,LATAM,South
+Babol,Mazandaran,Iran,EMEA,EMEA
+Faches-Thumesnil,Nord-Pas-de-Calais,France,EU,Central
+Saint-Pierre-des-Corps,Centre,France,EU,Central
+Lo Prado,Santiago,Chile,LATAM,South
+Coxs B?z?r,Chittagong,Bangladesh,APAC,Central Asia
+Owo,Ondo,Nigeria,Africa,Africa
+Pierrefitte-sur-Seine,Ile-de-France,France,EU,Central
+Tuscaloosa,Alabama,United States,US,South
+Santarém,Pará,Brazil,LATAM,South
+Ilesha,Osun,Nigeria,Africa,Africa
+Yuanjiang,Hunan,China,APAC,North Asia
+East Point,Georgia,United States,US,South
+Bento Gonçalves,Rio Grande do Sul,Brazil,LATAM,South
+Cottage Grove,Minnesota,United States,US,Central
+Apple Valley,Minnesota,United States,US,Central
+Atsugacho,Hokkaido,Japan,APAC,North Asia
+Longjumeau,Ile-de-France,France,EU,Central
+Eagan,Minnesota,United States,US,Central
+Itaituba,Pará,Brazil,LATAM,South
+Pitesti,Arges,Romania,EMEA,EMEA
+Kumba,Sud-Ouest,Cameroon,Africa,Africa
+Tongchuan,Sichuan,China,APAC,North Asia
+Leominster,Massachusetts,United States,US,East
+Matehuala,San Luis Potosí,Mexico,LATAM,North
+Ajman,'Ajman,United Arab Emirates,EMEA,EMEA
+Umraniye,Istanbul,Turkey,EMEA,EMEA
+Hachinohe,Aomori,Japan,APAC,North Asia
+Gillingham,England,United Kingdom,EU,North
+Waterloo,Ontario,Canada,Canada,Canada
+Guamúchil,Sinaloa,Mexico,LATAM,North
+Bechar,Bechar,Algeria,Africa,Africa
+Palhoça,Santa Catarina,Brazil,LATAM,South
+Cruzeiro do Sul,Acre,Brazil,LATAM,South
+Murfreesboro,Tennessee,United States,US,South
+Toguchin,Novosibirsk,Russia,EMEA,EMEA
+Tembisa,Gauteng,South Africa,Africa,Africa
+Denain,Nord-Pas-de-Calais,France,EU,Central
+Lodi,California,United States,US,West
+Englewood,Colorado,United States,US,West
+Baoding,Hebei,China,APAC,North Asia
+Thousand Oaks,California,United States,US,West
+Berdychiv,Zhytomyr,Ukraine,EMEA,EMEA
+Schiffweiler,Saarland,Germany,EU,Central
+Penglai,Shandong,China,APAC,North Asia
+Elda,Valenciana,Spain,EU,South
+Bideford,England,United Kingdom,EU,North
+Bayonne,New Jersey,United States,US,East
+Chaohu,Anhui,China,APAC,North Asia
+Jefferson City,Missouri,United States,US,Central
+Amagasaki,Hyogo,Japan,APAC,North Asia
+Menemen,Izmir,Turkey,EMEA,EMEA
+Focsani,Vrancea,Romania,EMEA,EMEA
+Tekirdag,Tekirdag,Turkey,EMEA,EMEA
+Kadoma,Mashonaland West,Zimbabwe,Africa,Africa
+Mason,Ohio,United States,US,East
+Piura,Piura,Peru,LATAM,South
+Paisley,Scotland,United Kingdom,EU,North
+Junín,Provincia de Buenos Aires,Argentina,LATAM,South
+Gosport,England,United Kingdom,EU,North
+Ulundi,Kwazulu-natal,South Africa,Africa,Africa
+Keren,Anseba,Eritrea,Africa,Africa
+Le Pré-Saint-Gervais,Ile-de-France,France,EU,Central
+Be'er Sheva,Southern,Israel,EMEA,EMEA
+Alkmaar,North Holland,Netherlands,EU,Central
+Bata,Litoral,Equatorial Guinea,Africa,Africa
+Urbandale,Iowa,United States,US,Central
+Gujrat,Punjab,Pakistan,APAC,Central Asia
+Stanger,Kwazulu-natal,South Africa,Africa,Africa
+Pickering,Ontario,Canada,Canada,Canada
+Aksaray,Aksaray,Turkey,EMEA,EMEA
+Amasya,Amasya,Turkey,EMEA,EMEA
+Taixing,Jiangsu,China,APAC,North Asia
+Moissy-Cramayel,Ile-de-France,France,EU,Central
+Abuja,Abuja Capital Territory,Nigeria,Africa,Africa
+Vlaardingen,South Holland,Netherlands,EU,Central
+Thomasville,North Carolina,United States,US,South
+eMbalenhle,Mpumalanga,South Africa,Africa,Africa
+Lisichansk,Luhans'k,Ukraine,EMEA,EMEA
+Silopi,Sirnak,Turkey,EMEA,EMEA
+Siirt,Siirt,Turkey,EMEA,EMEA
+Tete,Tete,Mozambique,Africa,Africa
+Mosquera,Cundinamarca,Colombia,LATAM,South
+Faenza,Emilia-Romagna,Italy,EU,South
+Ouidah,Atlantique,Benin,Africa,Africa
+Mpumalanga,Kwazulu-natal,South Africa,Africa,Africa
+Vitória de Santo Antão,Pernambuco,Brazil,LATAM,South
+Barranca,Lima,Peru,LATAM,South
+Malden,Massachusetts,United States,US,East
+Namibe,Namibe,Angola,Africa,Africa
+Marysville,Washington,United States,US,West
+Dartmouth,Nova Scotia,Canada,Canada,Canada
+Bracknell,England,United Kingdom,EU,North
+Roosendaal,North Brabant,Netherlands,EU,Central
+Vanadzor,Lori,Armenia,EMEA,EMEA
+Foligno,Umbria,Italy,EU,South
+Agde,Languedoc-Roussillon,France,EU,Central
+Vence,Provence-Alpes-Côte d'Azur,France,EU,Central
+Frederiksberg,Hovedstaden,Denmark,EU,North
+Andover,Massachusetts,United States,US,East
+Sidi Qacem,Gharb-Chrarda-Béni Hssen,Morocco,Africa,Africa
+Yiyang,Hunan,China,APAC,North Asia
+Kafr ad Dawwar,Al Buhayrah,Egypt,Africa,Africa
+Coquitlam,British Columbia,Canada,Canada,Canada
+Apucarana,Parana,Brazil,LATAM,South
+Forst,Brandenburg,Germany,EU,Central
+Makeni,Northern,Sierra Leone,Africa,Africa
+Chiclayo,Lambayeque,Peru,LATAM,South
+New Castle,Indiana,United States,US,Central
+Coral Gables,Florida,United States,US,South
+Cumbernauld,Scotland,United Kingdom,EU,North
+Mesquite,Texas,United States,US,Central
+Tuzla,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,EMEA,EMEA
+Quanzhou,Fujian,China,APAC,North Asia
+Split,Splitsko-Dalmatinska,Croatia,EMEA,EMEA
+Apartadó,Antioquia,Colombia,LATAM,South
+Nal'chik,Kabardino-Balkariya,Russia,EMEA,EMEA
+Busto Arsizio,Lombardy,Italy,EU,South
+Ipatinga,Minas Gerais,Brazil,LATAM,South
+Manresa,Catalonia,Spain,EU,South
+Ugep,Cross River,Nigeria,Africa,Africa
+Maroua,Extreme-Nord,Cameroon,Africa,Africa
+Redwood City,California,United States,US,West
+Carapicuíba,São Paulo,Brazil,LATAM,South
+Siena,Tuscany,Italy,EU,South
+Concepción del Uruguay,Entre Ríos,Argentina,LATAM,South
+Samalut,Al Minya,Egypt,Africa,Africa
+Botshabelo,Free State,South Africa,Africa,Africa
+San Carlos del Zulia,Zulia,Venezuela,LATAM,South
+Facatativá,Cundinamarca,Colombia,LATAM,South
+Sterling Heights,Michigan,United States,US,Central
+Uman',Cherkasy,Ukraine,EMEA,EMEA
+Funtua,Katsina,Nigeria,Africa,Africa
+San Clemente,California,United States,US,West
+Cluses,Rhône-Alpes,France,EU,Central
+Afragola,Campania,Italy,EU,South
+Tapachula,Chiapas,Mexico,LATAM,North
+Chalinze,Pwani,Tanzania,Africa,Africa
+Aracati,Ceará,Brazil,LATAM,South
+Weihai,Shandong,China,APAC,North Asia
+Rogers,Arkansas,United States,US,South
+Cercola,Campania,Italy,EU,South
+Stafford,England,United Kingdom,EU,North
+São Benedito,Ceará,Brazil,LATAM,South
+Itapeva,São Paulo,Brazil,LATAM,South
+Liberec,Liberec,Czech Republic,EMEA,EMEA
+Lindenhurst,New York,United States,US,East
+Silao,Guanajuato,Mexico,LATAM,North
+La Porte,Texas,United States,US,Central
+Douarnenez,Brittany,France,EU,Central
+Modena,Emilia-Romagna,Italy,EU,South
+Montebello,California,United States,US,West
+São Vicente,São Paulo,Brazil,LATAM,South
+Chalus,Mazandaran,Iran,EMEA,EMEA
+Plock,Masovia,Poland,EMEA,EMEA
+Usti nad Labem,Usti nad Labem,Czech Republic,EMEA,EMEA
+Deva,Hunedoara,Romania,EMEA,EMEA
+Mantes-la-Ville,Ile-de-France,France,EU,Central
+Melilla,Melilla,Spain,EU,South
+Suresnes,Ile-de-France,France,EU,Central
+Tulle,Limousin,France,EU,Central
+West Palm Beach,Florida,United States,US,South
+Rock Hill,South Carolina,United States,US,South
+Tinaquillo,Cojedes,Venezuela,LATAM,South
+Jinja,Jinja,Uganda,Africa,Africa
+Chuncheon,Gangwon,South Korea,APAC,North Asia
+Kasama,Northern,Zambia,Africa,Africa
+Charlottesville,Virginia,United States,US,South
+Gombe,Gombe,Nigeria,Africa,Africa
+Klaipeda,Klaipeda,Lithuania,EMEA,EMEA
+Shelton,Connecticut,United States,US,East
+Jiaohe,Jilin,China,APAC,North Asia
+Aberdeen,South Dakota,United States,US,Central
+Rohtak,Haryana,India,APAC,Central Asia
+Grapevine,Texas,United States,US,Central
+El Jadida,Doukkala-Abda,Morocco,Africa,Africa
+Bafra,Samsun,Turkey,EMEA,EMEA
+Salihli,Manisa,Turkey,EMEA,EMEA
+Campo Limpo Paulista,São Paulo,Brazil,LATAM,South
+Etawah,Uttar Pradesh,India,APAC,Central Asia
+Cidade Ocidental,Goiás,Brazil,LATAM,South
+Hagerstown,Maryland,United States,US,East
+Venlo,Limburg,Netherlands,EU,Central
+Sierra Vista,Arizona,United States,US,West
+Riom,Auvergne,France,EU,Central
+Leoben,Styria,Austria,EMEA,EMEA
+Yucaipa,California,United States,US,West
+Vereeniging,Gauteng,South Africa,Africa,Africa
+Mérida,Mérida,Venezuela,LATAM,South
+Pato Branco,Parana,Brazil,LATAM,South
+Dronfield,England,United Kingdom,EU,North
+Boca Raton,Florida,United States,US,South
+Viroflay,Ile-de-France,France,EU,Central
+Yuyao,Zhejiang,China,APAC,North Asia
+Mogi das Cruzes,São Paulo,Brazil,LATAM,South
+Riberalta,Beni,Bolivia,LATAM,South
+Benxi,Liaoning,China,APAC,North Asia
+Sonderborg,South Denmark,Denmark,EU,North
+Logan,Utah,United States,US,West
+Londrina,Parana,Brazil,LATAM,South
+Blanquefort,Aquitaine,France,EU,Central
+Ferndown,England,United Kingdom,EU,North
+Araucária,Parana,Brazil,LATAM,South
+Vigevano,Lombardy,Italy,EU,South
+Ambattur,Tamil Nadu,India,APAC,Central Asia
+Iranshahr,Sistan Va Baluchestan,Iran,EMEA,EMEA
+Lomme,Nord-Pas-de-Calais,France,EU,Central
+Owensboro,Kentucky,United States,US,South
+Berrechid,Chaouia-Ouardigha,Morocco,Africa,Africa
+Blagoveshchensk,Bashkortostan,Russia,EMEA,EMEA
+Segovia,Castile and León,Spain,EU,South
+Burlington,Iowa,United States,US,Central
+Dax,Aquitaine,France,EU,Central
+Sokoto,Sokoto,Nigeria,Africa,Africa
+Ardahan,Ardahan,Turkey,EMEA,EMEA
+Cuneo,Piedmont,Italy,EU,South
+Longview,Washington,United States,US,West
+Morón,Ciego de Ávila,Cuba,LATAM,Caribbean
+Saint-Gratien,Ile-de-France,France,EU,Central
+Aligudarz,Lorestan,Iran,EMEA,EMEA
+Pemba,Cabo Delgado,Mozambique,Africa,Africa
+Pitalito,Huila,Colombia,LATAM,South
+Guelmim,Guelmim-Es Semara,Morocco,Africa,Africa
+Gatineau,Quebec,Canada,Canada,Canada
+Cheonan,South Chungcheong,South Korea,APAC,North Asia
+Ar Raqqah,Ar Raqqah,Syria,EMEA,EMEA
+Campina Grande,Paraíba,Brazil,LATAM,South
+Zwickau,Saxony,Germany,EU,Central
+Yalova,Yalova,Turkey,EMEA,EMEA
+Pleven,Pleven,Bulgaria,EMEA,EMEA
+Akhisar,Manisa,Turkey,EMEA,EMEA
+Suceava,Suceava,Romania,EMEA,EMEA
+Abeokuta,Ogun,Nigeria,Africa,Africa
+Chapel Allerton,England,United Kingdom,EU,North
+Toliara,Atsimo-Andrefana,Madagascar,Africa,Africa
+Volksrust,Mpumalanga,South Africa,Africa,Africa
+Veenendaal,Utrecht,Netherlands,EU,Central
+Camaragibe,Pernambuco,Brazil,LATAM,South
+Yuncheng,Shanxi,China,APAC,North Asia
+Santa Fe,New Mexico,United States,US,West
+San Antonio,Valparaíso,Chile,LATAM,South
+Crotone,Calabria,Italy,EU,South
+Montigny-le-Bretonneux,Ile-de-France,France,EU,Central
+Sabanalarga,Atlántico,Colombia,LATAM,South
+Uberlândia,Minas Gerais,Brazil,LATAM,South
+Chilly-Mazarin,Ile-de-France,France,EU,Central
+Malanje,Malanje,Angola,Africa,Africa
+Langfang,Hebei,China,APAC,North Asia
+Cúa,Miranda,Venezuela,LATAM,South
+Anjo,Aichi,Japan,APAC,North Asia
+Khasavyurt,Dagestan,Russia,EMEA,EMEA
+Simões Filho,Bahia,Brazil,LATAM,South
+Lattes,Languedoc-Roussillon,France,EU,Central
+Bonao,Monseñor Nouel,Dominican Republic,LATAM,Caribbean
+Garland,Texas,United States,US,Central
+Frisco,Texas,United States,US,Central
+Antioch,California,United States,US,West
+Epworth,Harare,Zimbabwe,Africa,Africa
+Igurusi,Mbeya,Tanzania,Africa,Africa
+La Crau,Provence-Alpes-Côte d'Azur,France,EU,Central
+Parintins,Amazonas,Brazil,LATAM,South
+Toamasina,Atsinanana,Madagascar,Africa,Africa
+Peer,Limburg,Belgium,EU,Central
+Liaoyuan,Jilin,China,APAC,North Asia
+Darlington,England,United Kingdom,EU,North
+Narsingdi,Dhaka,Bangladesh,APAC,Central Asia
+Katsina,Katsina,Nigeria,Africa,Africa
+Lambaré,Central,Paraguay,LATAM,South
+West Allis,Wisconsin,United States,US,Central
+Escondido,California,United States,US,West
+Digne-les-Bains,Provence-Alpes-Côte d'Azur,France,EU,Central
+Bharatpur,Rajasthan,India,APAC,Central Asia
+Novo Cruzeiro,Minas Gerais,Brazil,LATAM,South
+Ulan Bator,Ulaanbaatar,Mongolia,APAC,North Asia
+Araraquara,São Paulo,Brazil,LATAM,South
+Boksburg,Gauteng,South Africa,Africa,Africa
+Igarassu,Pernambuco,Brazil,LATAM,South
+Los Ángeles,Biobio,Chile,LATAM,South
+Saint-Jean-de-la-Ruelle,Centre,France,EU,Central
+Kara,Kara,Togo,Africa,Africa
+Loos,Nord-Pas-de-Calais,France,EU,Central
+Danville,Illinois,United States,US,Central
+Waukesha,Wisconsin,United States,US,Central
+Rivera,Rivera,Uruguay,LATAM,South
+Bartlett,Tennessee,United States,US,South
+Birjand,South Khorasan,Iran,EMEA,EMEA
+Detmold,North Rhine-Westphalia,Germany,EU,Central
+Binzhou,Shandong,China,APAC,North Asia
+Nashua,New Hampshire,United States,US,East
+Zwedru,Grand Gedeh,Liberia,Africa,Africa
+Akhmim,Suhaj,Egypt,Africa,Africa
+Cuenca,Castile-La Mancha,Spain,EU,South
+Viransehir,Sanliurfa,Turkey,EMEA,EMEA
+Guarenas,Miranda,Venezuela,LATAM,South
+El Tigre,Anzoátegui,Venezuela,LATAM,South
+Varamin,Tehran,Iran,EMEA,EMEA
+Larache,Tanger-Tétouan,Morocco,Africa,Africa
+San Fernando del Valle de Catamarca,Catamarca,Argentina,LATAM,South
+Nysa,Opole,Poland,EMEA,EMEA
+Battipaglia,Campania,Italy,EU,South
+Andria,Apulia,Italy,EU,South
+Castellammare di Stabia,Campania,Italy,EU,South
+Cubuk,Ankara,Turkey,EMEA,EMEA
+St. Gallen,St. Gallen,Switzerland,EU,Central
+Cubatão,São Paulo,Brazil,LATAM,South
+Günzburg,Bavaria,Germany,EU,Central
+Pouso Alegre,Minas Gerais,Brazil,LATAM,South
+Bergerac,Aquitaine,France,EU,Central
+Gurupi,Tocantins,Brazil,LATAM,South
+Fontenay-le-Comte,Pays de la Loire,France,EU,Central
+Cagua,Aragua,Venezuela,LATAM,South
+Bozeman,Montana,United States,US,West
+Paita,Piura,Peru,LATAM,South
+Talara,Piura,Peru,LATAM,South
+Yangquan,Shanxi,China,APAC,North Asia
+Suizhou,Hubei,China,APAC,North Asia
+Kidderminster,England,United Kingdom,EU,North
+Mount Pleasant,Michigan,United States,US,Central
+Cape Coast,Central,Ghana,Africa,Africa
+Catalão,Goiás,Brazil,LATAM,South
+Ueda,Nagano,Japan,APAC,North Asia
+Portage,Indiana,United States,US,Central
+Afyon,Afyonkarahisar,Turkey,EMEA,EMEA
+Karaman,Karaman,Turkey,EMEA,EMEA
+Chigasaki,Kanagawa,Japan,APAC,North Asia
+Bridgeton,New Jersey,United States,US,East
+Al Hudaydah,Al Hudaydah,Yemen,EMEA,EMEA
+Krasnyy Luch,Luhans'k,Ukraine,EMEA,EMEA
+Kalush,Ivano-Frankivsk,Ukraine,EMEA,EMEA
+La Chapelle-sur-Erdre,Pays de la Loire,France,EU,Central
+Kita-ku,Hyogo,Japan,APAC,North Asia
+Medford,Oregon,United States,US,West
+Nguigmi,Diffa,Niger,Africa,Africa
+Akure,Ondo,Nigeria,Africa,Africa
+Latur,Maharashtra,India,APAC,Central Asia
+Tinley Park,Illinois,United States,US,Central
+Altoona,Pennsylvania,United States,US,East
+Dole,Franche-Comté,France,EU,Central
+Lagny-sur-Marne,Ile-de-France,France,EU,Central
+Falconara Marittima,Marche,Italy,EU,South
+Kastamonu,Kastamonu,Turkey,EMEA,EMEA
+Kilis,Kilis,Turkey,EMEA,EMEA
+Neyshabur,Razavi Khorasan,Iran,EMEA,EMEA
+Karnal,Haryana,India,APAC,Central Asia
+Resita,Caras-Severin,Romania,EMEA,EMEA
+Illkirch-Graffenstaden,Alsace,France,EU,Central
+Linhares,Espírito Santo,Brazil,LATAM,South
+Ponteareas,Galicia,Spain,EU,South
+Hebi,Henan,China,APAC,North Asia
+Gorzow Wielkopolski,Lubusz,Poland,EMEA,EMEA
+Sheboygan,Wisconsin,United States,US,Central
+Leiden,South Holland,Netherlands,EU,Central
+Usak,Usak,Turkey,EMEA,EMEA
+Calabozo,Guárico,Venezuela,LATAM,South
+Jaboticabal,São Paulo,Brazil,LATAM,South
+Huaraz,Ancash,Peru,LATAM,South
+Kakinada,Andhra Pradesh,India,APAC,Central Asia
+Bellevue,Washington,United States,US,West
+Taldyqorghan,Almaty,Kazakhstan,EMEA,EMEA
+Brantford,Ontario,Canada,Canada,Canada
+Zaozhuang,Shandong,China,APAC,North Asia
+Sinop,Mato Grosso,Brazil,LATAM,South
+Korce,Korçë,Albania,EMEA,EMEA
+Teramo,Abruzzi,Italy,EU,South
+Krugersdorp,Gauteng,South Africa,Africa,Africa
+Ambon,Maluku,Indonesia,APAC,Southeast Asia
+Danbury,Connecticut,United States,US,East
+Yopal,Casanare,Colombia,LATAM,South
+Morley,England,United Kingdom,EU,North
+Avon,Ile-de-France,France,EU,Central
+Fujisawa,Kanagawa,Japan,APAC,North Asia
+Voiron,Rhône-Alpes,France,EU,Central
+Davis,California,United States,US,West
+Necochea,Provincia de Buenos Aires,Argentina,LATAM,South
+San Cristóbal,Táchira,Venezuela,LATAM,South
+Redmond,Washington,United States,US,West
+Maxixe,Inhambane,Mozambique,Africa,Africa
+Guarapuava,Parana,Brazil,LATAM,South
+Vitória da Conquista,Bahia,Brazil,LATAM,South
+Xiantao,Hubei,China,APAC,North Asia
+Marsa Matruh,Matruh,Egypt,Africa,Africa
+Burlington,Ontario,Canada,Canada,Canada
+Ragusa,Sicily,Italy,EU,South
+Cestas,Aquitaine,France,EU,Central
+Lewiston,Maine,United States,US,East
+Renqiu,Hebei,China,APAC,North Asia
+Sète,Languedoc-Roussillon,France,EU,Central
+Tottori,Tottori,Japan,APAC,North Asia
+Semnan,Semnan,Iran,EMEA,EMEA
+Crato,Ceará,Brazil,LATAM,South
+Osijek,Osjecko-Baranjska,Croatia,EMEA,EMEA
+Rize,Rize,Turkey,EMEA,EMEA
+Altotonga,Veracruz,Mexico,LATAM,North
+Cosmópolis,São Paulo,Brazil,LATAM,South
+Greeley,Colorado,United States,US,West
+Manfredonia,Apulia,Italy,EU,South
+Massa,Tuscany,Italy,EU,South
+Randers,Central Jutland,Denmark,EU,North
+Royal Oak,Michigan,United States,US,Central
+Taraz,Zhambyl,Kazakhstan,EMEA,EMEA
+Jataí,Goiás,Brazil,LATAM,South
+Aix-les-Bains,Rhône-Alpes,France,EU,Central
+Billings,Montana,United States,US,West
+Abakaliki,Ebonyi,Nigeria,Africa,Africa
+Shahjahanpur,Uttar Pradesh,India,APAC,Central Asia
+Izúcar de Matamoros,Puebla,Mexico,LATAM,North
+Seropédica,Rio de Janeiro,Brazil,LATAM,South
+Chapel Hill,North Carolina,United States,US,South
+Rehovot,Central,Israel,EMEA,EMEA
+Montería,Córdoba,Colombia,LATAM,South
+Margate,Florida,United States,US,South
+Dublin,California,United States,US,West
+Sorgues,Provence-Alpes-Côte d'Azur,France,EU,Central
+Cizre,Sirnak,Turkey,EMEA,EMEA
+Aydin,Aydin,Turkey,EMEA,EMEA
+Kigoma,Kigoma,Tanzania,Africa,Africa
+Oss,North Brabant,Netherlands,EU,Central
+Odivelas,Lisboa,Portugal,EU,South
+Gonabad,Razavi Khorasan,Iran,EMEA,EMEA
+Calama,Antofagasta,Chile,LATAM,South
+Dar Chioukh,Djelfa,Algeria,Africa,Africa
+Cuyahoga Falls,Ohio,United States,US,East
+Missouri City,Texas,United States,US,Central
+Loveland,Colorado,United States,US,West
+Bitola,Bitola,Macedonia,EMEA,EMEA
+Levin,Manawatu-Wanganui,New Zealand,APAC,Oceania
+Edirne,Edirne,Turkey,EMEA,EMEA
+Deer Park,Texas,United States,US,Central
+North Miami,Florida,United States,US,South
+Pernik,Pernik,Bulgaria,EMEA,EMEA
+Gitarama,Southern,Rwanda,Africa,Africa
+Pensacola,Florida,United States,US,South
+Matsumoto,Nagano,Japan,APAC,North Asia
+Jastrzebie Zdroj,Silesia,Poland,EMEA,EMEA
+Franco da Rocha,São Paulo,Brazil,LATAM,South
+Lokossa,Mono,Benin,Africa,Africa
+Stadtlohn,North Rhine-Westphalia,Germany,EU,Central
+Baytown,Texas,United States,US,Central
+Binzhou,Heilongjiang,China,APAC,North Asia
+Waterloo,Iowa,United States,US,Central
+Bullhead City,Arizona,United States,US,West
+Envigado,Antioquia,Colombia,LATAM,South
+New Delhi,Delhi,India,APAC,Central Asia
+Midyat,Mardin,Turkey,EMEA,EMEA
+Mutare,Manicaland,Zimbabwe,Africa,Africa
+Port Orange,Florida,United States,US,South
+Arlington Heights,Illinois,United States,US,Central
+Obninsk,Kaluga,Russia,EMEA,EMEA
+New Brunswick,New Jersey,United States,US,East
+Kafr ash Shaykh,Kafr Ash Shaykh,Egypt,Africa,Africa
+Norfolk,Nebraska,United States,US,Central
+Zhlobin,Homyel',Belarus,EMEA,EMEA
+Iowa City,Iowa,United States,US,Central
+Grand Island,Nebraska,United States,US,Central
+Springdale,Arkansas,United States,US,South
+Keller,Texas,United States,US,Central
+Oak Park,Illinois,United States,US,Central
+Barrie,Ontario,Canada,Canada,Canada
+Sorriso,Mato Grosso,Brazil,LATAM,South
+Millau,Midi-Pyrénées,France,EU,Central
+Atlantic City,New Jersey,United States,US,East
+Al Manaqil,Gezira,Sudan,Africa,Africa
+Romeoville,Illinois,United States,US,Central
+Torremolinos,Andalusía,Spain,EU,South
+Buriticupu,Maranhão,Brazil,LATAM,South
+Fort Portal,Kabarole,Uganda,Africa,Africa
+Vanderbijlpark,Gauteng,South Africa,Africa,Africa
+Tartagal,Salta,Argentina,LATAM,South
+Layton,Utah,United States,US,West
+Elyria,Ohio,United States,US,East
+Jupiter,Florida,United States,US,South
+Everett,Washington,United States,US,West
+Osny,Ile-de-France,France,EU,Central
+Auburn,Washington,United States,US,West
+Ormond Beach,Florida,United States,US,South
+San Luis Obispo,California,United States,US,West
+Abilene,Texas,United States,US,Central
+Felahiye,Kayseri,Turkey,EMEA,EMEA
+Lewiston,Idaho,United States,US,West
+Victoria Falls,Matabeleland North,Zimbabwe,Africa,Africa

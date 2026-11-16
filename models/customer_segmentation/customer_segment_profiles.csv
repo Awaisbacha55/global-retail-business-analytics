@@ -1,0 +1,5 @@
+cluster,customer_count,avg_recency,avg_frequency,avg_monetary,total_revenue,avg_profit,revenue_share_pct,segment_name
+3,518,42.6,25.5,13444.02,6963999.96,1602.02,55.08,Core Growth Customers
+1,288,6.5,26.6,14186.62,4085745.38,1710.62,32.32,Champions (High-Value Loyal)
+0,338,29.2,7.3,2365.26,799456.48,255.86,6.32,Occasional Shoppers
+2,446,228.8,5.4,1778.7,793300.12,131.1,6.27,At-Risk / Lapsed Customers
